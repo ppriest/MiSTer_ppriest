@@ -1,17 +1,22 @@
 {
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
- "timestamp": 1791285661,
+ "timestamp": 1791319627,
  "files": {
+  "_Arcade/Beast Busters - Second Nightmare.mra": {
+   "hash": "59f891b3084d6cc195c781c59c5025a3",
+   "size": 4005,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Beast%20Busters%20-%20Second%20Nightmare.mra"
+  },
   "_Arcade/Best Bout Boxing (ver 1.3).mra": {
    "hash": "378469a7338ef097a5f11bc546ac4cfe",
    "size": 4119,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-JalecoMS32_MiSTer/5e7e43c9f39cb848e8bd675bd5fa8ddd9463d591/releases/Best%20Bout%20Boxing%20%28ver%201.3%29.mra"
   },
   "_Arcade/Buriki One - World Grapple Tournament '99 in Tokyo (rev.B).mra": {
-   "hash": "8b6544a3bc3bf34188f9ed0b436813e3",
-   "size": 4675,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/652059115f35fdefdc89cac506d4b2ed2e625d9f/releases/Buriki%20One%20-%20World%20Grapple%20Tournament%20%2799%20in%20Tokyo%20%28rev.B%29.mra"
+   "hash": "80113f198776e2413eabf1c72af0fd41",
+   "size": 4683,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Buriki%20One%20-%20World%20Grapple%20Tournament%20%2799%20in%20Tokyo%20%28rev.B%29.mra"
   },
   "_Arcade/Chicken Shift (11-23-84).mra": {
    "hash": "95c0b9d166966df71e8c61a7853b4e58",
@@ -49,9 +54,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/0ecb494e2c987d05488be53cfebd4eae7e66ba95/releases/Fantastic%20Journey%20%28ver%20EAA%29.mra"
   },
   "_Arcade/Fatal Fury - Wild Ambition - Garou Densetsu - Wild Ambition (rev.A).mra": {
-   "hash": "b5606cfb6354b60e2de866aa2e851913",
-   "size": 4476,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/652059115f35fdefdc89cac506d4b2ed2e625d9f/releases/Fatal%20Fury%20-%20Wild%20Ambition%20-%20Garou%20Densetsu%20-%20Wild%20Ambition%20%28rev.A%29.mra"
+   "hash": "aeb2689a11ba51b45778ffd1ac73799a",
+   "size": 4484,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Fatal%20Fury%20-%20Wild%20Ambition%20-%20Garou%20Densetsu%20-%20Wild%20Ambition%20%28rev.A%29.mra"
   },
   "_Arcade/Gimme A Break (7-7-85).mra": {
    "hash": "404e392a6173200b62dc424c27708566",
@@ -133,6 +138,11 @@
    "size": 2027,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Rescue%20Raider%20%285-11-87%29%20%28non-cartridge%29.mra"
   },
+  "_Arcade/Roads Edge - Round Trip RV (rev.B).mra": {
+   "hash": "ace754a54e9d8a6b8ada37906e6c0548",
+   "size": 3500,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Roads%20Edge%20-%20Round%20Trip%20RV%20%28rev.B%29.mra"
+  },
   "_Arcade/Ryuusei Janshi Kirara Star (ver 1.0, 92047-01 version).mra": {
    "hash": "9836ced25f5d2e8687c0216851e4c1c8",
    "size": 3422,
@@ -144,14 +154,14 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/0ecb494e2c987d05488be53cfebd4eae7e66ba95/releases/Salamander%202%20%28ver%20JAA%29.mra"
   },
   "_Arcade/Samurai Shodown 64 - Samurai Spirits - Paewang Jeonseol 64.mra": {
-   "hash": "52871969f144d1b674232a88921c544a",
-   "size": 4628,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/652059115f35fdefdc89cac506d4b2ed2e625d9f/releases/Samurai%20Shodown%2064%20-%20Samurai%20Spirits%20-%20Paewang%20Jeonseol%2064.mra"
+   "hash": "132d4402a30489913038e3b954c2f885",
+   "size": 4636,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Samurai%20Shodown%2064%20-%20Samurai%20Spirits%20-%20Paewang%20Jeonseol%2064.mra"
   },
   "_Arcade/Samurai Shodown 64 - Warriors Rage - Samurai Spirits 2 - Asura Zanmaden.mra": {
-   "hash": "8dfbb6385ae4f278657bc4a0d7976abd",
-   "size": 4950,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/652059115f35fdefdc89cac506d4b2ed2e625d9f/releases/Samurai%20Shodown%2064%20-%20Warriors%20Rage%20-%20Samurai%20Spirits%202%20-%20Asura%20Zanmaden.mra"
+   "hash": "ab3b5f7b861e11cd7bb22bdbc943f3e4",
+   "size": 4958,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Samurai%20Shodown%2064%20-%20Warriors%20Rage%20-%20Samurai%20Spirits%202%20-%20Asura%20Zanmaden.mra"
   },
   "_Arcade/Sente Diagnostic Cartridge.mra": {
    "hash": "37be63d9e16ab95dbd57a021107f0d52",
@@ -277,6 +287,11 @@
    "hash": "f921ded8dc09555e83fa9b434b6e817e",
    "size": 3614,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/0ecb494e2c987d05488be53cfebd4eae7e66ba95/releases/Winning%20Spike%20%28ver%20EAA%29.mra"
+  },
+  "_Arcade/Xtreme Rally - Off Beat Racer!.mra": {
+   "hash": "69290a349fc106e6167e4afe03bb10bf",
+   "size": 3560,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Xtreme%20Rally%20-%20Off%20Beat%20Racer%21.mra"
   },
   "_Arcade/_alternatives/_Crazy Cross (ver EAA)/Taisen Puzzle-dama (ver JAA).mra": {
    "hash": "b0f70180e239964c1c8a6c669d7f0951",
@@ -598,10 +613,10 @@
    "size": 4292548,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Arcade-BallySente_20261004.rbf"
   },
-  "_Arcade/cores/HyperNG64_20261004.rbf": {
-   "hash": "e0b4fbd529916157e09f7c876ebea5fa",
-   "size": 4349928,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/652059115f35fdefdc89cac506d4b2ed2e625d9f/releases/Arcade-HyperNG64_20261004.rbf"
+  "_Arcade/cores/HyperNG64_20261006.rbf": {
+   "hash": "f7b406a8331014cc018b468466fb7a7a",
+   "size": 4406788,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Arcade-HyperNG64_20261006.rbf"
   },
   "_Arcade/cores/JalecoMS32F1_20260926.rbf": {
    "hash": "af2b0984656be6d6476ae0c9eab4f8a9",
