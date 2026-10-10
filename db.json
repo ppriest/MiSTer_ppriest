@@ -1,7 +1,8 @@
 {
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
- "timestamp": 1791620708,
+ "version": 1,
+ "timestamp": 1791622338,
  "files": {
   "_Arcade/Arbalester.mra": {
    "hash": "e4e145922dccb9a91e43f891870e2034",
