@@ -35,8 +35,8 @@ single source of truth and downloads are consistent even while a repository is b
 
 ## Version
 
-`db.json` carries a `version` number that goes up by one for every published build (a run that changes
-the database; unchanged runs keep it). It is also in `status.json` and at the top of `cores.md`.
+`db.json` carries `"version": 1`, the version of the Downloader database format (it is part of the format
+spec, so it stays 1; it is not a build counter).
 
 ## How it updates
 
