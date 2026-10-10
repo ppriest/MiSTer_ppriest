@@ -45,7 +45,9 @@ DEFAULTS = {
     "include_forks": False,
     "strip_prefix": ["Arcade-"],        # removed from build file names, as the official distribution does
     "categories": {},                   # "owner/name": "_Console" | "_Computer" | "_Utility" | "_Other" | "_Arcade"
-    "ignore_paths": r"(^|/)(output_files|sim|docs?|\.github)(/|$)",
+    # not part of a release: build output, simulation, docs, and the work-in-progress folders
+    # `unsupported` and `_dev` (their MRAs would also pull the MRA root up to the repository root)
+    "ignore_paths": r"(^|/)(output_files|sim|docs?|\.github|unsupported|_dev)(/|$)",
     "keep_builds": 1,                   # newest N dated builds kept per core
     "mra_folder": "",                   # put every MRA under _Arcade/<mra_folder>/ ("" = directly in _Arcade)
 }
