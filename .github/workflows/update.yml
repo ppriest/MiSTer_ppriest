@@ -2,16 +2,13 @@ name: Update database
 
 on:
   schedule:
-    - cron: "23 4 * * *"          # daily, 04:23 UTC
+    - cron: "30 4 * * *"          # daily, 04:30 UTC; the coverage refresh follows at 05:00
   workflow_dispatch:
     inputs:
       force:
         description: "Publish even if nothing changed"
         type: boolean
         default: false
-  push:
-    branches: [main]
-    paths: [build_db.py, config.json, .github/workflows/update.yml]
 
 permissions:
   contents: write
