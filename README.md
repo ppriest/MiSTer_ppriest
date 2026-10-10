@@ -33,6 +33,11 @@ Nothing is copied into this repository. Each file entry carries its md5, its siz
 raw.githubusercontent.com URL pinned to the commit it was read from, so the source repositories remain the
 single source of truth and downloads are consistent even while a repository is being pushed to.
 
+## Version
+
+`db.json` carries a `version` number that goes up by one for every published build (a run that changes
+the database; unchanged runs keep it). It is also in `status.json` and at the top of `cores.md`.
+
 ## How it updates
 
 `.github/workflows/update.yml` runs daily (and on demand from the Actions tab, and when the script or

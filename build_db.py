@@ -192,7 +192,7 @@ def scan_repo(full: str, work: str, cfg: dict, cache: dict) -> dict | None:
 # database
 # ---------------------------------------------------------------------------------------------
 
-def assemble(scans: list[dict], db_id: str, db_url: str) -> dict:
+def assemble(scans: list[dict], db_id: str, db_url: str, version: int = 0) -> dict:
     files: dict[str, dict] = {}
     for s in sorted(scans, key=lambda s: s["repo"].lower()):
         for dest, e in s["files"].items():
@@ -205,7 +205,7 @@ def assemble(scans: list[dict], db_id: str, db_url: str) -> dict:
         parts = dest.split("/")[:-1]
         for i in range(1, len(parts) + 1):
             folders["/".join(parts[:i])] = {}
-    return {"db_id": db_id, "db_url": db_url, "timestamp": int(dt.datetime.now(dt.timezone.utc).timestamp()),
+    return {"db_id": db_id, "db_url": db_url, "version": version, "timestamp": int(dt.datetime.now(dt.timezone.utc).timestamp()),
             "files": dict(sorted(files.items())), "folders": dict(sorted(folders.items()))}
 
 
@@ -229,7 +229,7 @@ def write_json(path: str, obj, **kw):
 
 
 def cores_markdown(scans: list[dict], db: dict, when: str) -> str:
-    lines = [f"# Cores in this database", "", f"Updated {when}. {len(db['files'])} files from {len(scans)} repositories.", "",
+    lines = [f"# Cores in this database", "", f"Updated {when}. Version {db['version']}. {len(db['files'])} files from {len(scans)} repositories.", "",
              "| Repository | Builds | Latest build | MRAs |", "|---|---|---|---|"]
     for s in sorted(scans, key=lambda s: s["repo"].lower()):
         names = ", ".join(f"`{n}`" for n, _ in s["builds"])
@@ -287,8 +287,11 @@ def main() -> int:
     old = load_json(os.path.join(a.out, "db.json"), {})
     now = dt.datetime.now(dt.timezone.utc)
     status = load_json(os.path.join(a.out, "status.json"), {})
-    changed = signature(new) != signature(old)
+    # a database written before versions existed counts as changed, so it gets version 1 at once
+    changed = signature(new) != signature(old) or "version" not in old
     if changed or a.force:
+        new["version"] = int(old.get("version") or 0) + 1      # +1 for every published build
+        status["version"] = new["version"]
         write_json(os.path.join(a.out, "db.json"), new, indent=1)
         with zipfile.ZipFile(os.path.join(a.out, "db.json.zip"), "w", zipfile.ZIP_DEFLATED) as z:
             z.writestr("db.json", json.dumps(new, ensure_ascii=False, indent=1) + "\n")
@@ -304,7 +307,8 @@ def main() -> int:
     if changed or a.force or last is None or (now - last).days >= 30:
         status["checked"] = now.isoformat(timespec="seconds")
     write_json(os.path.join(a.out, "status.json"), status, indent=1)
-    print("database changed" if changed else "database unchanged", f"({len(new['files'])} files)")
+    print("database changed" if changed else "database unchanged",
+          f"(version {new['version'] if changed or a.force else old.get('version')}, {len(new['files'])} files)")
     return 0
 
 
