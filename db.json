@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "version": 1,
- "timestamp": 1791716320,
+ "timestamp": 1791807670,
  "files": {
   "_Arcade/Age Of Heroes - Silkroad 2 (v0.63 - 2001-02-07).mra": {
    "hash": "b63fdfeb68471e6ac1df6719079b2211",
@@ -50,9 +50,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Buriki%20One%20-%20World%20Grapple%20Tournament%20%2799%20in%20Tokyo%20%28rev.B%29.mra"
   },
   "_Arcade/Candy Candy.mra": {
-   "hash": "f8609826eaf22fad824a0eb30ccf0217",
-   "size": 3462,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Candy%20Candy.mra"
+   "hash": "f8b2240ea5a5310a0b2f3985900bde95",
+   "size": 3563,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Candy%20Candy.mra"
   },
   "_Arcade/Chicken Shift (11-23-84).mra": {
    "hash": "95c0b9d166966df71e8c61a7853b4e58",
@@ -70,9 +70,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/9ce1424a389caa4d16c79d9c35153f415c5a2fbb/releases/Crazy%20Cross%20%28ver%20EAA%29.mra"
   },
   "_Arcade/Crazy War.mra": {
-   "hash": "a23bf98de17e339b7e152e3e9e0a5071",
-   "size": 2727,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Crazy%20War.mra"
+   "hash": "739aa44dd32cb6da136b3eaeebd4c266",
+   "size": 2828,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Crazy%20War.mra"
   },
   "_Arcade/Daioh.mra": {
    "hash": "b703443cf206214c16ce0b241ee804ec",
@@ -145,9 +145,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/94e773ff68c8904c3a52f40162116c77d567f07e/releases/Final%20Godori%20%28Korea%2C%20version%202.20.5915%29.mra"
   },
   "_Arcade/Fortress 2 Blue Arcade (World) (ver 1.01 - pcb ver 3.05).mra": {
-   "hash": "c35fa8e0e51d8efaa1f8ff49df7d37b2",
-   "size": 3029,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Fortress%202%20Blue%20Arcade%20%28World%29%20%28ver%201.01%20-%20pcb%20ver%203.05%29.mra"
+   "hash": "dcddb5499671af2dd6e9f2b11ec5f2b3",
+   "size": 3130,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Fortress%202%20Blue%20Arcade%20%28World%29%20%28ver%201.01%20-%20pcb%20ver%203.05%29.mra"
   },
   "_Arcade/Genix Family.mra": {
    "hash": "ee44fed46140919579eb6adc4d1196c6",
@@ -195,24 +195,24 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-JalecoMS32_MiSTer/4bba751ba18c5ff1293c1c711cda911aa6368bb6/releases/Hayaoshi%20Quiz%20Nettou%20Namahousou%20%28ver%201.5%29.mra"
   },
   "_Arcade/Hidden Catch (World) - Tul Lin Gu Lim Chat Ki '98 (Korea) (pcb ver 3.03).mra": {
-   "hash": "ded4326376ca07cf28e4718956d4ca54",
-   "size": 2457,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Hidden%20Catch%20%28World%29%20-%20Tul%20Lin%20Gu%20Lim%20Chat%20Ki%20%2798%20%28Korea%29%20%28pcb%20ver%203.03%29.mra"
+   "hash": "b36674c2341a3d22cc7c392b4f383ff4",
+   "size": 2558,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Hidden%20Catch%20%28World%29%20-%20Tul%20Lin%20Gu%20Lim%20Chat%20Ki%20%2798%20%28Korea%29%20%28pcb%20ver%203.03%29.mra"
   },
   "_Arcade/Hidden Catch 2 (pcb ver 3.03) (Kor-Eng) (AT89c52 protected).mra": {
-   "hash": "27a23cda9bf8657e7573eaef64440533",
-   "size": 3279,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Hidden%20Catch%202%20%28pcb%20ver%203.03%29%20%28Kor-Eng%29%20%28AT89c52%20protected%29.mra"
+   "hash": "955ba41e78264537edc4d9982f4542a9",
+   "size": 3380,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Hidden%20Catch%202%20%28pcb%20ver%203.03%29%20%28Kor-Eng%29%20%28AT89c52%20protected%29.mra"
   },
   "_Arcade/Hidden Catch 2000 (AT89c52 protected).mra": {
-   "hash": "391eb0502ab0b07cc5ff669690d3d2ec",
-   "size": 2699,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Hidden%20Catch%202000%20%28AT89c52%20protected%29.mra"
+   "hash": "e9db9327d32d831775fa526da43b9a47",
+   "size": 2800,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Hidden%20Catch%202000%20%28AT89c52%20protected%29.mra"
   },
   "_Arcade/Hidden Catch 3 (ver 1.00 - pcb ver 3.05).mra": {
-   "hash": "4f0b8cbd8200df254e757efee8de2124",
-   "size": 3047,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Hidden%20Catch%203%20%28ver%201.00%20-%20pcb%20ver%203.05%29.mra"
+   "hash": "55908b4119c054d089291317892a5de1",
+   "size": 4963,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Hidden%20Catch%203%20%28ver%201.00%20-%20pcb%20ver%203.05%29.mra"
   },
   "_Arcade/Idol Janshi Suchie-Pai II (ver 1.1).mra": {
    "hash": "daa02d21f4b6928545fe3dfaaf8b6d56",
@@ -220,9 +220,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-JalecoMS32_MiSTer/4bba751ba18c5ff1293c1c711cda911aa6368bb6/releases/Idol%20Janshi%20Suchie-Pai%20II%20%28ver%201.1%29.mra"
   },
   "_Arcade/Iron Fortress.mra": {
-   "hash": "69b645f960e47ebdac446dfa74a786cd",
-   "size": 2429,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Iron%20Fortress.mra"
+   "hash": "bc06541c00818e22bc2de75326c99f99",
+   "size": 2530,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Iron%20Fortress.mra"
   },
   "_Arcade/J. J. Squawkers.mra": {
    "hash": "5b2b034efb2ab6abe7bead5f4e0c021d",
@@ -235,14 +235,14 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/94e773ff68c8904c3a52f40162116c77d567f07e/releases/Jumping%20Break%20%28set%201%29.mra"
   },
   "_Arcade/KlonDike+.mra": {
-   "hash": "c469721061bae49b270578cfee1d3999",
-   "size": 1410,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/KlonDike%2B.mra"
+   "hash": "5e39e9f521986290709136cc92685c06",
+   "size": 1511,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/KlonDike%2B.mra"
   },
   "_Arcade/Land Breaker (World) - Miss Tang Ja Ru Gi (Korea) (pcb ver 3.02).mra": {
-   "hash": "9eac8ad26029ab2d14b10bbe59081c6a",
-   "size": 3227,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Land%20Breaker%20%28World%29%20-%20Miss%20Tang%20Ja%20Ru%20Gi%20%28Korea%29%20%28pcb%20ver%203.02%29.mra"
+   "hash": "bcbfa9dd5341a81f73295b64524dc5a0",
+   "size": 3328,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Land%20Breaker%20%28World%29%20-%20Miss%20Tang%20Ja%20Ru%20Gi%20%28Korea%29%20%28pcb%20ver%203.02%29.mra"
   },
   "_Arcade/Lethal Enforcers II Gun Fighters (ver EAA).mra": {
    "hash": "1d0d08a4e37e19b86774ea2ee4f112c6",
@@ -250,9 +250,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/9ce1424a389caa4d16c79d9c35153f415c5a2fbb/releases/Lethal%20Enforcers%20II%20Gun%20Fighters%20%28ver%20EAA%29.mra"
   },
   "_Arcade/Linky Pipe.mra": {
-   "hash": "b69a29dd9621e9b4f82185c2ec4b3372",
-   "size": 2503,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Linky%20Pipe.mra"
+   "hash": "989a8ba04bfe3b60773931e339cdb7b2",
+   "size": 2604,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Linky%20Pipe.mra"
   },
   "_Arcade/Mad Shark.mra": {
    "hash": "ed56b040b28780b57b397a4027bb3252",
@@ -315,9 +315,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/94e773ff68c8904c3a52f40162116c77d567f07e/releases/New%20Cross%20Pang%20%28set%201%29.mra"
   },
   "_Arcade/New Hidden Catch (World) - New Tul Lin Gu Lim Chat Ki '98 (Korea) (pcb ver 3.02).mra": {
-   "hash": "85be1866867a9d9d36160f64e13655ad",
-   "size": 2598,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/New%20Hidden%20Catch%20%28World%29%20-%20New%20Tul%20Lin%20Gu%20Lim%20Chat%20Ki%20%2798%20%28Korea%29%20%28pcb%20ver%203.02%29.mra"
+   "hash": "49e4e880339c4105b5edb3540d28890b",
+   "size": 2699,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/New%20Hidden%20Catch%20%28World%29%20-%20New%20Tul%20Lin%20Gu%20Lim%20Chat%20Ki%20%2798%20%28Korea%29%20%28pcb%20ver%203.02%29.mra"
   },
   "_Arcade/Night Stocker (10-6-86).mra": {
    "hash": "4d65b3ad040f06559a49b73a28753347",
@@ -345,9 +345,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/208dc11035f3c9356c5c1005c0005aad14e51239/releases/Pairs%20Love.mra"
   },
   "_Arcade/Penfan Girls - Step1. Mild Mind (set 1).mra": {
-   "hash": "69d9a79ba351c4e5df5ca0674908aeb5",
-   "size": 3132,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Penfan%20Girls%20-%20Step1.%20Mild%20Mind%20%28set%201%29.mra"
+   "hash": "1c89558557a59984b7b08a303b8fb261",
+   "size": 3233,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Penfan%20Girls%20-%20Step1.%20Mild%20Mind%20%28set%201%29.mra"
   },
   "_Arcade/Pirates (set 1).mra": {
    "hash": "a185d475809718763aa32f3bb0b386e8",
@@ -360,9 +360,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/94e773ff68c8904c3a52f40162116c77d567f07e/releases/Poosho%20Poosho.mra"
   },
   "_Arcade/Puzzle King (Dance & Puzzle).mra": {
-   "hash": "5c658fb8a46a8659854d03c26aeb07f7",
-   "size": 3179,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Puzzle%20King%20%28Dance%20%26%20Puzzle%29.mra"
+   "hash": "26dfcb70de603b785704b3bb801f0c3d",
+   "size": 3280,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Puzzle%20King%20%28Dance%20%26%20Puzzle%29.mra"
   },
   "_Arcade/Quiz Kokology 2.mra": {
    "hash": "a450804638edc5c291241d3b04c83dc3",
@@ -373,6 +373,11 @@
    "hash": "dc73339e8ab5e02a5088bdad35f01f8e",
    "size": 2388,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/208dc11035f3c9356c5c1005c0005aad14e51239/releases/Quiz%20Kokology.mra"
+  },
+  "_Arcade/Raccoon World.mra": {
+   "hash": "41a1e633b2b58a2a0dfe24ee635e3b20",
+   "size": 2536,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Raccoon%20World.mra"
   },
   "_Arcade/Racin' Force (ver EAC).mra": {
    "hash": "cd64abd765c8823006ca6f343f460f16",
@@ -475,9 +480,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Spiker%20%286-9-86%29.mra"
   },
   "_Arcade/Steal See.mra": {
-   "hash": "57fadef31a63c55f1bcd7939a8289feb",
-   "size": 3008,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Steal%20See.mra"
+   "hash": "b122a42435584fbf504959c9283f508d",
+   "size": 3109,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Steal%20See.mra"
   },
   "_Arcade/Stocker (3-19-85).mra": {
    "hash": "cb8104dba242025423364b6d2d4ffc9e",
@@ -725,9 +730,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/9ce1424a389caa4d16c79d9c35153f415c5a2fbb/releases/_alternatives/_Fantastic%20Journey%20%28ver%20EAA%29/Gokujou%20Parodius%20Kako%20no%20Eikou%20o%20Motomete%20%28ver%20JAD%29.mra"
   },
   "_Arcade/_alternatives/_Fortress 2 Blue Arcade (World) (ver 1.01 - pcb ver 3.05)/Fortress 2 Blue Arcade (Korea) (ver 1.00 - pcb ver 3.05).mra": {
-   "hash": "29fd2a58c3d936ed48428f2f3f6361a6",
-   "size": 2420,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/_alternatives/_Fortress%202%20Blue%20Arcade%20%28World%29%20%28ver%201.01%20-%20pcb%20ver%203.05%29/Fortress%202%20Blue%20Arcade%20%28Korea%29%20%28ver%201.00%20-%20pcb%20ver%203.05%29.mra"
+   "hash": "518340fd8ee0feaa662334aa67315833",
+   "size": 2521,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/_alternatives/_Fortress%202%20Blue%20Arcade%20%28World%29%20%28ver%201.01%20-%20pcb%20ver%203.05%29/Fortress%202%20Blue%20Arcade%20%28Korea%29%20%28ver%201.00%20-%20pcb%20ver%203.05%29.mra"
   },
   "_Arcade/_alternatives/_Gratia - Second Earth (ver 1.0, 92047-01 version)/Gratia - Second Earth (ver 1.0, 91022-10 version).mra": {
    "hash": "c861e9c2e890d2f799acd5e7e450bca7",
@@ -755,14 +760,14 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-JalecoMS32_MiSTer/4bba751ba18c5ff1293c1c711cda911aa6368bb6/releases/_alternatives/_Hayaoshi%20Quiz%20Nettou%20Namahousou%20%28ver%201.5%29/Hayaoshi%20Quiz%20Nettou%20Namahousou%20%28ver%201.2%29.mra"
   },
   "_Arcade/_alternatives/_Hidden Catch (World) - Tul Lin Gu Lim Chat Ki '98 (Korea) (pcb ver 3.03)/Hidden Catch (World) - Tul Lin Gu Lim Chat Ki '98 (Korea) (pcb ver 3.02).mra": {
-   "hash": "d2b744f35bbb90b7932f3e4fd0d5de61",
-   "size": 2470,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/_alternatives/_Hidden%20Catch%20%28World%29%20-%20Tul%20Lin%20Gu%20Lim%20Chat%20Ki%20%2798%20%28Korea%29%20%28pcb%20ver%203.03%29/Hidden%20Catch%20%28World%29%20-%20Tul%20Lin%20Gu%20Lim%20Chat%20Ki%20%2798%20%28Korea%29%20%28pcb%20ver%203.02%29.mra"
+   "hash": "e72c4f3071b464f186fc4ccdfc25885a",
+   "size": 2571,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/_alternatives/_Hidden%20Catch%20%28World%29%20-%20Tul%20Lin%20Gu%20Lim%20Chat%20Ki%20%2798%20%28Korea%29%20%28pcb%20ver%203.03%29/Hidden%20Catch%20%28World%29%20-%20Tul%20Lin%20Gu%20Lim%20Chat%20Ki%20%2798%20%28Korea%29%20%28pcb%20ver%203.02%29.mra"
   },
   "_Arcade/_alternatives/_Hidden Catch 2 (pcb ver 3.03) (Kor-Eng) (AT89c52 protected)/Hidden Catch 2 (pcb ver 1.00) (Kor-Eng-Jpn-Chi).mra": {
-   "hash": "4f29f3a310bbc85ebc8aa023656f43df",
-   "size": 3202,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/_alternatives/_Hidden%20Catch%202%20%28pcb%20ver%203.03%29%20%28Kor-Eng%29%20%28AT89c52%20protected%29/Hidden%20Catch%202%20%28pcb%20ver%201.00%29%20%28Kor-Eng-Jpn-Chi%29.mra"
+   "hash": "bcf6f601b5f675e3bfd5fc1a721f6794",
+   "size": 3303,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/_alternatives/_Hidden%20Catch%202%20%28pcb%20ver%203.03%29%20%28Kor-Eng%29%20%28AT89c52%20protected%29/Hidden%20Catch%202%20%28pcb%20ver%201.00%29%20%28Kor-Eng-Jpn-Chi%29.mra"
   },
   "_Arcade/_alternatives/_Idol Janshi Suchie-Pai II (ver 1.1)/Idol Janshi Suchie-Pai II (ver 1.0).mra": {
    "hash": "dbcfe9deb1fd05ee7a986017d6b8fe00",
@@ -770,9 +775,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-JalecoMS32_MiSTer/4bba751ba18c5ff1293c1c711cda911aa6368bb6/releases/_alternatives/_Idol%20Janshi%20Suchie-Pai%20II%20%28ver%201.1%29/Idol%20Janshi%20Suchie-Pai%20II%20%28ver%201.0%29.mra"
   },
   "_Arcade/_alternatives/_Iron Fortress/Gongtit Jiucoi Iron Fortress (Hong Kong).mra": {
-   "hash": "bfd91296ea09470137db2e5e16ae38d1",
-   "size": 2516,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/_alternatives/_Iron%20Fortress/Gongtit%20Jiucoi%20Iron%20Fortress%20%28Hong%20Kong%29.mra"
+   "hash": "23176f75b25dd811f16993323cbdaf3c",
+   "size": 2617,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/_alternatives/_Iron%20Fortress/Gongtit%20Jiucoi%20Iron%20Fortress%20%28Hong%20Kong%29.mra"
   },
   "_Arcade/_alternatives/_J. J. Squawkers/J. J. Squawkers (older).mra": {
    "hash": "3eec63a84c48d458844e214a9604f3bd",
@@ -785,14 +790,14 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/94e773ff68c8904c3a52f40162116c77d567f07e/releases/_alternatives/_Jumping%20Break/Jumping%20Break%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Land Breaker (World) - Miss Tang Ja Ru Gi (Korea) (pcb ver 3.02)/Land Breaker (World) - Miss Tang Ja Ru Gi (Korea) (pcb ver 1.0) (AT89c52 protected).mra": {
-   "hash": "93cf01727a5b937d710e1fc3ede8f68f",
-   "size": 2686,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/_alternatives/_Land%20Breaker%20%28World%29%20-%20Miss%20Tang%20Ja%20Ru%20Gi%20%28Korea%29%20%28pcb%20ver%203.02%29/Land%20Breaker%20%28World%29%20-%20Miss%20Tang%20Ja%20Ru%20Gi%20%28Korea%29%20%28pcb%20ver%201.0%29%20%28AT89c52%20protected%29.mra"
+   "hash": "51c9cc891d0f7a943c0008080074f571",
+   "size": 2787,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/_alternatives/_Land%20Breaker%20%28World%29%20-%20Miss%20Tang%20Ja%20Ru%20Gi%20%28Korea%29%20%28pcb%20ver%203.02%29/Land%20Breaker%20%28World%29%20-%20Miss%20Tang%20Ja%20Ru%20Gi%20%28Korea%29%20%28pcb%20ver%201.0%29%20%28AT89c52%20protected%29.mra"
   },
   "_Arcade/_alternatives/_Land Breaker (World) - Miss Tang Ja Ru Gi (Korea) (pcb ver 3.02)/Land Breaker (World) - Miss Tang Ja Ru Gi (Korea) (pcb ver 3.03) (AT89c52 protected).mra": {
-   "hash": "760b6fd14ad61079302b58a16e8df610",
-   "size": 2685,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/_alternatives/_Land%20Breaker%20%28World%29%20-%20Miss%20Tang%20Ja%20Ru%20Gi%20%28Korea%29%20%28pcb%20ver%203.02%29/Land%20Breaker%20%28World%29%20-%20Miss%20Tang%20Ja%20Ru%20Gi%20%28Korea%29%20%28pcb%20ver%203.03%29%20%28AT89c52%20protected%29.mra"
+   "hash": "0c2c610608d54879b162dfb67b3ac2b6",
+   "size": 2786,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/_alternatives/_Land%20Breaker%20%28World%29%20-%20Miss%20Tang%20Ja%20Ru%20Gi%20%28Korea%29%20%28pcb%20ver%203.02%29/Land%20Breaker%20%28World%29%20-%20Miss%20Tang%20Ja%20Ru%20Gi%20%28Korea%29%20%28pcb%20ver%203.03%29%20%28AT89c52%20protected%29.mra"
   },
   "_Arcade/_alternatives/_Lethal Enforcers II Gun Fighters (ver EAA)/Lethal Enforcers II Gun Fighters (ver UAA).mra": {
    "hash": "a65c129db94abb1acd99891354ced890",
@@ -860,9 +865,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-JalecoMS32_MiSTer/4bba751ba18c5ff1293c1c711cda911aa6368bb6/releases/_alternatives/_P-47%20Aces%20%28ver%201.1%29/P-47%20Aces%20%28ver%201.0%29.mra"
   },
   "_Arcade/_alternatives/_Penfan Girls - Step1. Mild Mind (set 1)/Penfan Girls - Step1. Mild Mind (set 2).mra": {
-   "hash": "28336d1b075c7ffb3c76fe17eb3b0674",
-   "size": 3038,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/_alternatives/_Penfan%20Girls%20-%20Step1.%20Mild%20Mind%20%28set%201%29/Penfan%20Girls%20-%20Step1.%20Mild%20Mind%20%28set%202%29.mra"
+   "hash": "c8c6b648fd6462328578d756adec48a4",
+   "size": 3139,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/_alternatives/_Penfan%20Girls%20-%20Step1.%20Mild%20Mind%20%28set%201%29/Penfan%20Girls%20-%20Step1.%20Mild%20Mind%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Pirates/Pirates (set 2).mra": {
    "hash": "7fd0e86250efe57955e845ecb6951cc5",
@@ -1049,10 +1054,10 @@
    "size": 4292548,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Arcade-BallySente_20261004.rbf"
   },
-  "_Arcade/cores/Eolith_20261010.rbf": {
-   "hash": "4f0e678fdbef87ba1426cfdcb92c043f",
-   "size": 4170176,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/04fa12e6dfc6218e3a285e88fc9242b8e40d44de/releases/Arcade-Eolith_20261010.rbf"
+  "_Arcade/cores/Eolith_20261011.rbf": {
+   "hash": "547a0d1b20b7a566e8144b06801c0c10",
+   "size": 4256824,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Arcade-Eolith_20261011.rbf"
   },
   "_Arcade/cores/HyperNG64_20261006.rbf": {
    "hash": "f7b406a8331014cc018b468466fb7a7a",
