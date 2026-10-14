@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "version": 1,
- "timestamp": 1791970821,
+ "timestamp": 1792007114,
  "files": {
   "_Arcade/Age Of Heroes - Silkroad 2 (v0.63 - 2001-02-07).mra": {
    "hash": "b63fdfeb68471e6ac1df6719079b2211",
@@ -153,6 +153,11 @@
    "hash": "dcddb5499671af2dd6e9f2b11ec5f2b3",
    "size": 3130,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Fortress%202%20Blue%20Arcade%20%28World%29%20%28ver%201.01%20-%20pcb%20ver%203.05%29.mra"
+  },
+  "_Arcade/G-Stream G2020.mra": {
+   "hash": "42c3b3537f800b3f930b5f12d67c82ed",
+   "size": 3018,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-GStream_MiSTer/6afffa3b45756d4540a2e7dab1e4e90e1b029c7d/releases/G-Stream%20G2020.mra"
   },
   "_Arcade/Genix Family.mra": {
    "hash": "ee44fed46140919579eb6adc4d1196c6",
@@ -1088,6 +1093,11 @@
    "hash": "547a0d1b20b7a566e8144b06801c0c10",
    "size": 4256824,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Arcade-Eolith_20261011.rbf"
+  },
+  "_Arcade/cores/GStream_20261014.rbf": {
+   "hash": "e151c4312a2f749ebdaef360554746c1",
+   "size": 3478728,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-GStream_MiSTer/6afffa3b45756d4540a2e7dab1e4e90e1b029c7d/releases/Arcade-GStream_20261014.rbf"
   },
   "_Arcade/cores/HyperNG64_20261006.rbf": {
    "hash": "f7b406a8331014cc018b468466fb7a7a",
