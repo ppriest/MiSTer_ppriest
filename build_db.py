@@ -21,6 +21,8 @@ Standard library and git only.
 from __future__ import annotations
 
 import argparse
+import csv
+import io
 import datetime as dt
 import hashlib
 import json
@@ -38,6 +40,8 @@ API = "https://api.github.com"
 RAW = "https://raw.githubusercontent.com"
 DATED = re.compile(r"^(?P<stem>.+?)_(?P<date>\d{8})\.rbf$", re.I)
 
+ZIP_ATTR = re.compile(r"""<rom\b[^>]*?\bzip\s*=\s*["']([^"']+)["']""", re.I | re.S)
+
 DEFAULTS = {
     "owner": None,                      # default: GITHUB_REPOSITORY_OWNER
     "include": [],                      # extra "owner/name" repositories, scanned even if forks
@@ -50,6 +54,14 @@ DEFAULTS = {
     "ignore_paths": r"(^|/)(output_files|sim|docs?|\.github|unsupported|_dev)(/|$)",
     "keep_builds": 1,                   # newest N dated builds kept per core
     "mra_folder": "",                   # put every MRA under _Arcade/<mra_folder>/ ("" = directly in _Arcade)
+    # ROM zips the MRAs name, listed as external files (not copied; downloaded from the archive.org MAME set)
+    "external": {
+        "enabled": True,
+        "dest": "games/mame",
+        "item": "mame-roms-merged_",
+        "folder": "MAME ROMs (merged)",
+        "fallback_csv": "https://raw.githubusercontent.com/meathax/meatcores/main/external_files.csv",
+    },
 }
 
 
@@ -184,7 +196,12 @@ def scan_repo(full: str, work: str, cfg: dict, cache: dict) -> dict | None:
             rel = path[len(root) + 1:] if root else path
             add(f"{top}/{rel}", path, sha, size)
 
-    return {"repo": full, "head": head, "category": category, "files": entries,
+    zips: set[str] = set()
+    for _, sha, _ in mras:
+        text = subprocess.run(["git", "cat-file", "blob", sha], cwd=d, capture_output=True, check=True).stdout.decode("utf-8", "replace")
+        for m in ZIP_ATTR.finditer(text):
+            zips.update(z.strip() for z in m.group(1).split("|") if z.strip().lower().endswith(".zip"))
+    return {"zips": sorted(zips), "repo": full, "head": head, "category": category, "files": entries,
             "builds": [(posixpath.basename(p), dte) for dte, p, _, _ in builds], "mras": len(mras)}
 
 
@@ -195,7 +212,7 @@ def scan_repo(full: str, work: str, cfg: dict, cache: dict) -> dict | None:
 DB_VERSION = 1      # "v": the version of the Downloader database format (a spec field Downloader reads, not a build counter)
 
 
-def assemble(scans: list[dict], db_id: str, db_url: str) -> dict:
+def assemble(scans: list[dict], db_id: str, db_url: str, external: dict[str, dict] | None = None) -> dict:
     files: dict[str, dict] = {}
     for s in sorted(scans, key=lambda s: s["repo"].lower()):
         for dest, e in s["files"].items():
@@ -203,6 +220,8 @@ def assemble(scans: list[dict], db_id: str, db_url: str) -> dict:
                 print(f"warning: {dest} from {s['repo']} collides with an earlier repository; keeping the first", file=sys.stderr)
                 continue
             files[dest] = e
+    for dest, e in (external or {}).items():
+        files.setdefault(dest, e)
     folders: dict[str, dict] = {}
     for dest in files:
         parts = dest.split("/")[:-1]
@@ -210,6 +229,62 @@ def assemble(scans: list[dict], db_id: str, db_url: str) -> dict:
             folders["/".join(parts[:i])] = {}
     return {"db_id": db_id, "db_url": db_url, "v": DB_VERSION, "timestamp": int(dt.datetime.now(dt.timezone.utc).timestamp()),
             "files": dict(sorted(files.items())), "folders": dict(sorted(folders.items()))}
+
+
+def fetch(url: str, timeout: int = 120) -> bytes:
+    req = urllib.request.Request(url, headers={"User-Agent": "mister-db-builder"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read()
+
+
+def rom_index(ext: dict) -> dict[str, tuple[int, str]]:
+    """zip name -> (size, md5) of every zip in the archive.org item, falling back to a published CSV."""
+    index: dict[str, tuple[int, str]] = {}
+    try:
+        meta = json.loads(fetch(f"https://archive.org/metadata/{ext['item']}", 300))
+        prefix = ext["folder"].strip("/") + "/"
+        for f in meta.get("files", []):
+            n = f.get("name", "")
+            if n.startswith(prefix) and n.lower().endswith(".zip") and "/" not in n[len(prefix):] and f.get("md5") and f.get("size"):
+                index[n[len(prefix):]] = (int(f["size"]), f["md5"].lower())
+    except Exception as e:
+        print(f"warning: archive.org metadata unavailable ({e})", file=sys.stderr)
+    if not index and ext.get("fallback_csv"):
+        try:
+            for row in csv.reader(fetch(ext["fallback_csv"]).decode("utf-8").splitlines()[1:]):
+                if len(row) >= 4 and row[2].isdigit() and row[3]:
+                    index[posixpath.basename(row[0])] = (int(row[2]), row[3].lower())
+        except Exception as e:
+            print(f"warning: fallback external list unavailable ({e})", file=sys.stderr)
+    return index
+
+
+def external_files(scans: list[dict], ext: dict, known: dict) -> tuple[dict[str, dict], list[str]]:
+    """Database entries for every ROM zip the scanned MRAs name. `known` is the remembered
+    zip -> [size, md5], updated in place so an archive.org outage never drops entries."""
+    wanted = sorted({z for s in scans for z in s.get("zips", [])}, key=str.lower)
+    if any(z not in known for z in wanted):
+        for z, (size, md5) in rom_index(ext).items():
+            known[z] = [size, md5]
+    base = f"https://archive.org/download/{ext['item']}/{urllib.parse.quote(ext['folder'])}"
+    entries, missing = {}, []
+    for z in wanted:
+        if z not in known:
+            missing.append(z)
+            continue
+        size, md5 = known[z]
+        # overwrite=false: a zip the user already has (from any set) is left alone
+        entries[f"{ext['dest'].strip('/')}/{z}"] = {"hash": md5, "size": size, "url": f"{base}/{urllib.parse.quote(z)}", "overwrite": False}
+    return entries, missing
+
+
+def external_csv(entries: dict[str, dict]) -> str:
+    out = io.StringIO()
+    w = csv.writer(out, lineterminator="\n")
+    w.writerow(["Path in MiSTer", "URL", "Size in bytes (optional but recommended)", "MD5 Hash (optional but recommended)", "Filter Terms (optional)"])
+    for p, e in sorted(entries.items()):
+        w.writerow([p, e["url"], e["size"], e["hash"], ""])
+    return out.getvalue()
 
 
 def signature(db: dict) -> dict:
@@ -286,7 +361,18 @@ def main() -> int:
         print("error: no core repositories found; refusing to publish an empty database", file=sys.stderr)
         return 1
 
-    new = assemble(scans, db_id, db_url)
+    ext = cfg.get("external") or {}
+    ext_entries: dict[str, dict] = {}
+    if ext.get("enabled"):
+        ext = {**DEFAULTS["external"], **ext}
+        known = load_json(os.path.join(a.out, "external_cache.json"), {})
+        ext_entries, missing = external_files(scans, ext, known)
+        write_json(os.path.join(a.out, "external_cache.json"), {z: known[z] for z in sorted(known) if z in {p.rsplit("/", 1)[1] for p in ext_entries}}, indent=0)
+        print(f"{len(ext_entries)} external ROM zips; not in the archive.org set: {len(missing)}")
+        write_json(os.path.join(a.out, "external_missing.json"), missing, indent=0)
+        with open(os.path.join(a.out, "external_files.csv"), "w", encoding="utf-8", newline="") as f:
+            f.write(external_csv(ext_entries))
+    new = assemble(scans, db_id, db_url, ext_entries)
     old = load_json(os.path.join(a.out, "db.json"), {})
     now = dt.datetime.now(dt.timezone.utc)
     status = load_json(os.path.join(a.out, "status.json"), {})

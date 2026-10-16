@@ -46,7 +46,8 @@ config changes). It runs `build_db.py`, which
 1. lists the owner's repositories through the GitHub API,
 2. clones the candidates (tree only, no checkout) and finds the builds and MRAs,
 3. hashes only files it has not seen before (`cache.json` maps git blob ids to md5),
-4. publishes `db.json`, `db.json.zip`, `cores.md`, `cache.json` and `status.json` to the **`db` branch**,
+4. lists every ROM zip the scanned MRAs name (`<rom zip="…">`) as an external file under `games/mame/`, pointing at the archive.org merged MAME set with size and md5 from archive.org's metadata (`overwrite: false`, so zips you already have are left alone); the same list is published as `external_files.csv` (format of [meatcores'](https://github.com/meathax/meatcores/blob/main/external_files.csv)), with zips archive.org lacks in `external_missing.json`,
+5. publishes `db.json`, `db.json.zip`, `cores.md`, `external_files.csv`, `cache.json` and `status.json` to the **`db` branch**,
    but only when a path, hash or size actually changed.
 
 The `db` branch is machine-written; the source lives on `main`.
