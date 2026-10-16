@@ -35,7 +35,7 @@ single source of truth and downloads are consistent even while a repository is b
 
 ## Version
 
-`db.json` carries `"version": 1`, the version of the Downloader database format (it is part of the format
+`db.json` carries `"v": 1`, the version of the Downloader database format (the field Downloader reads; it is part of the format
 spec, so it stays 1; it is not a build counter).
 
 ## How it updates

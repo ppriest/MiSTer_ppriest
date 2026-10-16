@@ -192,7 +192,7 @@ def scan_repo(full: str, work: str, cfg: dict, cache: dict) -> dict | None:
 # database
 # ---------------------------------------------------------------------------------------------
 
-DB_VERSION = 1      # "version" of the Downloader database format (a spec field, not a build counter)
+DB_VERSION = 1      # "v": the version of the Downloader database format (a spec field Downloader reads, not a build counter)
 
 
 def assemble(scans: list[dict], db_id: str, db_url: str) -> dict:
@@ -208,7 +208,7 @@ def assemble(scans: list[dict], db_id: str, db_url: str) -> dict:
         parts = dest.split("/")[:-1]
         for i in range(1, len(parts) + 1):
             folders["/".join(parts[:i])] = {}
-    return {"db_id": db_id, "db_url": db_url, "version": DB_VERSION, "timestamp": int(dt.datetime.now(dt.timezone.utc).timestamp()),
+    return {"db_id": db_id, "db_url": db_url, "v": DB_VERSION, "timestamp": int(dt.datetime.now(dt.timezone.utc).timestamp()),
             "files": dict(sorted(files.items())), "folders": dict(sorted(folders.items()))}
 
 
@@ -290,7 +290,7 @@ def main() -> int:
     old = load_json(os.path.join(a.out, "db.json"), {})
     now = dt.datetime.now(dt.timezone.utc)
     status = load_json(os.path.join(a.out, "status.json"), {})
-    changed = signature(new) != signature(old) or old.get("version") != DB_VERSION   # an older file without it is republished once
+    changed = signature(new) != signature(old) or old.get("v") != DB_VERSION   # an older file without "v" (it used to say "version", which Downloader ignores) is republished once
     if changed or a.force:
         write_json(os.path.join(a.out, "db.json"), new, indent=1)
         with zipfile.ZipFile(os.path.join(a.out, "db.json.zip"), "w", zipfile.ZIP_DEFLATED) as z:
