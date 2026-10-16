@@ -197,11 +197,14 @@ def scan_repo(full: str, work: str, cfg: dict, cache: dict) -> dict | None:
             add(f"{top}/{rel}", path, sha, size)
 
     zips: set[str] = set()
+    groups: set[tuple[str, ...]] = set()
     for _, sha, _ in mras:
         text = subprocess.run(["git", "cat-file", "blob", sha], cwd=d, capture_output=True, check=True).stdout.decode("utf-8", "replace")
         for m in ZIP_ATTR.finditer(text):
-            zips.update(z.strip() for z in m.group(1).split("|") if z.strip().lower().endswith(".zip"))
-    return {"zips": sorted(zips), "repo": full, "head": head, "category": category, "files": entries,
+            names = tuple(z.strip() for z in m.group(1).split("|") if z.strip().lower().endswith(".zip"))
+            zips.update(names)
+            groups.add(names)
+    return {"zips": sorted(zips), "zip_groups": sorted(groups), "repo": full, "head": head, "category": category, "files": entries,
             "builds": [(posixpath.basename(p), dte) for dte, p, _, _ in builds], "mras": len(mras)}
 
 
@@ -267,14 +270,16 @@ def external_files(scans: list[dict], ext: dict, known: dict) -> tuple[dict[str,
         for z, (size, md5) in rom_index(ext).items():
             known[z] = [size, md5]
     base = f"https://archive.org/download/{ext['item']}/{urllib.parse.quote(ext['folder'])}"
-    entries, missing = {}, []
+    entries = {}
     for z in wanted:
         if z not in known:
-            missing.append(z)
             continue
         size, md5 = known[z]
         # overwrite=false: a zip the user already has (from any set) is left alone
         entries[f"{ext['dest'].strip('/')}/{z}"] = {"hash": md5, "size": size, "url": f"{base}/{urllib.parse.quote(z)}", "overwrite": False}
+    # a clone's zip is normally absent from a merged set; the MRA then names its parent too ("clone.zip|parent.zip"),
+    # so a zip only counts as missing when none of the zips in its list is available
+    missing = sorted({g[0] for s in scans for g in s.get("zip_groups", []) if g and not any(z in known for z in g)}, key=str.lower)
     return entries, missing
 
 
