@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1792244701,
+ "timestamp": 1792245824,
  "files": {
   "_Arcade/Age Of Heroes - Silkroad 2 (v0.63 - 2001-02-07).mra": {
    "hash": "b63fdfeb68471e6ac1df6719079b2211",
@@ -20,9 +20,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/208dc11035f3c9356c5c1005c0005aad14e51239/releases/Athena%20no%20Hatena.mra"
   },
   "_Arcade/Baryon - Future Assault (set 1).mra": {
-   "hash": "01950ae3da05c7fdc906fd4d45151ac7",
-   "size": 3034,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/23ec9aa6bba01b2275bc747b475655e353cf8ff1/releases/Baryon%20-%20Future%20Assault%20%28set%201%29.mra"
+   "hash": "2dc289752778608604b50aada36504a7",
+   "size": 3029,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Baryon%20-%20Future%20Assault%20%28set%201%29.mra"
   },
   "_Arcade/Beast Busters - Second Nightmare.mra": {
    "hash": "59f891b3084d6cc195c781c59c5025a3",
@@ -82,7 +82,7 @@
   "_Arcade/Cute Fighter.mra": {
    "hash": "636f0f006e8bbe8ffe8404b21e0d6a44",
    "size": 2808,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/23ec9aa6bba01b2275bc747b475655e353cf8ff1/releases/Cute%20Fighter.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Cute%20Fighter.mra"
   },
   "_Arcade/Daioh.mra": {
    "hash": "b703443cf206214c16ce0b241ee804ec",
@@ -127,7 +127,7 @@
   "_Arcade/Dream World.mra": {
    "hash": "1ed78893ac97127070c767007dc4482e",
    "size": 2553,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/23ec9aa6bba01b2275bc747b475655e353cf8ff1/releases/Dream%20World.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Dream%20World.mra"
   },
   "_Arcade/Dynamite Bomber (Korea, Rev 1.5).mra": {
    "hash": "39f6593028ae84b298ffdb0fda20bf55",
@@ -177,7 +177,7 @@
   "_Arcade/Gaia - The Last Choice of Earth.mra": {
    "hash": "0da7cf978ea811b605b79df85d6962ba",
    "size": 2909,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/23ec9aa6bba01b2275bc747b475655e353cf8ff1/releases/Gaia%20-%20The%20Last%20Choice%20of%20Earth.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Gaia%20-%20The%20Last%20Choice%20of%20Earth.mra"
   },
   "_Arcade/Genix Family.mra": {
    "hash": "ee44fed46140919579eb6adc4d1196c6",
@@ -442,7 +442,7 @@
   "_Arcade/Rolling Crush (version 1.07.E - 1999-02-11, Trust license).mra": {
    "hash": "2eeb1d90a39e9591cbaa1eb625f2ac65",
    "size": 3081,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/23ec9aa6bba01b2275bc747b475655e353cf8ff1/releases/Rolling%20Crush%20%28version%201.07.E%20-%201999-02-11%2C%20Trust%20license%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Rolling%20Crush%20%28version%201.07.E%20-%201999-02-11%2C%20Trust%20license%29.mra"
   },
   "_Arcade/Run and Gun 2 (ver UAA).mra": {
    "hash": "5d5c03f2d9591d2377907ed6b264c2d9",
@@ -725,9 +725,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/208dc11035f3c9356c5c1005c0005aad14e51239/releases/Zombie%20Raid%20%289-28-95%2C%20US%29.mra"
   },
   "_Arcade/_alternatives/_Baryon - Future Assault (set 1)/Baryon - Future Assault (set 2).mra": {
-   "hash": "2801b6d0f320be3917ad28b1b9e88745",
-   "size": 3007,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/23ec9aa6bba01b2275bc747b475655e353cf8ff1/releases/_alternatives/_Baryon%20-%20Future%20Assault%20%28set%201%29/Baryon%20-%20Future%20Assault%20%28set%202%29.mra"
+   "hash": "b3210d382b87259579f6bc98f37c53ac",
+   "size": 3002,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/_alternatives/_Baryon%20-%20Future%20Assault%20%28set%201%29/Baryon%20-%20Future%20Assault%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Blandia/Blandia (prototype).mra": {
    "hash": "32e03f32aee7d2c149c2325a8ec8b210",
@@ -952,7 +952,7 @@
   "_Arcade/_alternatives/_Rolling Crush (version 1.07.E - 1999-02-11, Trust license)/Rolling Crush (version 1.03.E - 1999-01-29).mra": {
    "hash": "dc5e54306047dca51cb5e4a026b3814a",
    "size": 2680,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/23ec9aa6bba01b2275bc747b475655e353cf8ff1/releases/_alternatives/_Rolling%20Crush%20%28version%201.07.E%20-%201999-02-11%2C%20Trust%20license%29/Rolling%20Crush%20%28version%201.03.E%20-%201999-01-29%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/_alternatives/_Rolling%20Crush%20%28version%201.07.E%20-%201999-02-11%2C%20Trust%20license%29/Rolling%20Crush%20%28version%201.03.E%20-%201999-01-29%29.mra"
   },
   "_Arcade/_alternatives/_Run and Gun 2 (ver UAA)/Slam Dunk 2 (ver JAA).mra": {
    "hash": "5038b1fffed4de92e4a88af78950b5bb",
@@ -1127,7 +1127,7 @@
   "_Arcade/cores/DreamWorld_20261017.rbf": {
    "hash": "6b9eeb98c90518b2cee7c93f3c203240",
    "size": 3847752,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/23ec9aa6bba01b2275bc747b475655e353cf8ff1/releases/Arcade-DreamWorld_20261017.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Arcade-DreamWorld_20261017.rbf"
   },
   "_Arcade/cores/Eolith_20261011.rbf": {
    "hash": "547a0d1b20b7a566e8144b06801c0c10",
