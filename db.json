@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1792194823,
+ "timestamp": 1792239018,
  "files": {
   "_Arcade/Age Of Heroes - Silkroad 2 (v0.63 - 2001-02-07).mra": {
    "hash": "b63fdfeb68471e6ac1df6719079b2211",
@@ -18,6 +18,11 @@
    "hash": "0f03ada430b3a0e6f853a0128e645698",
    "size": 1715,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/208dc11035f3c9356c5c1005c0005aad14e51239/releases/Athena%20no%20Hatena.mra"
+  },
+  "_Arcade/Baryon - Future Assault (set 1).mra": {
+   "hash": "01950ae3da05c7fdc906fd4d45151ac7",
+   "size": 3034,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/7ebf3db3c767c80ef0c03b885f560962eadb6f32/releases/Baryon%20-%20Future%20Assault%20%28set%201%29.mra"
   },
   "_Arcade/Beast Busters - Second Nightmare.mra": {
    "hash": "59f891b3084d6cc195c781c59c5025a3",
@@ -74,6 +79,11 @@
    "size": 2828,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c8bf860c90b85481ec789fb0460195ec64de5517/releases/Crazy%20War.mra"
   },
+  "_Arcade/Cute Fighter.mra": {
+   "hash": "636f0f006e8bbe8ffe8404b21e0d6a44",
+   "size": 2808,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/7ebf3db3c767c80ef0c03b885f560962eadb6f32/releases/Cute%20Fighter.mra"
+  },
   "_Arcade/Daioh.mra": {
    "hash": "b703443cf206214c16ce0b241ee804ec",
    "size": 2494,
@@ -113,6 +123,11 @@
    "hash": "a552985e741a71b46ad40d04398dfee3",
    "size": 6242,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/Dragoon%20Might%20%28ver%20AAB%29.mra"
+  },
+  "_Arcade/Dream World.mra": {
+   "hash": "1ed78893ac97127070c767007dc4482e",
+   "size": 2553,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/7ebf3db3c767c80ef0c03b885f560962eadb6f32/releases/Dream%20World.mra"
   },
   "_Arcade/Dynamite Bomber (Korea, Rev 1.5).mra": {
    "hash": "39f6593028ae84b298ffdb0fda20bf55",
@@ -158,6 +173,11 @@
    "hash": "42c3b3537f800b3f930b5f12d67c82ed",
    "size": 3018,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-GStream_MiSTer/ed768d3aec480c8bc34dce987d8d2ae6cc49365e/releases/G-Stream%20G2020.mra"
+  },
+  "_Arcade/Gaia - The Last Choice of Earth.mra": {
+   "hash": "7079fddc0945e47aa9d7dbcd9961ff96",
+   "size": 2911,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/7ebf3db3c767c80ef0c03b885f560962eadb6f32/releases/Gaia%20-%20The%20Last%20Choice%20of%20Earth.mra"
   },
   "_Arcade/Genix Family.mra": {
    "hash": "ee44fed46140919579eb6adc4d1196c6",
@@ -418,6 +438,11 @@
    "hash": "ace754a54e9d8a6b8ada37906e6c0548",
    "size": 3500,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Roads%20Edge%20-%20Round%20Trip%20RV%20%28rev.B%29.mra"
+  },
+  "_Arcade/Rolling Crush (version 1.07.E - 1999-02-11, Trust license).mra": {
+   "hash": "0bd7ee33835a5fcf960df7627aa51f29",
+   "size": 3085,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/7ebf3db3c767c80ef0c03b885f560962eadb6f32/releases/Rolling%20Crush%20%28version%201.07.E%20-%201999-02-11%2C%20Trust%20license%29.mra"
   },
   "_Arcade/Run and Gun 2 (ver UAA).mra": {
    "hash": "5d5c03f2d9591d2377907ed6b264c2d9",
@@ -699,6 +724,11 @@
    "size": 2574,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/208dc11035f3c9356c5c1005c0005aad14e51239/releases/Zombie%20Raid%20%289-28-95%2C%20US%29.mra"
   },
+  "_Arcade/_alternatives/_Baryon - Future Assault (set 1)/Baryon - Future Assault (set 2).mra": {
+   "hash": "2801b6d0f320be3917ad28b1b9e88745",
+   "size": 3007,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/7ebf3db3c767c80ef0c03b885f560962eadb6f32/releases/_alternatives/_Baryon%20-%20Future%20Assault%20%28set%201%29/Baryon%20-%20Future%20Assault%20%28set%202%29.mra"
+  },
   "_Arcade/_alternatives/_Blandia/Blandia (prototype).mra": {
    "hash": "32e03f32aee7d2c149c2325a8ec8b210",
    "size": 5004,
@@ -919,6 +949,11 @@
    "size": 2558,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/208dc11035f3c9356c5c1005c0005aad14e51239/releases/_alternatives/_Rezon/Rezon%20%28earlier%29.mra"
   },
+  "_Arcade/_alternatives/_Rolling Crush (version 1.07.E - 1999-02-11, Trust license)/Rolling Crush (version 1.03.E - 1999-01-29).mra": {
+   "hash": "b3f495c410526b47520b64d77a8f48dd",
+   "size": 2684,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/7ebf3db3c767c80ef0c03b885f560962eadb6f32/releases/_alternatives/_Rolling%20Crush%20%28version%201.07.E%20-%201999-02-11%2C%20Trust%20license%29/Rolling%20Crush%20%28version%201.03.E%20-%201999-01-29%29.mra"
+  },
   "_Arcade/_alternatives/_Run and Gun 2 (ver UAA)/Slam Dunk 2 (ver JAA).mra": {
    "hash": "5038b1fffed4de92e4a88af78950b5bb",
    "size": 3945,
@@ -1089,6 +1124,11 @@
    "size": 4292548,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Arcade-BallySente_20261004.rbf"
   },
+  "_Arcade/cores/DreamWorld_20261017.rbf": {
+   "hash": "6b9eeb98c90518b2cee7c93f3c203240",
+   "size": 3847752,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/7ebf3db3c767c80ef0c03b885f560962eadb6f32/releases/Arcade-DreamWorld_20261017.rbf"
+  },
   "_Arcade/cores/Eolith_20261011.rbf": {
    "hash": "547a0d1b20b7a566e8144b06801c0c10",
    "size": 4256824,
@@ -1178,6 +1218,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/atehate.zip",
    "overwrite": false
   },
+  "games/mame/baryon.zip": {
+   "hash": "2d92ba44910951cdc4f84934a4b508b5",
+   "size": 2532933,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/baryon.zip",
+   "overwrite": false
+  },
   "games/mame/bbbxing.zip": {
    "hash": "20ea54376b105cfcf7657897d17dae66",
    "size": 10429741,
@@ -1250,6 +1296,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/cshift.zip",
    "overwrite": false
   },
+  "games/mame/cutefght.zip": {
+   "hash": "aa17f3fc9f7e52fe64677cb172705652",
+   "size": 4309956,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/cutefght.zip",
+   "overwrite": false
+  },
   "games/mame/daioh.zip": {
    "hash": "74c9b667c6ee1f69804eb2948350b4eb",
    "size": 12700846,
@@ -1284,6 +1336,12 @@
    "hash": "2f3778bd25e12bd965831962c6bb3dac",
    "size": 11836268,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/dragoona.zip",
+   "overwrite": false
+  },
+  "games/mame/dreamwld.zip": {
+   "hash": "67c23b22fe5629301f0be817c847e156",
+   "size": 2007956,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/dreamwld.zip",
    "overwrite": false
   },
   "games/mame/drgnunit.zip": {
@@ -1344,6 +1402,12 @@
    "hash": "cf6414869d3ace7fb7141a6a386b9335",
    "size": 14863754,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/fort2b.zip",
+   "overwrite": false
+  },
+  "games/mame/gaialast.zip": {
+   "hash": "7ed26621aaf0951c8a9d415a5b8f7580",
+   "size": 3982955,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gaialast.zip",
    "overwrite": false
   },
   "games/mame/gametngk.zip": {
@@ -1688,6 +1752,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/roadedge.zip",
    "overwrite": false
   },
+  "games/mame/rolcrush.zip": {
+   "hash": "304756a0e59d82379052eeb5ee44e0aa",
+   "size": 4259070,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/rolcrush.zip",
+   "overwrite": false
+  },
   "games/mame/rungun2.zip": {
    "hash": "018f3ded9b9933cb9fb06f7234d43f50",
    "size": 18718562,
@@ -2010,6 +2080,7 @@
  "folders": {
   "_Arcade": {},
   "_Arcade/_alternatives": {},
+  "_Arcade/_alternatives/_Baryon - Future Assault (set 1)": {},
   "_Arcade/_alternatives/_Blandia": {},
   "_Arcade/_alternatives/_Cool Minigame Collection": {},
   "_Arcade/_alternatives/_Crazy Cross (ver EAA)": {},
@@ -2045,6 +2116,7 @@
   "_Arcade/_alternatives/_Racin' Force (ver EAC)": {},
   "_Arcade/_alternatives/_Rescue Raider": {},
   "_Arcade/_alternatives/_Rezon": {},
+  "_Arcade/_alternatives/_Rolling Crush (version 1.07.E - 1999-02-11, Trust license)": {},
   "_Arcade/_alternatives/_Run and Gun 2 (ver UAA)": {},
   "_Arcade/_alternatives/_Ryuusei Janshi Kirara Star (ver 1.0, 92047-01 version)": {},
   "_Arcade/_alternatives/_Salamander 2 (ver JAA)": {},
