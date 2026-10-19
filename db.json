@@ -2,12 +2,12 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1792404643,
+ "timestamp": 1792445943,
  "files": {
   "_Arcade/1942 (PlayChoice-10).mra": {
    "hash": "7090e631306240be76be27bfaea15065",
    "size": 2508,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/1942%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/1942%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Age Of Heroes - Silkroad 2 (v0.63 - 2001-02-07).mra": {
    "hash": "b63fdfeb68471e6ac1df6719079b2211",
@@ -27,7 +27,7 @@
   "_Arcade/Balloon Fight (PlayChoice-10).mra": {
    "hash": "15b3d1c1c2f7ac30461276de1064a955",
    "size": 2533,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Balloon%20Fight%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Balloon%20Fight%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Baryon - Future Assault (set 1).mra": {
    "hash": "2dc289752778608604b50aada36504a7",
@@ -37,17 +37,17 @@
   "_Arcade/Baseball (PlayChoice-10).mra": {
    "hash": "5caf95477d70fe9b388a27c094fd3478",
    "size": 2539,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Baseball%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Baseball%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Baseball Stars- Be a Champ! (PlayChoice-10).mra": {
    "hash": "67ac97d27d2de1c3691497a181b7fd85",
    "size": 2573,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Baseball%20Stars-%20Be%20a%20Champ%21%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Baseball%20Stars-%20Be%20a%20Champ%21%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Bases Loaded (Prototype, PlayChoice-10).mra": {
    "hash": "046df13414c540f46fc824738c529e23",
    "size": 2632,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Bases%20Loaded%20%28Prototype%2C%20PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Bases%20Loaded%20%28Prototype%2C%20PlayChoice-10%29.mra"
   },
   "_Arcade/Beast Busters - Second Nightmare.mra": {
    "hash": "59f891b3084d6cc195c781c59c5025a3",
@@ -87,12 +87,12 @@
   "_Arcade/Captain Sky Hawk (PlayChoice-10).mra": {
    "hash": "27a65236dc0ee56365aca0d805e67c60",
    "size": 2522,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Captain%20Sky%20Hawk%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Captain%20Sky%20Hawk%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Castlevania (PlayChoice-10).mra": {
    "hash": "5a4dc1b2b46d1613ea6221a40d82eb20",
    "size": 2554,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Castlevania%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Castlevania%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Chicken Shift (11-23-84).mra": {
    "hash": "95c0b9d166966df71e8c61a7853b4e58",
@@ -102,12 +102,12 @@
   "_Arcade/Chip'n Dale- Rescue Rangers (PlayChoice-10).mra": {
    "hash": "2f5ec29a367255cc7aa120fefecc034d",
    "size": 2580,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Chip%27n%20Dale-%20Rescue%20Rangers%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Chip%27n%20Dale-%20Rescue%20Rangers%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Contra (PlayChoice-10).mra": {
    "hash": "b6ed52270a28df7144af3c923ab7e620",
    "size": 2549,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Contra%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Contra%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Cool Minigame Collection.mra": {
    "hash": "920164890d255e77d6965fdc2438c4b1",
@@ -157,12 +157,12 @@
   "_Arcade/Double Dragon (PlayChoice-10).mra": {
    "hash": "ced248c6a39e0214076be013cd85f9d1",
    "size": 2539,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Double%20Dragon%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Double%20Dragon%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Double Dribble (PlayChoice-10).mra": {
    "hash": "ca759ea6bd1054e0c8e9f516bf0ed789",
    "size": 2560,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Double%20Dribble%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Double%20Dribble%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/DownTown - Mokugeki (set 1).mra": {
    "hash": "efb110c53367aec83ad5dda96d0d69aa",
@@ -172,7 +172,7 @@
   "_Arcade/Dr. Mario (PlayChoice-10).mra": {
    "hash": "ceaa4dc8c1b14edf48682fc45be4c5d4",
    "size": 2528,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Dr.%20Mario%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Dr.%20Mario%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Dragon Unit - Castle of Dragon.mra": {
    "hash": "a3e976cb42b7bef16c8949c165075dec",
@@ -192,7 +192,7 @@
   "_Arcade/Duck Hunt (PlayChoice-10).mra": {
    "hash": "ab682c8cb9d18510074642835d3b184a",
    "size": 2529,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Duck%20Hunt%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Duck%20Hunt%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Dynamite Bomber (Korea, Rev 1.5).mra": {
    "hash": "39f6593028ae84b298ffdb0fda20bf55",
@@ -207,7 +207,7 @@
   "_Arcade/Excitebike (PlayChoice-10).mra": {
    "hash": "cd31c6a3bdac77b199296ffbe597245e",
    "size": 2525,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Excitebike%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Excitebike%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Extreme Downhill (v1.5).mra": {
    "hash": "e903062225c0e3dbd700bfe12959fa99",
@@ -252,7 +252,7 @@
   "_Arcade/Gauntlet (PlayChoice-10).mra": {
    "hash": "12638c8365ebbd1ee5fb4dac17fbe47c",
    "size": 2580,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Gauntlet%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Gauntlet%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Genix Family.mra": {
    "hash": "ee44fed46140919579eb6adc4d1196c6",
@@ -272,12 +272,12 @@
   "_Arcade/Golf (PlayChoice-10).mra": {
    "hash": "3b7f3e0d175a78acecd3f43e58f15fc7",
    "size": 2519,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Golf%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Golf%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Gradius (PlayChoice-10).mra": {
    "hash": "2097cf602c23acc6c97e558f7a5f014b",
    "size": 2524,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Gradius%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Gradius%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Gratia - Second Earth (ver 1.0, 92047-01 version).mra": {
    "hash": "bd9ef118ff0c00ca3db4baf8cd93b7d0",
@@ -332,7 +332,7 @@
   "_Arcade/Hogan's Alley (PlayChoice-10).mra": {
    "hash": "fc9bb0393b118a7f59625dbfb2d6fff3",
    "size": 2542,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Hogan%27s%20Alley%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Hogan%27s%20Alley%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Idol Janshi Suchie-Pai II (ver 1.1).mra": {
    "hash": "daa02d21f4b6928545fe3dfaaf8b6d56",
@@ -367,7 +367,7 @@
   "_Arcade/Kung Fu (PlayChoice-10).mra": {
    "hash": "51b6b863a1031ec888f310398ae6eb02",
    "size": 2540,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Kung%20Fu%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Kung%20Fu%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Land Breaker (World) - Miss Tang Ja Ru Gi (Korea) (pcb ver 3.02).mra": {
    "hash": "bcbfa9dd5341a81f73295b64524dc5a0",
@@ -378,6 +378,11 @@
    "hash": "2210fb7ff214a6bbacd91c8bf2e5c0a1",
    "size": 3354,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Legend%20of%20Heroes.mra"
+  },
+  "_Arcade/Lethal Enforcers (ver UAE).mra": {
+   "hash": "d35bf52fc7f8a07f89df62ef0ae8c5ed",
+   "size": 2667,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/Lethal%20Enforcers%20%28ver%20UAE%29.mra"
   },
   "_Arcade/Lethal Enforcers II Gun Fighters (ver EAA).mra": {
    "hash": "1d0d08a4e37e19b86774ea2ee4f112c6",
@@ -407,12 +412,12 @@
   "_Arcade/Mario Bros. (PlayChoice-10).mra": {
    "hash": "47d15ede43509d31ac97df3665896dfe",
    "size": 2531,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Mario%20Bros.%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Mario%20Bros.%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Mario's Open Golf (PlayChoice-10).mra": {
    "hash": "2a0e86e319494e910e79554be7305d9d",
    "size": 2497,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Mario%27s%20Open%20Golf%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Mario%27s%20Open%20Golf%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Masked Riders Club Battle Race - Kamen Rider Club Battle Racer.mra": {
    "hash": "225f83296f52dd362b9d749497ab988a",
@@ -422,7 +427,7 @@
   "_Arcade/Mega Man III (PlayChoice-10).mra": {
    "hash": "f1b4a7af2e43a58d9fab39d27fd9025a",
    "size": 2603,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Mega%20Man%20III%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Mega%20Man%20III%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Meta Fox.mra": {
    "hash": "90015369e8e308b14318b6d65687c7d8",
@@ -432,12 +437,12 @@
   "_Arcade/Metroid (PlayChoice-10).mra": {
    "hash": "f6f32bb03ab66bc07b83e6fbb11324fe",
    "size": 2525,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Metroid%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Metroid%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Mike Tyson's Punch-Out!! (PlayChoice-10).mra": {
    "hash": "d645e0ef61c36cba44463f0960027604",
    "size": 2542,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Mike%20Tyson%27s%20Punch-Out%21%21%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Mike%20Tyson%27s%20Punch-Out%21%21%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Mini Golf (set 1).mra": {
    "hash": "addfc95990346f11e9b9d2b4400547a5",
@@ -487,22 +492,22 @@
   "_Arcade/Ninja Gaiden (PlayChoice-10).mra": {
    "hash": "000f6850115d2708bf0d27da84ba7728",
    "size": 2557,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Ninja%20Gaiden%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Ninja%20Gaiden%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Ninja Gaiden Episode II- The Dark Sword of Chaos (PlayChoice-10).mra": {
    "hash": "2bc760792a86707485f03edaf79e97ac",
    "size": 2596,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Ninja%20Gaiden%20Episode%20II-%20The%20Dark%20Sword%20of%20Chaos%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Ninja%20Gaiden%20Episode%20II-%20The%20Dark%20Sword%20of%20Chaos%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Ninja Gaiden Episode III- The Ancient Ship of Doom (PlayChoice-10).mra": {
    "hash": "20699592e5d61244cd714c0085bae1b1",
    "size": 2595,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Ninja%20Gaiden%20Episode%20III-%20The%20Ancient%20Ship%20of%20Doom%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Ninja%20Gaiden%20Episode%20III-%20The%20Ancient%20Ship%20of%20Doom%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Nintendo World Cup (PlayChoice-10).mra": {
    "hash": "c29d25a5a2d97b3853c86f54ddd2423b",
    "size": 2558,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Nintendo%20World%20Cup%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Nintendo%20World%20Cup%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Off the Wall (Sente) (10-16-84).mra": {
    "hash": "ecea1cc7c2bd97450bee960dff925797",
@@ -532,7 +537,7 @@
   "_Arcade/PinBot (PlayChoice-10).mra": {
    "hash": "ea6c2cd7acedf0a6b1ba1f945aca6902",
    "size": 2554,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/PinBot%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/PinBot%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Pirates (set 1).mra": {
    "hash": "a185d475809718763aa32f3bb0b386e8",
@@ -542,7 +547,7 @@
   "_Arcade/PlayChoice-10 (three channels).mra": {
    "hash": "36b066243775096c9f290c579c37aeaa",
    "size": 3615,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/PlayChoice-10%20%28three%20channels%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/PlayChoice-10%20%28three%20channels%29.mra"
   },
   "_Arcade/Poosho Poosho.mra": {
    "hash": "4c9b2546edb4296c7f26315952dca0df",
@@ -552,12 +557,12 @@
   "_Arcade/Power Blade (PlayChoice-10).mra": {
    "hash": "0a7ca785f810c934d706cdbd3cbc9f1c",
    "size": 2559,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Power%20Blade%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Power%20Blade%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Pro Wrestling (PlayChoice-10).mra": {
    "hash": "8d3e4dcf54593168da90a02ba372e2e4",
    "size": 2569,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Pro%20Wrestling%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Pro%20Wrestling%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Puzzle King (Dance & Puzzle).mra": {
    "hash": "26dfcb70de603b785704b3bb801f0c3d",
@@ -577,7 +582,7 @@
   "_Arcade/R.C. Pro-Am (PlayChoice-10).mra": {
    "hash": "021810bf5978ad7ca8663c4bf6e62cf5",
    "size": 2526,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/R.C.%20Pro-Am%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/R.C.%20Pro-Am%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Raccoon World.mra": {
    "hash": "41a1e633b2b58a2a0dfe24ee635e3b20",
@@ -592,12 +597,12 @@
   "_Arcade/Rad Racer (PlayChoice-10).mra": {
    "hash": "39f6cbbef8e3d04fdc787df10e157e40",
    "size": 2525,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Rad%20Racer%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Rad%20Racer%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Rad Racer II (PlayChoice-10).mra": {
    "hash": "494c2d437bddd850cf2ebc42e2567f88",
    "size": 2562,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Rad%20Racer%20II%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Rad%20Racer%20II%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Rescue Raider (5-11-87) (non-cartridge).mra": {
    "hash": "cc9674369e8d073bfb251ad8061c19d9",
@@ -617,7 +622,7 @@
   "_Arcade/Rockin' Kats (PlayChoice-10).mra": {
    "hash": "9a225c56b2edff5eb0a69903375d6732",
    "size": 2560,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Rockin%27%20Kats%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Rockin%27%20Kats%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Rolling Crush (version 1.07.E - 1999-02-11, Trust license).mra": {
    "hash": "2eeb1d90a39e9591cbaa1eb625f2ac65",
@@ -632,7 +637,7 @@
   "_Arcade/Rush'n Attack (PlayChoice-10).mra": {
    "hash": "3ada4db9deb7305e39dab86e9e690845",
    "size": 2559,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Rush%27n%20Attack%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Rush%27n%20Attack%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Rushing Heroes (ver UAB).mra": {
    "hash": "e0b14a32c0a26603288232fe9af6f099",
@@ -642,7 +647,7 @@
   "_Arcade/Rygar (PlayChoice-10).mra": {
    "hash": "997d02d965d556d4bcebb7ea91953dfa",
    "size": 2550,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Rygar%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Rygar%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Ryuusei Janshi Kirara Star (ver 1.0, 92047-01 version).mra": {
    "hash": "9836ced25f5d2e8687c0216851e4c1c8",
@@ -707,7 +712,7 @@
   "_Arcade/Solar Jetman (PlayChoice-10).mra": {
    "hash": "b124d4280ae497dcff68abe8808ef2e8",
    "size": 2488,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Solar%20Jetman%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Solar%20Jetman%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Solitaire (version 2.5).mra": {
    "hash": "6758da674b4412c1ecf3622ecb4a6984",
@@ -757,7 +762,7 @@
   "_Arcade/Super C (PlayChoice-10).mra": {
    "hash": "1e643e6053f34851bcb9f5b5213b650b",
    "size": 2556,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Super%20C%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Super%20C%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Super Lup Lup Puzzle - Zhuan Zhuan Puzzle (version 4.0 - 990518).mra": {
    "hash": "6f5db5d4f4c3a88720521f461289eddf",
@@ -767,17 +772,17 @@
   "_Arcade/Super Mario Bros. (PlayChoice-10).mra": {
    "hash": "5690829c700c325cd08fbe01530bb5cb",
    "size": 2522,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Super%20Mario%20Bros.%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Super%20Mario%20Bros.%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Super Mario Bros. 2 (PlayChoice-10).mra": {
    "hash": "09bb994d1fbe6ac3bdb7455d381d123c",
    "size": 2535,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Super%20Mario%20Bros.%202%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Super%20Mario%20Bros.%202%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Super Mario Bros. 3 (PlayChoice-10).mra": {
    "hash": "8c3a85f4ea04f9c6c68cfcbc4d3ad442",
    "size": 2569,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Super%20Mario%20Bros.%203%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Super%20Mario%20Bros.%203%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Taisen Tokkae-dama (ver JAA).mra": {
    "hash": "2488837c9ff3cec0171a19bda124e039",
@@ -792,22 +797,22 @@
   "_Arcade/Tecmo Bowl (PlayChoice-10).mra": {
    "hash": "a285ad60213656a4fdd54360dcf07e43",
    "size": 2558,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Tecmo%20Bowl%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Tecmo%20Bowl%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Teenage Mutant Ninja Turtles (PlayChoice-10).mra": {
    "hash": "2f96877cbd898b86464814909e9d7f1e",
    "size": 2569,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Teenage%20Mutant%20Ninja%20Turtles%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Teenage%20Mutant%20Ninja%20Turtles%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Teenage Mutant Ninja Turtles II- The Arcade Game (PlayChoice-10).mra": {
    "hash": "be7fec0b3d4bae19df83a665e0b49936",
    "size": 2597,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Teenage%20Mutant%20Ninja%20Turtles%20II-%20The%20Arcade%20Game%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Teenage%20Mutant%20Ninja%20Turtles%20II-%20The%20Arcade%20Game%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Tennis (PlayChoice-10).mra": {
    "hash": "598ba00911984cd8e4d6a9fb61c0ad0a",
    "size": 2526,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Tennis%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Tennis%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Tetris Plus (ver 1.0).mra": {
    "hash": "ea075118c51ef16919b44729f932b15f",
@@ -827,7 +832,7 @@
   "_Arcade/The Goonies (PlayChoice-10).mra": {
    "hash": "2ecf70db1f8fb287bc786af5430eb4af",
    "size": 2529,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/The%20Goonies%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/The%20Goonies%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Thunder & Lightning (set 1).mra": {
    "hash": "249c11e7269d0ecf9dadfa9735052d5d",
@@ -842,7 +847,7 @@
   "_Arcade/Tiny Toon Adventures (prototype) (PlayChoice-10).mra": {
    "hash": "270d9a7bff5f6b520a1a042f58aecf8e",
    "size": 2592,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Tiny%20Toon%20Adventures%20%28prototype%29%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Tiny%20Toon%20Adventures%20%28prototype%29%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/To Heart House.mra": {
    "hash": "c3c41433a740ced6e836ad6281c075b2",
@@ -867,7 +872,7 @@
   "_Arcade/Track & Field (PlayChoice-10).mra": {
    "hash": "cae8752eb8df5711c145545595229833",
    "size": 2561,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Track%20%26%20Field%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Track%20%26%20Field%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Trivial Pursuit (All Star Sports Edition).mra": {
    "hash": "a06c706caa9488098137404ced6f721b",
@@ -902,7 +907,7 @@
   "_Arcade/Trojan (PlayChoice-10).mra": {
    "hash": "bdb33e2edc2e4390f45f4a5e96bbdead",
    "size": 2556,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Trojan%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Trojan%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Twin Bee Yahhoo! (ver JAA).mra": {
    "hash": "0c553b3166dba8e64a9af0a2ae53335c",
@@ -922,7 +927,7 @@
   "_Arcade/Uncle Fester's Quest- The Addams Family (PlayChoice-10).mra": {
    "hash": "cd9ee7d0a57f7b34a579f9a202f15b39",
    "size": 2589,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Uncle%20Fester%27s%20Quest-%20The%20Addams%20Family%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Uncle%20Fester%27s%20Quest-%20The%20Addams%20Family%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Vamf x1-2 (Europe, version 1.1.0908).mra": {
    "hash": "c84b0f62c4ebbeb74b3848a55f64c131",
@@ -937,7 +942,7 @@
   "_Arcade/Volley Ball (PlayChoice-10).mra": {
    "hash": "24993be70bf8cea0b3a7350d93575339",
    "size": 2529,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Volley%20Ball%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Volley%20Ball%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Vs. Janshi Brandnew Stars (Ver 1.1, MegaSystem 32 Version).mra": {
    "hash": "41282ea16664aa43312bb9ed7cc3fd35",
@@ -952,7 +957,7 @@
   "_Arcade/Wild Gunman (PlayChoice-10).mra": {
    "hash": "5053a10670b9ac459d72b0334b4db29d",
    "size": 2540,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Wild%20Gunman%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Wild%20Gunman%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Winning Spike (ver EAA).mra": {
    "hash": "f921ded8dc09555e83fa9b434b6e817e",
@@ -982,7 +987,7 @@
   "_Arcade/Yo! Noid (PlayChoice-10).mra": {
    "hash": "a696f213c8a3e0933c2b3ecb1c468e78",
    "size": 2561,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Yo%21%20Noid%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Yo%21%20Noid%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Yori Jori Kuk Kuk.mra": {
    "hash": "e4f4e05d6084ff31b77814e67486173c",
@@ -1042,7 +1047,7 @@
   "_Arcade/_alternatives/_Dr. Mario/Virus (Dr. Mario prototype, PlayChoice-10).mra": {
    "hash": "0daa876a0e7d85978c8a7785ee12fa2a",
    "size": 2602,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/_alternatives/_Dr.%20Mario/Virus%20%28Dr.%20Mario%20prototype%2C%20PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/_alternatives/_Dr.%20Mario/Virus%20%28Dr.%20Mario%20prototype%2C%20PlayChoice-10%29.mra"
   },
   "_Arcade/_alternatives/_Dragoon Might (ver AAB)/Dragoon Might (ver JAA).mra": {
    "hash": "69817201174c58ec3f6054e35173743e",
@@ -1067,7 +1072,7 @@
   "_Arcade/_alternatives/_Gradius/Gradius (PlayChoice-10, older).mra": {
    "hash": "ea176d7e0e590446b4b54c4c70002eb5",
    "size": 2571,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/_alternatives/_Gradius/Gradius%20%28PlayChoice-10%2C%20older%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/_alternatives/_Gradius/Gradius%20%28PlayChoice-10%2C%20older%29.mra"
   },
   "_Arcade/_alternatives/_Gratia - Second Earth (ver 1.0, 92047-01 version)/Gratia - Second Earth (ver 1.0, 91022-10 version).mra": {
    "hash": "c861e9c2e890d2f799acd5e7e450bca7",
@@ -1153,6 +1158,46 @@
    "hash": "c44c1d00e1af529d375241e903855ae0",
    "size": 5984,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/_alternatives/_Lethal%20Enforcers%20II%20Gun%20Fighters%20%28ver%20EAA%29/Lethal%20Enforcers%20II%20The%20Western%20%28ver%20JAA%29.mra"
+  },
+  "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver EAA).mra": {
+   "hash": "c72853ba8cc44c82581a70701e51bbee",
+   "size": 2364,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAA%29.mra"
+  },
+  "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver EAB).mra": {
+   "hash": "197fad2de0b7b97d6c0a7a6ecb9604e1",
+   "size": 2365,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAB%29.mra"
+  },
+  "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver EAD).mra": {
+   "hash": "39189ee0e3828b47ffb035e2ca07bf52",
+   "size": 2641,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAD%29.mra"
+  },
+  "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver EAE).mra": {
+   "hash": "1c7567fd8135122caa0ff9be11afcc4c",
+   "size": 2365,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAE%29.mra"
+  },
+  "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver JAD).mra": {
+   "hash": "b2efa75bf024bf489274560b3533d960",
+   "size": 2148,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20JAD%29.mra"
+  },
+  "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver UAA).mra": {
+   "hash": "67a3ac2c90aa13cf24c7f931a6e7ecba",
+   "size": 2423,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20UAA%29.mra"
+  },
+  "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver UAB).mra": {
+   "hash": "a76c3851746926bf272512132e69e10b",
+   "size": 2699,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20UAB%29.mra"
+  },
+  "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver unknown, US, hacked-proto).mra": {
+   "hash": "d7e6838ccb63f382b9834feb3b47e0a8",
+   "size": 2446,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20unknown%2C%20US%2C%20hacked-proto%29.mra"
   },
   "_Arcade/_alternatives/_Mahjong Angel Kiss (ver 1.0, 92047-01 version)/Mahjong Angel Kiss (ver 1.0, 92048-01 version).mra": {
    "hash": "b30b39d548a638f6872499b92a165c6d",
@@ -1454,6 +1499,11 @@
    "size": 4511460,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/Arcade-KonamiGX_20261013.rbf"
   },
+  "_Arcade/cores/LethalEnforcers_20261019.rbf": {
+   "hash": "8832040da089e40bdc7ca0611bc76a95",
+   "size": 3515520,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/Arcade-LethalEnforcers_20261019.rbf"
+  },
   "_Arcade/cores/Limenko_20261013.rbf": {
    "hash": "caa4de14b50e5666db12eb5fd14d8e71",
    "size": 4204272,
@@ -1464,10 +1514,10 @@
    "size": 3587848,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-NixPirates_MiSTer/c8945314aae05a7f8b6e6feed7c2b7e50550fec8/releases/Arcade-NixPirates_20261010.rbf"
   },
-  "_Arcade/cores/PlayChoice10_20261019.rbf": {
-   "hash": "0f7a70908cefc1f42470d3872ced8613",
-   "size": 3814624,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2c55c2c9ddbf06f37297014f789bd81eecb077b6/releases/Arcade-PlayChoice10_20261019.rbf"
+  "_Arcade/cores/PlayChoice10_20261020.rbf": {
+   "hash": "3b9c396f91c818211e043850f53497c8",
+   "size": 3772336,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Arcade-PlayChoice10_20261020.rbf"
   },
   "_Arcade/cores/SetaDowntown_20260921.rbf": {
    "hash": "f7b5fca7f7090e4257262b9afd181283",
@@ -1860,6 +1910,12 @@
    "hash": "cc0c10ccb8f4006090d18060dedba3b7",
    "size": 7731481,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/legendoh.zip",
+   "overwrite": false
+  },
+  "games/mame/lethalen.zip": {
+   "hash": "ee313295ed9b4fb3e3e7ef72d6b0a432",
+   "size": 6864665,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/lethalen.zip",
    "overwrite": false
   },
   "games/mame/linkypip.zip": {
@@ -2723,6 +2779,7 @@
   "_Arcade/_alternatives/_Jumping Break": {},
   "_Arcade/_alternatives/_Konami's Open Golf Championship (ver EAE)": {},
   "_Arcade/_alternatives/_Land Breaker (World) - Miss Tang Ja Ru Gi (Korea) (pcb ver 3.02)": {},
+  "_Arcade/_alternatives/_Lethal Enforcers": {},
   "_Arcade/_alternatives/_Lethal Enforcers II Gun Fighters (ver EAA)": {},
   "_Arcade/_alternatives/_Mahjong Angel Kiss (ver 1.0, 92047-01 version)": {},
   "_Arcade/_alternatives/_Mini Golf": {},

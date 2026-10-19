@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-10-19. 498 files from 11 repositories.
+Updated 2026-10-19. 509 files from 12 repositories.
 
 | Repository | Builds | Latest build | MRAs |
 |---|---|---|---|
@@ -11,7 +11,8 @@ Updated 2026-10-19. 498 files from 11 repositories.
 | [ppriest/Arcade-HyperNG64_MiSTer](https://github.com/ppriest/Arcade-HyperNG64_MiSTer) | `Arcade-HyperNG64_20261006.rbf` | 2026-10-06 | 7 |
 | [ppriest/Arcade-JalecoMS32_MiSTer](https://github.com/ppriest/Arcade-JalecoMS32_MiSTer) | `Arcade-JalecoMS32F1_20260926.rbf`, `Arcade-JalecoMS32_20260919.rbf` | 2026-09-26 | 20 |
 | [ppriest/Arcade-KonamiGX_MiSTer](https://github.com/ppriest/Arcade-KonamiGX_MiSTer) | `Arcade-KonamiGXT1_20261013.rbf`, `Arcade-KonamiGXT34_20261011.rbf`, `Arcade-KonamiGX_20261013.rbf` | 2026-10-13 | 40 |
+| [ppriest/Arcade-LethalEnforcers_MiSTer](https://github.com/ppriest/Arcade-LethalEnforcers_MiSTer) | `Arcade-LethalEnforcers_20261019.rbf` | 2026-10-19 | 9 |
 | [ppriest/Arcade-NixPirates_MiSTer](https://github.com/ppriest/Arcade-NixPirates_MiSTer) | `Arcade-NixPirates_20261010.rbf` | 2026-10-10 | 3 |
-| [ppriest/Arcade-PlayChoice10_MiSTer](https://github.com/ppriest/Arcade-PlayChoice10_MiSTer) | `Arcade-PlayChoice10_20261019.rbf` | 2026-10-19 | 57 |
+| [ppriest/Arcade-PlayChoice10_MiSTer](https://github.com/ppriest/Arcade-PlayChoice10_MiSTer) | `Arcade-PlayChoice10_20261020.rbf` | 2026-10-20 | 57 |
 | [ppriest/Arcade-Seta_MiSTer](https://github.com/ppriest/Arcade-Seta_MiSTer) | `Arcade-SetaDowntown_20260921.rbf`, `Arcade-Seta_20260919.rbf` | 2026-09-21 | 43 |
 | [ppriest/Arcade-Vamphalf_MiSTer](https://github.com/ppriest/Arcade-Vamphalf_MiSTer) | `Arcade-Limenko_20261013.rbf`, `Arcade-Vamphalf_20261010.rbf` | 2026-10-13 | 39 |
