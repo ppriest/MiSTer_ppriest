@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-10-21. 558 files from 13 repositories.
+Updated 2026-10-24. 560 files from 14 repositories.
 
 | Repository | Builds | Latest build | MRAs |
 |---|---|---|---|
@@ -17,3 +17,11 @@ Updated 2026-10-21. 558 files from 13 repositories.
 | [ppriest/Arcade-PlayChoice10_MiSTer](https://github.com/ppriest/Arcade-PlayChoice10_MiSTer) | `Arcade-PlayChoice10_20261020.rbf` | 2026-10-20 | 57 |
 | [ppriest/Arcade-Seta_MiSTer](https://github.com/ppriest/Arcade-Seta_MiSTer) | `Arcade-SetaDowntown_20260921.rbf`, `Arcade-Seta_20260919.rbf` | 2026-09-21 | 43 |
 | [ppriest/Arcade-Vamphalf_MiSTer](https://github.com/ppriest/Arcade-Vamphalf_MiSTer) | `Arcade-Limenko_20261013.rbf`, `Arcade-Vamphalf_20261010.rbf` | 2026-10-13 | 39 |
+| [ppriest/MiSTer_ArcadeSoundServer](https://github.com/ppriest/MiSTer_ArcadeSoundServer) |  |  | 0 |
+
+## Other files
+
+| Repository | Installed at |
+|---|---|
+| [ppriest/MiSTer_ArcadeSoundServer](https://github.com/ppriest/MiSTer_ArcadeSoundServer) | `Scripts/arcsnd.sh` |
+| [ppriest/MiSTer_ArcadeSoundServer](https://github.com/ppriest/MiSTer_ArcadeSoundServer) | `games/arcsnd/arcsnd` |
