@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1792855297,
+ "timestamp": 1792855450,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "2e35ca9b40b9ae7c972fb6ec424987c9",
@@ -929,6 +929,11 @@
    "size": 2529,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/The%20Goonies%20%28PlayChoice-10%29.mra"
   },
+  "_Arcade/The Legend of Silkroad.mra": {
+   "hash": "0ea5420938ba1a376391f2e0d476c084",
+   "size": 3457,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Silkroad_MiSTer/e360366ce16b9e26e5c0c46d3a5a198b85447e97/releases/The%20Legend%20of%20Silkroad.mra"
+  },
   "_Arcade/Thunder & Lightning (set 1).mra": {
    "hash": "249c11e7269d0ecf9dadfa9735052d5d",
    "size": 2630,
@@ -1559,6 +1564,11 @@
    "size": 2069,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle/Puzzle%20Bang%20Bang%20%28Korea%2C%20version%202.9%20-%20990108%29.mra"
   },
+  "_Arcade/_alternatives/_The Legend of Silkroad/The Legend of Silkroad (larger ROMs).mra": {
+   "hash": "28a79219e08c3a11c12939ff7197ee09",
+   "size": 3258,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Silkroad_MiSTer/e360366ce16b9e26e5c0c46d3a5a198b85447e97/releases/_alternatives/_The%20Legend%20of%20Silkroad/The%20Legend%20of%20Silkroad%20%28larger%20ROMs%29.mra"
+  },
   "_Arcade/_alternatives/_Thunder & Lightning/Thunder & Lightning (set 2).mra": {
    "hash": "2db3c79bfbf09e16545e1620d4fd7639",
    "size": 2659,
@@ -1728,6 +1738,11 @@
    "hash": "9ff23ed7e86ceca1b5b70d583ee2fbe2",
    "size": 4163520,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/208dc11035f3c9356c5c1005c0005aad14e51239/releases/Arcade-Seta_20260919.rbf"
+  },
+  "_Arcade/cores/Silkroad_20261024.rbf": {
+   "hash": "968686ed21746b544d688076b5dddfc8",
+   "size": 3877744,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Silkroad_MiSTer/e360366ce16b9e26e5c0c46d3a5a198b85447e97/releases/Arcade-Silkroad_20261024.rbf"
   },
   "_Arcade/cores/Vamphalf_20261010.rbf": {
    "hash": "c4f1d48f18dbd4f387ca68a5fa2aa6fa",
@@ -2783,6 +2798,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/shrike.zip",
    "overwrite": false
   },
+  "games/mame/silkroad.zip": {
+   "hash": "4d92c8b4ffa21c46793f3d1148f54a81",
+   "size": 17200006,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/silkroad.zip",
+   "overwrite": false
+  },
   "games/mame/snakepit.zip": {
    "hash": "0a44470ed6ba5ed1edd5576a9c4eb2ad",
    "size": 67157,
@@ -3138,6 +3159,7 @@
   "_Arcade/_alternatives/_Stompin'": {},
   "_Arcade/_alternatives/_Super Bubble 2003": {},
   "_Arcade/_alternatives/_Super Lup Lup Puzzle - Zhuan Zhuan Puzzle": {},
+  "_Arcade/_alternatives/_The Legend of Silkroad": {},
   "_Arcade/_alternatives/_Thunder & Lightning": {},
   "_Arcade/_alternatives/_Thundercade - Twin Formation": {},
   "_Arcade/_alternatives/_Trivial Pursuit": {},
