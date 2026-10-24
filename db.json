@@ -2,12 +2,12 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1792851513,
+ "timestamp": 1792853700,
  "files": {
-  "Scripts/arcsnd.sh": {
+  "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "2e35ca9b40b9ae7c972fb6ec424987c9",
    "size": 1005,
-   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/b8bf198d1210d5379e8d457e2d83191920708499/releases/Scripts/arcsnd.sh"
+   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/3e5e7bff50d23e7aeda82b90be6a499cf3ffc64d/releases/Scripts/arcade_hybridsoundserver.sh"
   },
   "_Arcade/1942 (PlayChoice-10).mra": {
    "hash": "7090e631306240be76be27bfaea15065",
@@ -1697,7 +1697,7 @@
   "games/arcsnd/arcsnd": {
    "hash": "a459b246f57c1cb14cfe907431c774c4",
    "size": 1711472,
-   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/b8bf198d1210d5379e8d457e2d83191920708499/releases/games/arcsnd/arcsnd"
+   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/3e5e7bff50d23e7aeda82b90be6a499cf3ffc64d/releases/games/arcsnd/arcsnd"
   },
   "games/mame/3in1semi.zip": {
    "hash": "e35a0f18c96756217887964544905341",

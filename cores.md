@@ -23,5 +23,5 @@ Updated 2026-10-24. 560 files from 14 repositories.
 
 | Repository | Installed at |
 |---|---|
-| [ppriest/MiSTer_ArcadeSoundServer](https://github.com/ppriest/MiSTer_ArcadeSoundServer) | `Scripts/arcsnd.sh` |
+| [ppriest/MiSTer_ArcadeSoundServer](https://github.com/ppriest/MiSTer_ArcadeSoundServer) | `Scripts/arcade_hybridsoundserver.sh` |
 | [ppriest/MiSTer_ArcadeSoundServer](https://github.com/ppriest/MiSTer_ArcadeSoundServer) | `games/arcsnd/arcsnd` |
