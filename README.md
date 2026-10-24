@@ -70,8 +70,13 @@ changed for a month, the run records a heartbeat in `status.json`, which keeps t
 | `categories` | `{}` | `"owner/name": "_Console"` etc. for repositories that are not arcade cores |
 | `mra_folder` | `""` | put every MRA in `_Arcade/<folder>/` instead of directly in `_Arcade/` |
 | `ignore_paths` | build/doc folders | regular expression of paths to ignore |
+| `extra_files` | `[]` | plain files installed at a path from the SD card's root, from a repository that needs no `.rbf`: `{"repo": "owner/name", "from": "releases", "files": ["Scripts/x.sh", "games/x/x"]}` installs `<from>/<file>` as `<file>` (pinned to the commit, with md5 and size, like the rest) |
 
 Repositories without MRAs go to `_Other` unless `categories` says otherwise.
+
+Besides cores, the database installs **arcsnd**, the arcade sound server of
+[`MiSTer_ArcadeSoundServer`](https://github.com/ppriest/MiSTer_ArcadeSoundServer) (`extra_files`): `Scripts/arcsnd.sh`
+and `games/arcsnd/arcsnd` on the SD card, from that repository's `releases/` folder (listed under "Other files" in `cores.md`).
 
 ## Run it locally
 

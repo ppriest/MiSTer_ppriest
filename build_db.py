@@ -5,7 +5,7 @@
     python build_db.py --out out --repos o/a,o/b       # explicit list, no GitHub API needed
 
 A repository is a core when it is public, not archived, not a fork, and contains at least one
-``.rbf`` build. For each one the newest dated build of every core (``Name_YYYYMMDD.rbf``) and all of
+``.rbf`` build (a repository named in ``extra_files`` also counts, for those files). For each one the newest dated build of every core (``Name_YYYYMMDD.rbf``) and all of
 its ``.mra`` files are listed in the database. Nothing is copied: each file entry points at
 raw.githubusercontent.com pinned to the commit it was read from, with its md5 and size, so the source
 repositories stay the single source of truth.
@@ -54,6 +54,9 @@ DEFAULTS = {
     "ignore_paths": r"(^|/)(output_files|sim|docs?|\.github|unsupported|_dev)(/|$)",
     "keep_builds": 1,                   # newest N dated builds kept per core
     "mra_folder": "",                   # put every MRA under _Arcade/<mra_folder>/ ("" = directly in _Arcade)
+    # plain files installed at a path from the SD card's root, taken from a repository (which needs no .rbf for this): a list of
+    # {"repo": "owner/name", "from": "releases", "files": ["Scripts/x.sh", "games/x/x"]}: <from>/<file> is installed as <file>
+    "extra_files": [],
     # ROM zips the MRAs name, listed as external files (not copied; downloaded from the archive.org MAME set)
     "external": {
         "enabled": True,
@@ -157,9 +160,11 @@ def scan_repo(full: str, work: str, cfg: dict, cache: dict) -> dict | None:
     d = clone(full, work)
     head = git("rev-parse", "HEAD", cwd=d).stdout.strip()
     ignore = re.compile(cfg["ignore_paths"], re.I)
-    files = [f for f in tree(d) if not ignore.search(f[0])]
+    everything = tree(d)
+    files = [f for f in everything if not ignore.search(f[0])]
     rbfs = [f for f in files if f[0].lower().endswith(".rbf")]
-    if not rbfs:
+    extras = [x for x in cfg.get("extra_files") or [] if x["repo"].lower() == full.lower()]
+    if not rbfs and not extras:
         return None
     mras = [f for f in files if f[0].lower().endswith(".mra") and f[2] > 0]
 
@@ -196,6 +201,18 @@ def scan_repo(full: str, work: str, cfg: dict, cache: dict) -> dict | None:
             rel = path[len(root) + 1:] if root else path
             add(f"{top}/{rel}", path, sha, size)
 
+    installed: list[str] = []
+    by_path = {p: (sha, size) for p, sha, size in everything}
+    for x in extras:
+        src = (x.get("from") or "").strip("/")
+        for rel in x["files"]:
+            path = f"{src}/{rel}" if src else rel
+            if path not in by_path:
+                print(f"warning: {full}: extra file {path} not found", file=sys.stderr)
+                continue
+            add(rel, path, *by_path[path])
+            installed.append(rel)
+
     zips: set[str] = set()
     groups: set[tuple[str, ...]] = set()
     for _, sha, _ in mras:
@@ -205,7 +222,7 @@ def scan_repo(full: str, work: str, cfg: dict, cache: dict) -> dict | None:
             zips.update(names)
             groups.add(names)
     return {"zips": sorted(zips), "zip_groups": sorted(groups), "repo": full, "head": head, "category": category, "files": entries,
-            "builds": [(posixpath.basename(p), dte) for dte, p, _, _ in builds], "mras": len(mras)}
+            "builds": [(posixpath.basename(p), dte) for dte, p, _, _ in builds], "mras": len(mras), "extras": installed}
 
 
 # ---------------------------------------------------------------------------------------------
@@ -319,6 +336,10 @@ def cores_markdown(scans: list[dict], db: dict, when: str) -> str:
         latest = max((d for _, d in s["builds"] if d), default="")
         latest = f"{latest[:4]}-{latest[4:6]}-{latest[6:]}" if latest else ""
         lines.append(f"| [{s['repo']}](https://github.com/{s['repo']}) | {names} | {latest} | {s['mras']} |")
+    extras = [(s["repo"], e) for s in sorted(scans, key=lambda s: s["repo"].lower()) for e in s.get("extras") or []]
+    if extras:
+        lines += ["", "## Other files", "", "| Repository | Installed at |", "|---|---|"]
+        lines += [f"| [{r}](https://github.com/{r}) | `{e}` |" for r, e in extras]
     return "\n".join(lines) + "\n"
 
 
@@ -360,7 +381,7 @@ def main() -> int:
             skipped.append(full)
             continue
         scans.append(s)
-        print(f"{full}: {len(s['builds'])} build(s), {s['mras']} MRAs, pinned at {s['head'][:8]}")
+        print(f"{full}: {len(s['builds'])} build(s), {s['mras']} MRAs, {len(s['extras'])} extra file(s), pinned at {s['head'][:8]}")
     print(f"{len(candidates)} candidate repositories, {len(scans)} with a core build; skipped (no .rbf): {', '.join(skipped) or '-'}")
     if not scans:
         print("error: no core repositories found; refusing to publish an empty database", file=sys.stderr)
