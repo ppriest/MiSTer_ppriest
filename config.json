@@ -5,5 +5,8 @@
   "strip_prefix": ["Arcade-"],
   "categories": {},
   "keep_builds": 1,
-  "mra_folder": ""
+  "mra_folder": "",
+  "extra_files": [
+    {"repo": "ppriest/MiSTer_ArcadeSoundServer", "from": "releases", "files": ["Scripts/arcsnd.sh", "games/arcsnd/arcsnd"]}
+  ]
 }
