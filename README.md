@@ -75,7 +75,7 @@ changed for a month, the run records a heartbeat in `status.json`, which keeps t
 Repositories without MRAs go to `_Other` unless `categories` says otherwise.
 
 Besides cores, the database installs **arcsnd**, the arcade sound server of
-[`MiSTer_ArcadeSoundServer`](https://github.com/ppriest/MiSTer_ArcadeSoundServer) (`extra_files`): `Scripts/arcsnd.sh`
+[`MiSTer_ArcadeSoundServer`](https://github.com/ppriest/MiSTer_ArcadeSoundServer) (`extra_files`): `Scripts/arcade_hybridsoundserver.sh`
 and `games/arcsnd/arcsnd` on the SD card, from that repository's `releases/` folder (listed under "Other files" in `cores.md`).
 
 ## Run it locally
