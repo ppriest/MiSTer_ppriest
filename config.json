@@ -7,6 +7,6 @@
   "keep_builds": 1,
   "mra_folder": "",
   "extra_files": [
-    {"repo": "ppriest/MiSTer_ArcadeSoundServer", "from": "releases", "files": ["Scripts/arcsnd.sh", "games/arcsnd/arcsnd"]}
+    {"repo": "ppriest/MiSTer_ArcadeSoundServer", "from": "releases", "files": ["Scripts/arcade_hybridsoundserver.sh", "games/arcsnd/arcsnd"]}
   ]
 }
