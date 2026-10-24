@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1792853700,
+ "timestamp": 1792855297,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "2e35ca9b40b9ae7c972fb6ec424987c9",
@@ -304,6 +304,11 @@
    "size": 2524,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Gradius%20%28PlayChoice-10%29.mra"
   },
+  "_Arcade/Gradius IV Fukkatsu (ver JAC).mra": {
+   "hash": "d817cd92359be239bd27fb309def8f41",
+   "size": 4885,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/Gradius%20IV%20Fukkatsu%20%28ver%20JAC%29.mra"
+  },
   "_Arcade/Gratia - Second Earth (ver 1.0, 92047-01 version).mra": {
    "hash": "bd9ef118ff0c00ca3db4baf8cd93b7d0",
    "size": 3653,
@@ -508,6 +513,11 @@
    "hash": "d824a6bae1eb91f5b4a4815b5f06a5b2",
    "size": 1938,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Mr.%20Kicker%20%28F-E1-16-010%20PCB%29.mra"
+  },
+  "_Arcade/NBA Play By Play (ver UAB).mra": {
+   "hash": "da0c68aa2d92d93c3c3c8015ee65bbec",
+   "size": 2998,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/NBA%20Play%20By%20Play%20%28ver%20UAB%29.mra"
   },
   "_Arcade/Name That Tune (Bally, 3-31-86).mra": {
    "hash": "b2845b5c9e664f17b159142ac87c66c1",
@@ -1179,6 +1189,31 @@
    "size": 2521,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/a1159c555197931f2b3bc7967d39ad74ce4e05b9/releases/_alternatives/_Fortress%202%20Blue%20Arcade%20%28World%29%20%28ver%201.01%20-%20pcb%20ver%203.05%29/Fortress%202%20Blue%20Arcade%20%28Korea%29%20%28ver%201.00%20-%20pcb%20ver%203.05%29.mra"
   },
+  "_Arcade/_alternatives/_Gradius IV/Gradius IV (ver AAA).mra": {
+   "hash": "d621a4da75681c412469aad1380a9816",
+   "size": 4815,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20AAA%29.mra"
+  },
+  "_Arcade/_alternatives/_Gradius IV/Gradius IV (ver AAC).mra": {
+   "hash": "e3496cc054b00de77f1e89fa7eea6420",
+   "size": 4890,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20AAC%29.mra"
+  },
+  "_Arcade/_alternatives/_Gradius IV/Gradius IV (ver UAA).mra": {
+   "hash": "599b66fad9a39ec29602006797ee2a6f",
+   "size": 4815,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20UAA%29.mra"
+  },
+  "_Arcade/_alternatives/_Gradius IV/Gradius IV (ver UAC).mra": {
+   "hash": "b845d8970999595542162dad102e9d34",
+   "size": 4890,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20UAC%29.mra"
+  },
+  "_Arcade/_alternatives/_Gradius IV/Gradius IV Fukkatsu (ver JAA).mra": {
+   "hash": "441d3738ffcf27a5f11da3aa89cda0c6",
+   "size": 4825,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20Fukkatsu%20%28ver%20JAA%29.mra"
+  },
   "_Arcade/_alternatives/_Gradius/Gradius (PlayChoice-10, older).mra": {
    "hash": "ea176d7e0e590446b4b54c4c70002eb5",
    "size": 2571,
@@ -1654,6 +1689,11 @@
    "size": 4511460,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/Arcade-KonamiGX_20261013.rbf"
   },
+  "_Arcade/cores/KonamiHornet_20261024.rbf": {
+   "hash": "4e5a95a51859007b34c7dab896445215",
+   "size": 4666972,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/Arcade-KonamiHornet_20261024.rbf"
+  },
   "_Arcade/cores/LethalEnforcers_20261019.rbf": {
    "hash": "8832040da089e40bdc7ca0611bc76a95",
    "size": 3515520,
@@ -1969,6 +2009,12 @@
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gimeabrk.zip",
    "overwrite": false
   },
+  "games/mame/gradius4.zip": {
+   "hash": "2d129c549f361136ef59263d3b53f92e",
+   "size": 15053534,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gradius4.zip",
+   "overwrite": false
+  },
   "games/mame/gratia.zip": {
    "hash": "b16880e215746eab6756ce26ac61e6aa",
    "size": 12372816,
@@ -2201,6 +2247,12 @@
    "hash": "a29eb7b742c969a960d7aae811b72c62",
    "size": 296189,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/nametune.zip",
+   "overwrite": false
+  },
+  "games/mame/nbapbp.zip": {
+   "hash": "8304bf144909ef09118d91732c58eaf7",
+   "size": 23583164,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/nbapbp.zip",
    "overwrite": false
   },
   "games/mame/neobattl.zip": {
@@ -3042,6 +3094,7 @@
   "_Arcade/_alternatives/_Fantastic Journey (ver EAA)": {},
   "_Arcade/_alternatives/_Fortress 2 Blue Arcade (World) (ver 1.01 - pcb ver 3.05)": {},
   "_Arcade/_alternatives/_Gradius": {},
+  "_Arcade/_alternatives/_Gradius IV": {},
   "_Arcade/_alternatives/_Gratia - Second Earth (ver 1.0, 92047-01 version)": {},
   "_Arcade/_alternatives/_Grudge Match": {},
   "_Arcade/_alternatives/_Gundhara": {},
