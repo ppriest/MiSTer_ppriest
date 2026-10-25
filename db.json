@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1792946893,
+ "timestamp": 1792950303,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "2e35ca9b40b9ae7c972fb6ec424987c9",
@@ -107,7 +107,7 @@
   "_Arcade/Come Back Toto.mra": {
    "hash": "3f5a4ded977cbd61f7fcd57c205310d6",
    "size": 2460,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Come%20Back%20Toto.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Come%20Back%20Toto.mra"
   },
   "_Arcade/Contra (PlayChoice-10).mra": {
    "hash": "637d4d2c7a03664e5ac7bb1799c11208",
@@ -117,12 +117,12 @@
   "_Arcade/Cookie & Bibi 2 (English, set 1).mra": {
    "hash": "e67750346bba23b6b5d873eb6d1a9e2c",
    "size": 2513,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29.mra"
   },
   "_Arcade/Cookie & Bibi 3.mra": {
    "hash": "5d4d729d91d2f53fab718e67f9f3f739",
    "size": 2698,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Cookie%20%26%20Bibi%203.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Cookie%20%26%20Bibi%203.mra"
   },
   "_Arcade/Cool Minigame Collection.mra": {
    "hash": "920164890d255e77d6965fdc2438c4b1",
@@ -252,7 +252,7 @@
   "_Arcade/Final Tetris.mra": {
    "hash": "c907ff3d3c3c3fb0015491aab279ec28",
    "size": 2867,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Final%20Tetris.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Final%20Tetris.mra"
   },
   "_Arcade/Fortress 2 Blue Arcade (World) (ver 1.01 - pcb ver 3.05).mra": {
    "hash": "dcddb5499671af2dd6e9f2b11ec5f2b3",
@@ -322,7 +322,7 @@
   "_Arcade/Gwasuwon (Korea).mra": {
    "hash": "0f5894df4f275c7119df520514f66206",
    "size": 3048,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Gwasuwon%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Gwasuwon%20%28Korea%29.mra"
   },
   "_Arcade/Hat Trick (11-12-84).mra": {
    "hash": "9b05eef6cc3eed30e5e38781bc49ff57",
@@ -367,7 +367,7 @@
   "_Arcade/Hyper Pacman.mra": {
    "hash": "1bf6362b8f2ab2bf1fc0936159d54bb0",
    "size": 2395,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Hyper%20Pacman.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Hyper%20Pacman.mra"
   },
   "_Arcade/Idol Janshi Suchie-Pai II (ver 1.1).mra": {
    "hash": "daa02d21f4b6928545fe3dfaaf8b6d56",
@@ -432,7 +432,7 @@
   "_Arcade/Macheonlu (Korea).mra": {
    "hash": "1ebb0cc7fdd636e923541ecdd7be8ce8",
    "size": 2773,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Macheonlu%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Macheonlu%20%28Korea%29.mra"
   },
   "_Arcade/Mad Shark.mra": {
    "hash": "3b01dae8b6e1dfaba26a574752d83a14",
@@ -527,7 +527,7 @@
   "_Arcade/New HyperMan (3-in-1 with Cookie & Bibi & HyperMan) (set 1).mra": {
    "hash": "87e036d912c85edb6033ce25c2a89471",
    "size": 2427,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29.mra"
   },
   "_Arcade/Night Stocker (10-6-86).mra": {
    "hash": "4d65b3ad040f06559a49b73a28753347",
@@ -612,17 +612,17 @@
   "_Arcade/Puzzle Break (set 1).mra": {
    "hash": "bc7482573fb2775055501521f339bd50",
    "size": 2383,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Puzzle%20Break%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Puzzle%20Break%20%28set%201%29.mra"
   },
   "_Arcade/Puzzle Express More More (Korea).mra": {
    "hash": "16780175a53a16e7ee96374669b5f977",
    "size": 2423,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Puzzle%20Express%20More%20More%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Puzzle%20Express%20More%20More%20%28Korea%29.mra"
   },
   "_Arcade/Puzzle Express More More Plus.mra": {
    "hash": "9b08a6130a28accb8eb29ae2570a7fb4",
    "size": 2452,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Puzzle%20Express%20More%20More%20Plus.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Puzzle%20Express%20More%20More%20Plus.mra"
   },
   "_Arcade/Puzzle King (Dance & Puzzle).mra": {
    "hash": "26dfcb70de603b785704b3bb801f0c3d",
@@ -632,12 +632,12 @@
   "_Arcade/Puzzle King (PacMan 2, Tetris, HyperMan 2, Snow Bros.).mra": {
    "hash": "084215548b050db22c8b97d7c18b53dc",
    "size": 2283,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Puzzle%20King%20%28PacMan%202%2C%20Tetris%2C%20HyperMan%202%2C%20Snow%20Bros.%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Puzzle%20King%20%28PacMan%202%2C%20Tetris%2C%20HyperMan%202%2C%20Snow%20Bros.%29.mra"
   },
   "_Arcade/Puzzle Yutnori (Korea).mra": {
    "hash": "678e4e434f926fde55829b9336c03c77",
    "size": 2336,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Puzzle%20Yutnori%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Puzzle%20Yutnori%20%28Korea%29.mra"
   },
   "_Arcade/Quiz Kokology 2.mra": {
    "hash": "9c5e904d14e00ee0d62866bf0cb4d32c",
@@ -772,7 +772,7 @@
   "_Arcade/Snow Bros. - Nick & Tom (set 1).mra": {
    "hash": "9fd553df924588dff155e1750cebe55d",
    "size": 2368,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29.mra"
   },
   "_Arcade/Soccer Superstars (ver EAC).mra": {
    "hash": "e16e4f7a3774cac52f2d491244089777",
@@ -832,7 +832,7 @@
   "_Arcade/Suhoseong (Korea).mra": {
    "hash": "dbd822d4b22f7660482a2a91e9af8d42",
    "size": 2165,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Suhoseong%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Suhoseong%20%28Korea%29.mra"
   },
   "_Arcade/Super Bubble 2003 (World, Ver 1.0).mra": {
    "hash": "bb56527eed4ac4ff9ef3cb72fc104769",
@@ -867,7 +867,7 @@
   "_Arcade/Sutjaro Haeyo Deluxe (Korea).mra": {
    "hash": "47833cf8f740aa532e2958533597d109",
    "size": 3059,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Sutjaro%20Haeyo%20Deluxe%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Sutjaro%20Haeyo%20Deluxe%20%28Korea%29.mra"
   },
   "_Arcade/Taisen Tokkae-dama (ver JAA).mra": {
    "hash": "2488837c9ff3cec0171a19bda124e039",
@@ -957,7 +957,7 @@
   "_Arcade/Toppy & Rappy.mra": {
    "hash": "a1471209b5d811149bfaed61edb199b1",
    "size": 2631,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Toppy%20%26%20Rappy.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Toppy%20%26%20Rappy.mra"
   },
   "_Arcade/Toy Land Adventure.mra": {
    "hash": "775b37feaf5502c736ee2b57b8878db5",
@@ -1017,7 +1017,7 @@
   "_Arcade/Twinkle (set 1).mra": {
    "hash": "a16f2be61f811b3a6b2900fb10e4b0b8",
    "size": 2462,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Twinkle%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Twinkle%20%28set%201%29.mra"
   },
   "_Arcade/Ultraman Club - Tatakae! Ultraman Kyoudai!!.mra": {
    "hash": "924beef3cfbb31513e8824a32286a15b",
@@ -1117,17 +1117,17 @@
   "_Arcade/_alternatives/_Cookie & Bibi 2 (English, set 1)/Cookie & Bibi 2 (English - Korean).mra": {
    "hash": "bce337e943ebbf30633da7abe4ab2bb6",
    "size": 2451,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%20-%20Korean%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%20-%20Korean%29.mra"
   },
   "_Arcade/_alternatives/_Cookie & Bibi 2 (English, set 1)/Cookie & Bibi 2 (English, set 2).mra": {
    "hash": "fa34bb5e2871aafa4ed82198d8e17fa2",
    "size": 2522,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%202%29.mra"
   },
   "_Arcade/_alternatives/_Cookie & Bibi 2 (English, set 1)/Cookie & Bibi 2 (English, set 3).mra": {
    "hash": "fac259b34b676493d53a5096f74c2f10",
    "size": 2432,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%203%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%203%29.mra"
   },
   "_Arcade/_alternatives/_Cool Minigame Collection/Cool Minigame Collection (Italy).mra": {
    "hash": "2eac06d980faa4b3e8a05c5c22d7b7d9",
@@ -1252,7 +1252,7 @@
   "_Arcade/_alternatives/_Hyper Pacman/Hyper Pacman (bootleg).mra": {
    "hash": "7579acd0402063cc945ebf3a7187a723",
    "size": 2343,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Hyper%20Pacman/Hyper%20Pacman%20%28bootleg%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Hyper%20Pacman/Hyper%20Pacman%20%28bootleg%29.mra"
   },
   "_Arcade/_alternatives/_Idol Janshi Suchie-Pai II (ver 1.1)/Idol Janshi Suchie-Pai II (ver 1.0).mra": {
    "hash": "dbcfe9deb1fd05ee7a986017d6b8fe00",
@@ -1392,7 +1392,7 @@
   "_Arcade/_alternatives/_New HyperMan (3-in-1 with Cookie & Bibi & HyperMan) (set 1)/New HyperMan (3-in-1 with Cookie & Bibi & HyperMan) (set 2).mra": {
    "hash": "75b90dc1eb24ac9ea2c534aef34c741f",
    "size": 2546,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Night Stocker/Night Stocker (8-27-86).mra": {
    "hash": "7fcbe4ab76f07a7079128f4cdc7d1ab5",
@@ -1417,7 +1417,7 @@
   "_Arcade/_alternatives/_Puzzle Break (set 1)/Puzzle Break (set 2).mra": {
    "hash": "d307f4f291924076f60d4f5bc5788e70",
    "size": 2387,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Puzzle%20Break%20%28set%201%29/Puzzle%20Break%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Puzzle%20Break%20%28set%201%29/Puzzle%20Break%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Racin' Force (ver EAC)/Racin' Force (ver UAB).mra": {
    "hash": "7fe3e6b06086694356e40da27817337d",
@@ -1467,27 +1467,27 @@
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (Dooyong license).mra": {
    "hash": "08ce0eb4ee8fcc44e4c6cd1bd737f1b3",
    "size": 2402,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28Dooyong%20license%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28Dooyong%20license%29.mra"
   },
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (Japan).mra": {
    "hash": "558e5b56e18f2c7552186f295da0ae84",
    "size": 2372,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28Japan%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28Japan%29.mra"
   },
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (set 2).mra": {
    "hash": "5d5e8117c017b90d5cea247d4339b907",
    "size": 2389,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (set 3).mra": {
    "hash": "ec9c8df2996a25c5c7f8fe0d757a2908",
    "size": 2385,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%203%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%203%29.mra"
   },
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (set 4).mra": {
    "hash": "0f22f6f743933ecf23b1d82827eef91c",
    "size": 2383,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%204%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%204%29.mra"
   },
   "_Arcade/_alternatives/_Soccer Superstars (ver EAC)/Soccer Superstars (ver AAA).mra": {
    "hash": "77afc8bac47dd8d5b719eaac2f350c3a",
@@ -1587,7 +1587,7 @@
   "_Arcade/_alternatives/_Twinkle (set 1)/Twinkle (set 2).mra": {
    "hash": "c9da27ef2eac01edfe0b29336a1e9a74",
    "size": 2476,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Twinkle%20%28set%201%29/Twinkle%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Twinkle%20%28set%201%29/Twinkle%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Vamf x1-2/Vamf x1-2 (Europe, version 1.0.0903).mra": {
    "hash": "006c2071206c83c91eb148c568cbfdf6",
@@ -1709,10 +1709,10 @@
    "size": 3587848,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-NixPirates_MiSTer/c8945314aae05a7f8b6e6feed7c2b7e50550fec8/releases/Arcade-NixPirates_20261010.rbf"
   },
-  "_Arcade/cores/Pandora_20261021.rbf": {
-   "hash": "510a6c871e817dff10c0d859d5587b9b",
-   "size": 3364736,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Arcade-Pandora_20261021.rbf"
+  "_Arcade/cores/Pandora_20261025.rbf": {
+   "hash": "2dfa72fcdb0fd5cb90465066bcd38658",
+   "size": 3354276,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Arcade-Pandora_20261025.rbf"
   },
   "_Arcade/cores/PlayChoice10_20261020.rbf": {
    "hash": "3b9c396f91c818211e043850f53497c8",

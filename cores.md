@@ -14,7 +14,7 @@ Updated 2026-10-25. 570 files from 16 repositories.
 | [ppriest/Arcade-KonamiHornet_MiSTer](https://github.com/ppriest/Arcade-KonamiHornet_MiSTer) | `Arcade-KonamiHornet_20261025.rbf` | 2026-10-25 | 7 |
 | [ppriest/Arcade-LethalEnforcers_MiSTer](https://github.com/ppriest/Arcade-LethalEnforcers_MiSTer) | `Arcade-LethalEnforcers_20261019.rbf` | 2026-10-19 | 9 |
 | [ppriest/Arcade-NixPirates_MiSTer](https://github.com/ppriest/Arcade-NixPirates_MiSTer) | `Arcade-NixPirates_20261010.rbf` | 2026-10-10 | 3 |
-| [ppriest/Arcade-Pandora_MiSTer](https://github.com/ppriest/Arcade-Pandora_MiSTer) | `Arcade-Pandora_20261021.rbf` | 2026-10-21 | 30 |
+| [ppriest/Arcade-Pandora_MiSTer](https://github.com/ppriest/Arcade-Pandora_MiSTer) | `Arcade-Pandora_20261025.rbf` | 2026-10-25 | 30 |
 | [ppriest/Arcade-PlayChoice10_MiSTer](https://github.com/ppriest/Arcade-PlayChoice10_MiSTer) | `Arcade-PlayChoice10_20261020.rbf` | 2026-10-20 | 57 |
 | [ppriest/Arcade-Seta_MiSTer](https://github.com/ppriest/Arcade-Seta_MiSTer) | `Arcade-SetaDowntown_20260921.rbf`, `Arcade-Seta_20260919.rbf` | 2026-09-21 | 41 |
 | [ppriest/Arcade-Silkroad_MiSTer](https://github.com/ppriest/Arcade-Silkroad_MiSTer) | `Arcade-Silkroad_20261024.rbf` | 2026-10-24 | 2 |
