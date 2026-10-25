@@ -2,12 +2,12 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1792855450,
+ "timestamp": 1792919946,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "2e35ca9b40b9ae7c972fb6ec424987c9",
    "size": 1005,
-   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/3e5e7bff50d23e7aeda82b90be6a499cf3ffc64d/releases/Scripts/arcade_hybridsoundserver.sh"
+   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/0669253c0c8ab1ef9ad4a4392fdec8bb5fea8c78/releases/Scripts/arcade_hybridsoundserver.sh"
   },
   "_Arcade/1942 (PlayChoice-10).mra": {
    "hash": "7090e631306240be76be27bfaea15065",
@@ -57,7 +57,7 @@
   "_Arcade/Beast Busters - Second Nightmare.mra": {
    "hash": "59f891b3084d6cc195c781c59c5025a3",
    "size": 4005,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Beast%20Busters%20-%20Second%20Nightmare.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/70f8613f2378f426513542203a1970c099310848/releases/Beast%20Busters%20-%20Second%20Nightmare.mra"
   },
   "_Arcade/Best Bout Boxing (ver 1.3).mra": {
    "hash": "378469a7338ef097a5f11bc546ac4cfe",
@@ -82,7 +82,7 @@
   "_Arcade/Buriki One - World Grapple Tournament '99 in Tokyo (rev.B).mra": {
    "hash": "80113f198776e2413eabf1c72af0fd41",
    "size": 4683,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Buriki%20One%20-%20World%20Grapple%20Tournament%20%2799%20in%20Tokyo%20%28rev.B%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/70f8613f2378f426513542203a1970c099310848/releases/Buriki%20One%20-%20World%20Grapple%20Tournament%20%2799%20in%20Tokyo%20%28rev.B%29.mra"
   },
   "_Arcade/Candy Candy.mra": {
    "hash": "f8b2240ea5a5310a0b2f3985900bde95",
@@ -247,7 +247,7 @@
   "_Arcade/Fatal Fury - Wild Ambition - Garou Densetsu - Wild Ambition (rev.A).mra": {
    "hash": "aeb2689a11ba51b45778ffd1ac73799a",
    "size": 4484,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Fatal%20Fury%20-%20Wild%20Ambition%20-%20Garou%20Densetsu%20-%20Wild%20Ambition%20%28rev.A%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/70f8613f2378f426513542203a1970c099310848/releases/Fatal%20Fury%20-%20Wild%20Ambition%20-%20Garou%20Densetsu%20-%20Wild%20Ambition%20%28rev.A%29.mra"
   },
   "_Arcade/Final Godori (Korea, version 2.20.5915).mra": {
    "hash": "8fc197655d3e2756d88988e6b8d5fde9",
@@ -305,9 +305,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Gradius%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Gradius IV Fukkatsu (ver JAC).mra": {
-   "hash": "d817cd92359be239bd27fb309def8f41",
-   "size": 4885,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/Gradius%20IV%20Fukkatsu%20%28ver%20JAC%29.mra"
+   "hash": "48cbe1cabd714fde3f01e728841512c2",
+   "size": 4944,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/ed067f8cba69d46158ce75e5b701c0b8b8675c59/releases/Gradius%20IV%20Fukkatsu%20%28ver%20JAC%29.mra"
   },
   "_Arcade/Gratia - Second Earth (ver 1.0, 92047-01 version).mra": {
    "hash": "bd9ef118ff0c00ca3db4baf8cd93b7d0",
@@ -515,9 +515,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Mr.%20Kicker%20%28F-E1-16-010%20PCB%29.mra"
   },
   "_Arcade/NBA Play By Play (ver UAB).mra": {
-   "hash": "da0c68aa2d92d93c3c3c8015ee65bbec",
-   "size": 2998,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/NBA%20Play%20By%20Play%20%28ver%20UAB%29.mra"
+   "hash": "7f44ca68b2a28018be79860c5e81d753",
+   "size": 3072,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/ed067f8cba69d46158ce75e5b701c0b8b8675c59/releases/NBA%20Play%20By%20Play%20%28ver%20UAB%29.mra"
   },
   "_Arcade/Name That Tune (Bally, 3-31-86).mra": {
    "hash": "b2845b5c9e664f17b159142ac87c66c1",
@@ -697,7 +697,7 @@
   "_Arcade/Roads Edge - Round Trip RV (rev.B).mra": {
    "hash": "ace754a54e9d8a6b8ada37906e6c0548",
    "size": 3500,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Roads%20Edge%20-%20Round%20Trip%20RV%20%28rev.B%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/70f8613f2378f426513542203a1970c099310848/releases/Roads%20Edge%20-%20Round%20Trip%20RV%20%28rev.B%29.mra"
   },
   "_Arcade/Rockin' Kats (PlayChoice-10).mra": {
    "hash": "9a225c56b2edff5eb0a69903375d6732",
@@ -747,12 +747,12 @@
   "_Arcade/Samurai Shodown 64 - Samurai Spirits - Paewang Jeonseol 64.mra": {
    "hash": "132d4402a30489913038e3b954c2f885",
    "size": 4636,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Samurai%20Shodown%2064%20-%20Samurai%20Spirits%20-%20Paewang%20Jeonseol%2064.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/70f8613f2378f426513542203a1970c099310848/releases/Samurai%20Shodown%2064%20-%20Samurai%20Spirits%20-%20Paewang%20Jeonseol%2064.mra"
   },
   "_Arcade/Samurai Shodown 64 - Warriors Rage - Samurai Spirits 2 - Asura Zanmaden.mra": {
    "hash": "ab3b5f7b861e11cd7bb22bdbc943f3e4",
    "size": 4958,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Samurai%20Shodown%2064%20-%20Warriors%20Rage%20-%20Samurai%20Spirits%202%20-%20Asura%20Zanmaden.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/70f8613f2378f426513542203a1970c099310848/releases/Samurai%20Shodown%2064%20-%20Warriors%20Rage%20-%20Samurai%20Spirits%202%20-%20Asura%20Zanmaden.mra"
   },
   "_Arcade/Sente Diagnostic Cartridge.mra": {
    "hash": "37be63d9e16ab95dbd57a021107f0d52",
@@ -1092,7 +1092,7 @@
   "_Arcade/Xtreme Rally - Off Beat Racer!.mra": {
    "hash": "69290a349fc106e6167e4afe03bb10bf",
    "size": 3560,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Xtreme%20Rally%20-%20Off%20Beat%20Racer%21.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/70f8613f2378f426513542203a1970c099310848/releases/Xtreme%20Rally%20-%20Off%20Beat%20Racer%21.mra"
   },
   "_Arcade/Yo! Noid (PlayChoice-10).mra": {
    "hash": "a696f213c8a3e0933c2b3ecb1c468e78",
@@ -1195,29 +1195,29 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/a1159c555197931f2b3bc7967d39ad74ce4e05b9/releases/_alternatives/_Fortress%202%20Blue%20Arcade%20%28World%29%20%28ver%201.01%20-%20pcb%20ver%203.05%29/Fortress%202%20Blue%20Arcade%20%28Korea%29%20%28ver%201.00%20-%20pcb%20ver%203.05%29.mra"
   },
   "_Arcade/_alternatives/_Gradius IV/Gradius IV (ver AAA).mra": {
-   "hash": "d621a4da75681c412469aad1380a9816",
-   "size": 4815,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20AAA%29.mra"
+   "hash": "4671786ca225ee880282aab5922dc1f5",
+   "size": 4874,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/ed067f8cba69d46158ce75e5b701c0b8b8675c59/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20AAA%29.mra"
   },
   "_Arcade/_alternatives/_Gradius IV/Gradius IV (ver AAC).mra": {
-   "hash": "e3496cc054b00de77f1e89fa7eea6420",
-   "size": 4890,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20AAC%29.mra"
+   "hash": "dc97be517b676abb8795e6d559234854",
+   "size": 4949,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/ed067f8cba69d46158ce75e5b701c0b8b8675c59/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20AAC%29.mra"
   },
   "_Arcade/_alternatives/_Gradius IV/Gradius IV (ver UAA).mra": {
-   "hash": "599b66fad9a39ec29602006797ee2a6f",
-   "size": 4815,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20UAA%29.mra"
+   "hash": "2d9028d8867736f43550e271be162e77",
+   "size": 4874,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/ed067f8cba69d46158ce75e5b701c0b8b8675c59/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20UAA%29.mra"
   },
   "_Arcade/_alternatives/_Gradius IV/Gradius IV (ver UAC).mra": {
-   "hash": "b845d8970999595542162dad102e9d34",
-   "size": 4890,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20UAC%29.mra"
+   "hash": "908afad102a52c2ca258e7ef9ee081e3",
+   "size": 4949,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/ed067f8cba69d46158ce75e5b701c0b8b8675c59/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20%28ver%20UAC%29.mra"
   },
   "_Arcade/_alternatives/_Gradius IV/Gradius IV Fukkatsu (ver JAA).mra": {
-   "hash": "441d3738ffcf27a5f11da3aa89cda0c6",
-   "size": 4825,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20Fukkatsu%20%28ver%20JAA%29.mra"
+   "hash": "5410835905559b480e7e7435902f1adc",
+   "size": 4884,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/ed067f8cba69d46158ce75e5b701c0b8b8675c59/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20Fukkatsu%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_alternatives/_Gradius/Gradius (PlayChoice-10, older).mra": {
    "hash": "ea176d7e0e590446b4b54c4c70002eb5",
@@ -1672,7 +1672,7 @@
   "_Arcade/cores/HyperNG64_20261006.rbf": {
    "hash": "f7b406a8331014cc018b468466fb7a7a",
    "size": 4406788,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/6111d2a3ce18d282ff940d67be94d73c31d95415/releases/Arcade-HyperNG64_20261006.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/70f8613f2378f426513542203a1970c099310848/releases/Arcade-HyperNG64_20261006.rbf"
   },
   "_Arcade/cores/JalecoMS32F1_20260926.rbf": {
    "hash": "af2b0984656be6d6476ae0c9eab4f8a9",
@@ -1699,10 +1699,10 @@
    "size": 4511460,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/Arcade-KonamiGX_20261013.rbf"
   },
-  "_Arcade/cores/KonamiHornet_20261024.rbf": {
-   "hash": "4e5a95a51859007b34c7dab896445215",
-   "size": 4666972,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/4f27aac1543e68b1c56b5cfd1fb105e22b4e3122/releases/Arcade-KonamiHornet_20261024.rbf"
+  "_Arcade/cores/KonamiHornet_20261025.rbf": {
+   "hash": "3c0765797a49608d1eeea6060122f3ad",
+   "size": 4663412,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/ed067f8cba69d46158ce75e5b701c0b8b8675c59/releases/Arcade-KonamiHornet_20261025.rbf"
   },
   "_Arcade/cores/LethalEnforcers_20261019.rbf": {
    "hash": "8832040da089e40bdc7ca0611bc76a95",
@@ -1752,7 +1752,7 @@
   "games/arcsnd/arcsnd": {
    "hash": "a459b246f57c1cb14cfe907431c774c4",
    "size": 1711472,
-   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/3e5e7bff50d23e7aeda82b90be6a499cf3ffc64d/releases/games/arcsnd/arcsnd"
+   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/0669253c0c8ab1ef9ad4a4392fdec8bb5fea8c78/releases/games/arcsnd/arcsnd"
   },
   "games/mame/3in1semi.zip": {
    "hash": "e35a0f18c96756217887964544905341",
