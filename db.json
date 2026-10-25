@@ -2,12 +2,12 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1792951325,
+ "timestamp": 1792952332,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "2ab9207ca2578536ea229a33c0d09d6b",
    "size": 1023,
-   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/0ad68fff1f538ab34dff50aeb0b7d93e0feff627/releases/Scripts/arcade_hybridsoundserver.sh"
+   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/ed01d766bf0a05af365ef304c6eabd8fd5fbfa1b/releases/Scripts/arcade_hybridsoundserver.sh"
   },
   "_Arcade/1942 (PlayChoice-10).mra": {
    "hash": "1b365318337544df6d5aaa27b4ca7ff1",
@@ -97,7 +97,7 @@
   "_Arcade/Chicken Shift (11-23-84).mra": {
    "hash": "95c0b9d166966df71e8c61a7853b4e58",
    "size": 2185,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Chicken%20Shift%20%2811-23-84%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Chicken%20Shift%20%2811-23-84%29.mra"
   },
   "_Arcade/Chip'n Dale- Rescue Rangers (PlayChoice-10).mra": {
    "hash": "7f92cb69b5698f310d67c981515d74ee",
@@ -282,12 +282,12 @@
   "_Arcade/Gimme A Break (7-7-85).mra": {
    "hash": "404e392a6173200b62dc424c27708566",
    "size": 2416,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Gimme%20A%20Break%20%287-7-85%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Gimme%20A%20Break%20%287-7-85%29.mra"
   },
   "_Arcade/Goalie Ghost.mra": {
    "hash": "6d1351e4692198bd314412b74e9e8318",
    "size": 2282,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Goalie%20Ghost.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Goalie%20Ghost.mra"
   },
   "_Arcade/Golf (PlayChoice-10).mra": {
    "hash": "78e25316e7b793da2ef4ead0f6b4138f",
@@ -312,7 +312,7 @@
   "_Arcade/Grudge Match (v00.90, prototype).mra": {
    "hash": "8c567d87462aaad727bf5fdf457a0431",
    "size": 1483,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Grudge%20Match%20%28v00.90%2C%20prototype%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Grudge%20Match%20%28v00.90%2C%20prototype%29.mra"
   },
   "_Arcade/Gundhara.mra": {
    "hash": "bf08c385518fa2cb6575ce4a38df3659",
@@ -327,7 +327,7 @@
   "_Arcade/Hat Trick (11-12-84).mra": {
    "hash": "9b05eef6cc3eed30e5e38781bc49ff57",
    "size": 1791,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Hat%20Trick%20%2811-12-84%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Hat%20Trick%20%2811-12-84%29.mra"
   },
   "_Arcade/Hayaoshi Quiz Grand Champion Taikai.mra": {
    "hash": "180cd5fcba9c528b594accef726750d3",
@@ -482,7 +482,7 @@
   "_Arcade/Mini Golf (set 1).mra": {
    "hash": "addfc95990346f11e9b9d2b4400547a5",
    "size": 2332,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Mini%20Golf%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Mini%20Golf%20%28set%201%29.mra"
   },
   "_Arcade/Mission Craft (version 2.7).mra": {
    "hash": "d356d24313d541df28068511d212beb6",
@@ -512,7 +512,7 @@
   "_Arcade/Name That Tune (Bally, 3-31-86).mra": {
    "hash": "b2845b5c9e664f17b159142ac87c66c1",
    "size": 3411,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Name%20That%20Tune%20%28Bally%2C%203-31-86%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Name%20That%20Tune%20%28Bally%2C%203-31-86%29.mra"
   },
   "_Arcade/New Cross Pang (set 1).mra": {
    "hash": "e375a72b1b4e449795a8f21bb180ded5",
@@ -532,7 +532,7 @@
   "_Arcade/Night Stocker (10-6-86).mra": {
    "hash": "4d65b3ad040f06559a49b73a28753347",
    "size": 2400,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Night%20Stocker%20%2810-6-86%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Night%20Stocker%20%2810-6-86%29.mra"
   },
   "_Arcade/Ninja Gaiden (PlayChoice-10).mra": {
    "hash": "a80ff04e4c9c01d412b808b0efa93041",
@@ -557,7 +557,7 @@
   "_Arcade/Off the Wall (Sente) (10-16-84).mra": {
    "hash": "ecea1cc7c2bd97450bee960dff925797",
    "size": 2305,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Off%20the%20Wall%20%28Sente%29%20%2810-16-84%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Off%20the%20Wall%20%28Sente%29%20%2810-16-84%29.mra"
   },
   "_Arcade/Oishii Puzzle Ha Irimasenka.mra": {
    "hash": "45a337e6090f81289da81d76b80cb3c1",
@@ -677,7 +677,7 @@
   "_Arcade/Rescue Raider (5-11-87) (non-cartridge).mra": {
    "hash": "cc9674369e8d073bfb251ad8061c19d9",
    "size": 2027,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Rescue%20Raider%20%285-11-87%29%20%28non-cartridge%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Rescue%20Raider%20%285-11-87%29%20%28non-cartridge%29.mra"
   },
   "_Arcade/Rezon.mra": {
    "hash": "2faa1dbfb0d7cddd84f4b48d75a232fe",
@@ -745,9 +745,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/70f8613f2378f426513542203a1970c099310848/releases/Samurai%20Shodown%2064%20-%20Warriors%20Rage%20-%20Samurai%20Spirits%202%20-%20Asura%20Zanmaden.mra"
   },
   "_Arcade/Sente Diagnostic Cartridge.mra": {
-   "hash": "37be63d9e16ab95dbd57a021107f0d52",
+   "hash": "86cf96cf4c42680946d57c3f738e68d7",
    "size": 1735,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Sente%20Diagnostic%20Cartridge.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Sente%20Diagnostic%20Cartridge.mra"
   },
   "_Arcade/Sexy Parodius (ver JAA).mra": {
    "hash": "58230205703185213dd525185db170cd",
@@ -757,17 +757,17 @@
   "_Arcade/Shrike Avenger (prototype).mra": {
    "hash": "430d38735472177b643cfe197de273b7",
    "size": 2736,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Shrike%20Avenger%20%28prototype%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Shrike%20Avenger%20%28prototype%29.mra"
   },
   "_Arcade/Snacks'n Jaxson.mra": {
    "hash": "b1d6ff068ca36647c6905261c13d0620",
    "size": 2194,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Snacks%27n%20Jaxson.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Snacks%27n%20Jaxson.mra"
   },
   "_Arcade/Snake Pit.mra": {
-   "hash": "51615c71bac4a67683646d977192285e",
-   "size": 2253,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Snake%20Pit.mra"
+   "hash": "e6c9cb810cd885dd26e303924eb59c16",
+   "size": 2255,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Snake%20Pit.mra"
   },
   "_Arcade/Snow Bros. - Nick & Tom (set 1).mra": {
    "hash": "9fd553df924588dff155e1750cebe55d",
@@ -797,7 +797,7 @@
   "_Arcade/Spiker (6-9-86).mra": {
    "hash": "ec857d4d30fa879bb7d66c1939b2638b",
    "size": 2408,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Spiker%20%286-9-86%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Spiker%20%286-9-86%29.mra"
   },
   "_Arcade/Spotty (Ver. 2.0.2).mra": {
    "hash": "434c37c0e0cc4e49607e3639e5687200",
@@ -812,17 +812,17 @@
   "_Arcade/Stocker (3-19-85).mra": {
    "hash": "cb8104dba242025423364b6d2d4ffc9e",
    "size": 1964,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Stocker%20%283-19-85%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Stocker%20%283-19-85%29.mra"
   },
   "_Arcade/Stompin' (4-4-86).mra": {
    "hash": "88f03755bbcc533df2d2ed1114aaf7e2",
    "size": 2345,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Stompin%27%20%284-4-86%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Stompin%27%20%284-4-86%29.mra"
   },
   "_Arcade/Street Football (11-12-86).mra": {
    "hash": "d43cf23b93e8a30f5522b1055366f99f",
    "size": 2359,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Street%20Football%20%2811-12-86%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Street%20Football%20%2811-12-86%29.mra"
   },
   "_Arcade/Strike Gunner S.T.G.mra": {
    "hash": "97503da8a05c12dfcd1b4ebff270c0cf",
@@ -877,7 +877,7 @@
   "_Arcade/Team Hat Trick (11-16-84).mra": {
    "hash": "4c52bd658176251891efc7c07be4b87b",
    "size": 1801,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Team%20Hat%20Trick%20%2811-16-84%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Team%20Hat%20Trick%20%2811-16-84%29.mra"
   },
   "_Arcade/Tecmo Bowl (PlayChoice-10).mra": {
    "hash": "a205bed7e34dac5be49fd44b984bbff1",
@@ -947,7 +947,7 @@
   "_Arcade/Toggle (prototype).mra": {
    "hash": "7aef2edc8e69931891706d1aa2a9f336",
    "size": 1798,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Toggle%20%28prototype%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Toggle%20%28prototype%29.mra"
   },
   "_Arcade/Tokimeki Memorial Taisen Puzzle-dama (ver JAB).mra": {
    "hash": "ec30c65e3594e14415ac8bb48020dada",
@@ -972,32 +972,32 @@
   "_Arcade/Trivial Pursuit (All Star Sports Edition).mra": {
    "hash": "a06c706caa9488098137404ced6f721b",
    "size": 1904,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Trivial%20Pursuit%20%28All%20Star%20Sports%20Edition%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Trivial%20Pursuit%20%28All%20Star%20Sports%20Edition%29.mra"
   },
   "_Arcade/Trivial Pursuit (Baby Boomer Edition) (3-20-85).mra": {
    "hash": "a06c1f2351b4485cc700ba0f8216e6d6",
    "size": 2061,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Trivial%20Pursuit%20%28Baby%20Boomer%20Edition%29%20%283-20-85%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Trivial%20Pursuit%20%28Baby%20Boomer%20Edition%29%20%283-20-85%29.mra"
   },
   "_Arcade/Trivial Pursuit (Genus II Edition) (3-22-85).mra": {
    "hash": "8252fb9f153c60c87cf8169bd3aa34b7",
    "size": 2224,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Trivial%20Pursuit%20%28Genus%20II%20Edition%29%20%283-22-85%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Trivial%20Pursuit%20%28Genus%20II%20Edition%29%20%283-22-85%29.mra"
   },
   "_Arcade/Trivial Pursuit (Think Tank - Genus Edition) (2-12-85).mra": {
    "hash": "752dd6fbf6d10ff66730bb8b8b87d723",
    "size": 2283,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Trivial%20Pursuit%20%28Think%20Tank%20-%20Genus%20Edition%29%20%282-12-85%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Trivial%20Pursuit%20%28Think%20Tank%20-%20Genus%20Edition%29%20%282-12-85%29.mra"
   },
   "_Arcade/Trivial Pursuit (Volumen III, Spanish, Maibesa license).mra": {
    "hash": "40af6a7fe72c5d594d0e6d146749a995",
    "size": 1962,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Trivial%20Pursuit%20%28Volumen%20III%2C%20Spanish%2C%20Maibesa%20license%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Trivial%20Pursuit%20%28Volumen%20III%2C%20Spanish%2C%20Maibesa%20license%29.mra"
   },
   "_Arcade/Trivial Pursuit (Young Players Edition) (3-29-85).mra": {
    "hash": "6098feeb278fa576b6473043d2ba6c57",
    "size": 2045,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Trivial%20Pursuit%20%28Young%20Players%20Edition%29%20%283-29-85%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Trivial%20Pursuit%20%28Young%20Players%20Edition%29%20%283-29-85%29.mra"
   },
   "_Arcade/Trojan (PlayChoice-10).mra": {
    "hash": "50c6a3dd98a0e960fe02a9b5588e340c",
@@ -1222,12 +1222,12 @@
   "_Arcade/_alternatives/_Grudge Match/Grudge Match (v00.80, prototype).mra": {
    "hash": "046eb7c22538edb58d5079c4f6ddb991",
    "size": 1462,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Grudge%20Match/Grudge%20Match%20%28v00.80%2C%20prototype%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Grudge%20Match/Grudge%20Match%20%28v00.80%2C%20prototype%29.mra"
   },
   "_Arcade/_alternatives/_Grudge Match/Grudge Match (v00.90, Italy, location test-).mra": {
    "hash": "138b5e6f1b4a8e98b83b6f8ab55e210d",
    "size": 1531,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Grudge%20Match/Grudge%20Match%20%28v00.90%2C%20Italy%2C%20location%20test-%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Grudge%20Match/Grudge%20Match%20%28v00.90%2C%20Italy%2C%20location%20test-%29.mra"
   },
   "_Arcade/_alternatives/_Gundhara/Gundhara (Chinese, bootleg).mra": {
    "hash": "4e811a0863a8d3560de70bc935d5f195",
@@ -1352,17 +1352,17 @@
   "_Arcade/_alternatives/_Mini Golf/Mini Golf (10-8-85).mra": {
    "hash": "56b08ae20b8fcaee05899f5e53a071c8",
    "size": 2612,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Mini%20Golf/Mini%20Golf%20%2810-8-85%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Mini%20Golf/Mini%20Golf%20%2810-8-85%29.mra"
   },
   "_Arcade/_alternatives/_Mini Golf/Mini Golf (11-25-85).mra": {
    "hash": "30fe52d45c87ba724338e62674c2ef92",
    "size": 2659,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Mini%20Golf/Mini%20Golf%20%2811-25-85%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Mini%20Golf/Mini%20Golf%20%2811-25-85%29.mra"
   },
   "_Arcade/_alternatives/_Mini Golf/Mini Golf (cocktail, 10-18-85).mra": {
    "hash": "a17bfb7c047237c83a388039bb45a928",
    "size": 2669,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Mini%20Golf/Mini%20Golf%20%28cocktail%2C%2010-18-85%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Mini%20Golf/Mini%20Golf%20%28cocktail%2C%2010-18-85%29.mra"
   },
   "_Arcade/_alternatives/_Mission Craft/Mission Craft (version 2.4).mra": {
    "hash": "7cd85045d65388ba457a19137afedcd1",
@@ -1382,7 +1382,7 @@
   "_Arcade/_alternatives/_Name That Tune/Name That Tune (Bally, 3-23-86).mra": {
    "hash": "fd92c124de0ec86baf071b90d5164641",
    "size": 3307,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Name%20That%20Tune/Name%20That%20Tune%20%28Bally%2C%203-23-86%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Name%20That%20Tune/Name%20That%20Tune%20%28Bally%2C%203-23-86%29.mra"
   },
   "_Arcade/_alternatives/_New Cross Pang/New Cross Pang (set 2).mra": {
    "hash": "7e2013741e0fde5709a84d5c59cc68d9",
@@ -1397,7 +1397,7 @@
   "_Arcade/_alternatives/_Night Stocker/Night Stocker (8-27-86).mra": {
    "hash": "7fcbe4ab76f07a7079128f4cdc7d1ab5",
    "size": 2403,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Night%20Stocker/Night%20Stocker%20%288-27-86%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Night%20Stocker/Night%20Stocker%20%288-27-86%29.mra"
   },
   "_Arcade/_alternatives/_P-47 Aces (ver 1.1)/P-47 Aces (ver 1.0).mra": {
    "hash": "4fde6d4700cd3656b2d08bafa72508e0",
@@ -1427,7 +1427,7 @@
   "_Arcade/_alternatives/_Rescue Raider/Rescue Raider (stand-alone).mra": {
    "hash": "887c474e4c5d9b27172bd84ecee36208",
    "size": 2036,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Rescue%20Raider/Rescue%20Raider%20%28stand-alone%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Rescue%20Raider/Rescue%20Raider%20%28stand-alone%29.mra"
   },
   "_Arcade/_alternatives/_Rezon/Rezon (earlier).mra": {
    "hash": "8325c52fc0bc75d61863ad79db7c80b3",
@@ -1460,9 +1460,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/_alternatives/_Sexy%20Parodius%20%28ver%20JAA%29/Sexy%20Parodius%20%28ver%20AAA%29.mra"
   },
   "_Arcade/_alternatives/_Snake Pit/Snake Pit (9-14-84).mra": {
-   "hash": "fe21670bc3f3cd7bf80b02fd728d2467",
-   "size": 2140,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Snake%20Pit/Snake%20Pit%20%289-14-84%29.mra"
+   "hash": "39bf00acf02241c05539a839d00f6577",
+   "size": 2142,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Snake%20Pit/Snake%20Pit%20%289-14-84%29.mra"
   },
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (Dooyong license).mra": {
    "hash": "08ce0eb4ee8fcc44e4c6cd1bd737f1b3",
@@ -1512,17 +1512,17 @@
   "_Arcade/_alternatives/_Spiker/Spiker (5-5-86).mra": {
    "hash": "977ed730e160e43ecadebd3973f3e3ed",
    "size": 2421,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Spiker/Spiker%20%285-5-86%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Spiker/Spiker%20%285-5-86%29.mra"
   },
   "_Arcade/_alternatives/_Spiker/Spiker (earliest-).mra": {
    "hash": "6d9e5d0348a5862fd347955b20331ca2",
    "size": 2308,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Spiker/Spiker%20%28earliest-%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Spiker/Spiker%20%28earliest-%29.mra"
   },
   "_Arcade/_alternatives/_Stompin'/Stompin' (prototype-).mra": {
    "hash": "e2884f2a0a9c3d87c0fd217a7c6832b7",
    "size": 2390,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Stompin%27/Stompin%27%20%28prototype-%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Stompin%27/Stompin%27%20%28prototype-%29.mra"
   },
   "_Arcade/_alternatives/_Super Bubble 2003/Super Bubble 2003 (Asia, Ver 1.0).mra": {
    "hash": "8adebc2f811e1798e5923eeb7a45f647",
@@ -1572,12 +1572,12 @@
   "_Arcade/_alternatives/_Trivial Pursuit/Trivial Pursuit (Think Tank - Genus Edition) (12-14-84).mra": {
    "hash": "5766c2d133471f55fc999a6a3930e6c6",
    "size": 2437,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Trivial%20Pursuit/Trivial%20Pursuit%20%28Think%20Tank%20-%20Genus%20Edition%29%20%2812-14-84%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Trivial%20Pursuit/Trivial%20Pursuit%20%28Think%20Tank%20-%20Genus%20Edition%29%20%2812-14-84%29.mra"
   },
   "_Arcade/_alternatives/_Trivial Pursuit/Trivial Pursuit (Volumen II, Spanish, Maibesa license).mra": {
    "hash": "701b897fa2e0a6f479f712c254b56092",
    "size": 2011,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/_alternatives/_Trivial%20Pursuit/Trivial%20Pursuit%20%28Volumen%20II%2C%20Spanish%2C%20Maibesa%20license%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Trivial%20Pursuit/Trivial%20Pursuit%20%28Volumen%20II%2C%20Spanish%2C%20Maibesa%20license%29.mra"
   },
   "_Arcade/_alternatives/_Twin Bee Yahhoo! (ver JAA)/Magical Twin Bee (ver EAA).mra": {
    "hash": "5384eaa4d6582ebab333ca72e97a4e68",
@@ -1639,10 +1639,10 @@
    "size": 2490,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Wivern%20Wings/Wyvern%20Wings%20%28set%202%29.mra"
   },
-  "_Arcade/cores/BallySente_20261004.rbf": {
-   "hash": "c7b94d4fae22c756e3a4b0afff6145bb",
-   "size": 4292548,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Arcade-BallySente_20261004.rbf"
+  "_Arcade/cores/BallySente_20261025.rbf": {
+   "hash": "2fc56752283b3533a3cbc7abd4adddc0",
+   "size": 4316884,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Arcade-BallySente_20261025.rbf"
   },
   "_Arcade/cores/DreamWorld_20261017.rbf": {
    "hash": "6b9eeb98c90518b2cee7c93f3c203240",
@@ -1742,7 +1742,7 @@
   "games/arcsnd/arcsnd": {
    "hash": "e99f15bb1469a21b1df69ddc4a3e592b",
    "size": 1308208,
-   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/0ad68fff1f538ab34dff50aeb0b7d93e0feff627/releases/games/arcsnd/arcsnd"
+   "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/ed01d766bf0a05af365ef304c6eabd8fd5fbfa1b/releases/games/arcsnd/arcsnd"
   },
   "games/mame/3in1semi.zip": {
    "hash": "e35a0f18c96756217887964544905341",
