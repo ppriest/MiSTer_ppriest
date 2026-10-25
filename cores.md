@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-10-25. 574 files from 16 repositories.
+Updated 2026-10-25. 570 files from 16 repositories.
 
 | Repository | Builds | Latest build | MRAs |
 |---|---|---|---|
@@ -16,7 +16,7 @@ Updated 2026-10-25. 574 files from 16 repositories.
 | [ppriest/Arcade-NixPirates_MiSTer](https://github.com/ppriest/Arcade-NixPirates_MiSTer) | `Arcade-NixPirates_20261010.rbf` | 2026-10-10 | 3 |
 | [ppriest/Arcade-Pandora_MiSTer](https://github.com/ppriest/Arcade-Pandora_MiSTer) | `Arcade-Pandora_20261021.rbf` | 2026-10-21 | 30 |
 | [ppriest/Arcade-PlayChoice10_MiSTer](https://github.com/ppriest/Arcade-PlayChoice10_MiSTer) | `Arcade-PlayChoice10_20261020.rbf` | 2026-10-20 | 57 |
-| [ppriest/Arcade-Seta_MiSTer](https://github.com/ppriest/Arcade-Seta_MiSTer) | `Arcade-SetaDowntown_20260921.rbf`, `Arcade-Seta_20260919.rbf` | 2026-09-21 | 43 |
+| [ppriest/Arcade-Seta_MiSTer](https://github.com/ppriest/Arcade-Seta_MiSTer) | `Arcade-SetaDowntown_20260921.rbf`, `Arcade-Seta_20260919.rbf` | 2026-09-21 | 41 |
 | [ppriest/Arcade-Silkroad_MiSTer](https://github.com/ppriest/Arcade-Silkroad_MiSTer) | `Arcade-Silkroad_20261024.rbf` | 2026-10-24 | 2 |
 | [ppriest/Arcade-Vamphalf_MiSTer](https://github.com/ppriest/Arcade-Vamphalf_MiSTer) | `Arcade-Limenko_20261013.rbf`, `Arcade-Vamphalf_20261010.rbf` | 2026-10-13 | 39 |
 | [ppriest/MiSTer_ArcadeSoundServer](https://github.com/ppriest/MiSTer_ArcadeSoundServer) |  |  | 0 |
