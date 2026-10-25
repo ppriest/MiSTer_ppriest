@@ -64,6 +64,9 @@ DEFAULTS = {
         "item": "mame-roms-merged_",
         "folder": "MAME ROMs (merged)",
         "fallback_csv": "https://raw.githubusercontent.com/meathax/meatcores/main/external_files.csv",
+        # "path": "pext" on the zips and on their folders (games, games/mame): with Downloader's storage_priority set to
+        # prefer_external they go to the USB drive; without it they are installed on the SD card as before
+        "pext": True,
     },
 }
 
@@ -243,10 +246,12 @@ def assemble(scans: list[dict], db_id: str, db_url: str, external: dict[str, dic
     for dest, e in (external or {}).items():
         files.setdefault(dest, e)
     folders: dict[str, dict] = {}
-    for dest in files:
+    for dest, e in files.items():
         parts = dest.split("/")[:-1]
         for i in range(1, len(parts) + 1):
-            folders["/".join(parts[:i])] = {}
+            f = folders.setdefault("/".join(parts[:i]), {})
+            if e.get("path") == "pext":          # a folder holding an external file is external too (as in the official database)
+                f["path"] = "pext"
     return {"db_id": db_id, "db_url": db_url, "v": DB_VERSION, "timestamp": int(dt.datetime.now(dt.timezone.utc).timestamp()),
             "files": dict(sorted(files.items())), "folders": dict(sorted(folders.items()))}
 
@@ -293,7 +298,10 @@ def external_files(scans: list[dict], ext: dict, known: dict) -> tuple[dict[str,
             continue
         size, md5 = known[z]
         # overwrite=false: a zip the user already has (from any set) is left alone
-        entries[f"{ext['dest'].strip('/')}/{z}"] = {"hash": md5, "size": size, "url": f"{base}/{urllib.parse.quote(z)}", "overwrite": False}
+        entry = {"hash": md5, "size": size, "url": f"{base}/{urllib.parse.quote(z)}", "overwrite": False}
+        if ext.get("pext", True):
+            entry["path"] = "pext"
+        entries[f"{ext['dest'].strip('/')}/{z}"] = entry
     # a clone's zip is normally absent from a merged set; the MRA then names its parent too ("clone.zip|parent.zip"),
     # so a zip only counts as missing when none of the zips in its list is available
     missing = sorted({g[0] for s in scans for g in s.get("zip_groups", []) if g and not any(z in known for z in g)}, key=str.lower)
@@ -310,8 +318,8 @@ def external_csv(entries: dict[str, dict]) -> str:
 
 
 def signature(db: dict) -> dict:
-    """What decides whether the database changed: paths, hashes, sizes (not URLs or the timestamp)."""
-    return {p: (e["hash"], e["size"]) for p, e in db.get("files", {}).items()}
+    """What decides whether the database changed: paths, hashes, sizes, where a file is installed (not URLs or the timestamp)."""
+    return {p: (e["hash"], e["size"], e.get("path")) for p, e in db.get("files", {}).items()}
 
 
 def load_json(path: str, default):
