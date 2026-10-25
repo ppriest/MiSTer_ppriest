@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1792922008,
+ "timestamp": 1792946893,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "2e35ca9b40b9ae7c972fb6ec424987c9",
@@ -10,9 +10,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/MiSTer_ArcadeSoundServer/0669253c0c8ab1ef9ad4a4392fdec8bb5fea8c78/releases/Scripts/arcade_hybridsoundserver.sh"
   },
   "_Arcade/1942 (PlayChoice-10).mra": {
-   "hash": "7090e631306240be76be27bfaea15065",
-   "size": 2508,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/1942%20%28PlayChoice-10%29.mra"
+   "hash": "1b365318337544df6d5aaa27b4ca7ff1",
+   "size": 2507,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/1942%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Age Of Heroes - Silkroad 2 (v0.63 - 2001-02-07).mra": {
    "hash": "b63fdfeb68471e6ac1df6719079b2211",
@@ -25,9 +25,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/Athena%20no%20Hatena.mra"
   },
   "_Arcade/Balloon Fight (PlayChoice-10).mra": {
-   "hash": "15b3d1c1c2f7ac30461276de1064a955",
+   "hash": "7fc42c252340278db9d8e25e7da910bf",
    "size": 2533,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Balloon%20Fight%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Balloon%20Fight%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Baryon - Future Assault (set 1).mra": {
    "hash": "2dc289752778608604b50aada36504a7",
@@ -35,19 +35,19 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Baryon%20-%20Future%20Assault%20%28set%201%29.mra"
   },
   "_Arcade/Baseball (PlayChoice-10).mra": {
-   "hash": "5caf95477d70fe9b388a27c094fd3478",
+   "hash": "feabd44550e08a14dc4e25cad8e66f3d",
    "size": 2539,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Baseball%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Baseball%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Baseball Stars- Be a Champ! (PlayChoice-10).mra": {
-   "hash": "67ac97d27d2de1c3691497a181b7fd85",
+   "hash": "8423ac08e8f3ef395895a066b5a8123c",
    "size": 2573,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Baseball%20Stars-%20Be%20a%20Champ%21%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Baseball%20Stars-%20Be%20a%20Champ%21%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Bases Loaded (Prototype, PlayChoice-10).mra": {
-   "hash": "046df13414c540f46fc824738c529e23",
+   "hash": "7b79b96f2fdb88f50a38bfc531e7ee4d",
    "size": 2632,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Bases%20Loaded%20%28Prototype%2C%20PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Bases%20Loaded%20%28Prototype%2C%20PlayChoice-10%29.mra"
   },
   "_Arcade/Beast Busters - Second Nightmare.mra": {
    "hash": "59f891b3084d6cc195c781c59c5025a3",
@@ -85,14 +85,14 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/a1159c555197931f2b3bc7967d39ad74ce4e05b9/releases/Candy%20Candy.mra"
   },
   "_Arcade/Captain Sky Hawk (PlayChoice-10).mra": {
-   "hash": "27a65236dc0ee56365aca0d805e67c60",
+   "hash": "63f1e464a27b00b5de4036e23caa52be",
    "size": 2522,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Captain%20Sky%20Hawk%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Captain%20Sky%20Hawk%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Castlevania (PlayChoice-10).mra": {
-   "hash": "5a4dc1b2b46d1613ea6221a40d82eb20",
+   "hash": "42f5ead8f4c79144613feb02f4551034",
    "size": 2554,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Castlevania%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Castlevania%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Chicken Shift (11-23-84).mra": {
    "hash": "95c0b9d166966df71e8c61a7853b4e58",
@@ -100,29 +100,29 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Chicken%20Shift%20%2811-23-84%29.mra"
   },
   "_Arcade/Chip'n Dale- Rescue Rangers (PlayChoice-10).mra": {
-   "hash": "2f5ec29a367255cc7aa120fefecc034d",
+   "hash": "7f92cb69b5698f310d67c981515d74ee",
    "size": 2580,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Chip%27n%20Dale-%20Rescue%20Rangers%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Chip%27n%20Dale-%20Rescue%20Rangers%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Come Back Toto.mra": {
    "hash": "3f5a4ded977cbd61f7fcd57c205310d6",
    "size": 2460,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Come%20Back%20Toto.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Come%20Back%20Toto.mra"
   },
   "_Arcade/Contra (PlayChoice-10).mra": {
-   "hash": "b6ed52270a28df7144af3c923ab7e620",
+   "hash": "637d4d2c7a03664e5ac7bb1799c11208",
    "size": 2549,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Contra%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Contra%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Cookie & Bibi 2 (English, set 1).mra": {
-   "hash": "6fa2fa151c6de520dbe46f500e027b64",
-   "size": 2510,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29.mra"
+   "hash": "e67750346bba23b6b5d873eb6d1a9e2c",
+   "size": 2513,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29.mra"
   },
   "_Arcade/Cookie & Bibi 3.mra": {
-   "hash": "9f3ffb5eda8b45fd2db633100bc3cd99",
-   "size": 2695,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Cookie%20%26%20Bibi%203.mra"
+   "hash": "5d4d729d91d2f53fab718e67f9f3f739",
+   "size": 2698,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Cookie%20%26%20Bibi%203.mra"
   },
   "_Arcade/Cool Minigame Collection.mra": {
    "hash": "920164890d255e77d6965fdc2438c4b1",
@@ -170,14 +170,14 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Diet%20Family.mra"
   },
   "_Arcade/Double Dragon (PlayChoice-10).mra": {
-   "hash": "ced248c6a39e0214076be013cd85f9d1",
+   "hash": "66db291c3ddc363819f44ca395958b67",
    "size": 2539,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Double%20Dragon%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Double%20Dragon%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Double Dribble (PlayChoice-10).mra": {
-   "hash": "ca759ea6bd1054e0c8e9f516bf0ed789",
+   "hash": "72809895248c503d19e229c35946e676",
    "size": 2560,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Double%20Dribble%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Double%20Dribble%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/DownTown - Mokugeki (set 1).mra": {
    "hash": "f747945fc91041c534bd99ff7d084a42",
@@ -185,9 +185,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/DownTown%20-%20Mokugeki%20%28set%201%29.mra"
   },
   "_Arcade/Dr. Mario (PlayChoice-10).mra": {
-   "hash": "ceaa4dc8c1b14edf48682fc45be4c5d4",
+   "hash": "e60647e8400c7cffcaa682a775ea866d",
    "size": 2528,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Dr.%20Mario%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Dr.%20Mario%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Dragon Unit - Castle of Dragon.mra": {
    "hash": "51c561b258533fef94b0fa241f2a6a2f",
@@ -205,9 +205,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Dream%20World.mra"
   },
   "_Arcade/Duck Hunt (PlayChoice-10).mra": {
-   "hash": "ab682c8cb9d18510074642835d3b184a",
+   "hash": "534aba453c721deb36f418142ef05804",
    "size": 2529,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Duck%20Hunt%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Duck%20Hunt%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Dynamite Bomber (Korea, Rev 1.5).mra": {
    "hash": "39f6593028ae84b298ffdb0fda20bf55",
@@ -220,9 +220,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/Eight%20Forces.mra"
   },
   "_Arcade/Excitebike (PlayChoice-10).mra": {
-   "hash": "cd31c6a3bdac77b199296ffbe597245e",
+   "hash": "87d2f2b833faa52aa33460ba9f6bf8f0",
    "size": 2525,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Excitebike%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Excitebike%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Extreme Downhill (v1.5).mra": {
    "hash": "69a0b686f98360a7189ed871bd0fbd62",
@@ -252,7 +252,7 @@
   "_Arcade/Final Tetris.mra": {
    "hash": "c907ff3d3c3c3fb0015491aab279ec28",
    "size": 2867,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Final%20Tetris.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Final%20Tetris.mra"
   },
   "_Arcade/Fortress 2 Blue Arcade (World) (ver 1.01 - pcb ver 3.05).mra": {
    "hash": "dcddb5499671af2dd6e9f2b11ec5f2b3",
@@ -270,9 +270,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Gaia%20-%20The%20Last%20Choice%20of%20Earth.mra"
   },
   "_Arcade/Gauntlet (PlayChoice-10).mra": {
-   "hash": "12638c8365ebbd1ee5fb4dac17fbe47c",
+   "hash": "04fa1ec89bf05043c32ac6b2400a668a",
    "size": 2580,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Gauntlet%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Gauntlet%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Genix Family.mra": {
    "hash": "ee44fed46140919579eb6adc4d1196c6",
@@ -290,14 +290,14 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Goalie%20Ghost.mra"
   },
   "_Arcade/Golf (PlayChoice-10).mra": {
-   "hash": "3b7f3e0d175a78acecd3f43e58f15fc7",
-   "size": 2519,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Golf%20%28PlayChoice-10%29.mra"
+   "hash": "78e25316e7b793da2ef4ead0f6b4138f",
+   "size": 2518,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Golf%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Gradius (PlayChoice-10).mra": {
-   "hash": "2097cf602c23acc6c97e558f7a5f014b",
+   "hash": "71e46e6fa68cabf1aab784bd5d5401ce",
    "size": 2524,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Gradius%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Gradius%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Gradius IV Fukkatsu (ver JAC).mra": {
    "hash": "48cbe1cabd714fde3f01e728841512c2",
@@ -322,7 +322,7 @@
   "_Arcade/Gwasuwon (Korea).mra": {
    "hash": "0f5894df4f275c7119df520514f66206",
    "size": 3048,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Gwasuwon%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Gwasuwon%20%28Korea%29.mra"
   },
   "_Arcade/Hat Trick (11-12-84).mra": {
    "hash": "9b05eef6cc3eed30e5e38781bc49ff57",
@@ -360,14 +360,14 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/a1159c555197931f2b3bc7967d39ad74ce4e05b9/releases/Hidden%20Catch%203%20%28ver%201.00%20-%20pcb%20ver%203.05%29.mra"
   },
   "_Arcade/Hogan's Alley (PlayChoice-10).mra": {
-   "hash": "fc9bb0393b118a7f59625dbfb2d6fff3",
+   "hash": "cd14c80c1ca0d4dfbba35a2b2da0791f",
    "size": 2542,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Hogan%27s%20Alley%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Hogan%27s%20Alley%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Hyper Pacman.mra": {
    "hash": "1bf6362b8f2ab2bf1fc0936159d54bb0",
    "size": 2395,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Hyper%20Pacman.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Hyper%20Pacman.mra"
   },
   "_Arcade/Idol Janshi Suchie-Pai II (ver 1.1).mra": {
    "hash": "daa02d21f4b6928545fe3dfaaf8b6d56",
@@ -400,9 +400,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/Konami%27s%20Open%20Golf%20Championship%20%28ver%20EAE%29.mra"
   },
   "_Arcade/Kung Fu (PlayChoice-10).mra": {
-   "hash": "51b6b863a1031ec888f310398ae6eb02",
+   "hash": "9a6386a8dfadb07cc45c6af222dc2120",
    "size": 2540,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Kung%20Fu%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Kung%20Fu%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Land Breaker (World) - Miss Tang Ja Ru Gi (Korea) (pcb ver 3.02).mra": {
    "hash": "bcbfa9dd5341a81f73295b64524dc5a0",
@@ -432,7 +432,7 @@
   "_Arcade/Macheonlu (Korea).mra": {
    "hash": "1ebb0cc7fdd636e923541ecdd7be8ce8",
    "size": 2773,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Macheonlu%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Macheonlu%20%28Korea%29.mra"
   },
   "_Arcade/Mad Shark.mra": {
    "hash": "3b01dae8b6e1dfaba26a574752d83a14",
@@ -450,14 +450,14 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-JalecoMS32_MiSTer/4bba751ba18c5ff1293c1c711cda911aa6368bb6/releases/Mahjong%20Angel%20Kiss%20%28ver%201.0%2C%2092047-01%20version%29.mra"
   },
   "_Arcade/Mario Bros. (PlayChoice-10).mra": {
-   "hash": "47d15ede43509d31ac97df3665896dfe",
+   "hash": "2b330b08cc5d01f5d4d576d9d3aa148b",
    "size": 2531,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Mario%20Bros.%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Mario%20Bros.%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Mario's Open Golf (PlayChoice-10).mra": {
-   "hash": "2a0e86e319494e910e79554be7305d9d",
+   "hash": "5c50253147062aff1abf2bdb204a53c3",
    "size": 2497,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Mario%27s%20Open%20Golf%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Mario%27s%20Open%20Golf%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Masked Riders Club Battle Race - Kamen Rider Club Battle Racer.mra": {
    "hash": "53917f88a3384a463958c532a0067ef9",
@@ -465,19 +465,19 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/Masked%20Riders%20Club%20Battle%20Race%20-%20Kamen%20Rider%20Club%20Battle%20Racer.mra"
   },
   "_Arcade/Mega Man III (PlayChoice-10).mra": {
-   "hash": "f1b4a7af2e43a58d9fab39d27fd9025a",
+   "hash": "7c3537e101971813e8684099b5903ab5",
    "size": 2603,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Mega%20Man%20III%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Mega%20Man%20III%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Metroid (PlayChoice-10).mra": {
-   "hash": "f6f32bb03ab66bc07b83e6fbb11324fe",
+   "hash": "5ff58b95b28a0311a2bd0a9020c1455a",
    "size": 2525,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Metroid%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Metroid%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Mike Tyson's Punch-Out!! (PlayChoice-10).mra": {
-   "hash": "d645e0ef61c36cba44463f0960027604",
+   "hash": "8dfbf715e7c4bc68fd601c24bb8b9dba",
    "size": 2542,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Mike%20Tyson%27s%20Punch-Out%21%21%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Mike%20Tyson%27s%20Punch-Out%21%21%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Mini Golf (set 1).mra": {
    "hash": "addfc95990346f11e9b9d2b4400547a5",
@@ -527,7 +527,7 @@
   "_Arcade/New HyperMan (3-in-1 with Cookie & Bibi & HyperMan) (set 1).mra": {
    "hash": "87e036d912c85edb6033ce25c2a89471",
    "size": 2427,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29.mra"
   },
   "_Arcade/Night Stocker (10-6-86).mra": {
    "hash": "4d65b3ad040f06559a49b73a28753347",
@@ -535,24 +535,24 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Night%20Stocker%20%2810-6-86%29.mra"
   },
   "_Arcade/Ninja Gaiden (PlayChoice-10).mra": {
-   "hash": "000f6850115d2708bf0d27da84ba7728",
+   "hash": "a80ff04e4c9c01d412b808b0efa93041",
    "size": 2557,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Ninja%20Gaiden%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Ninja%20Gaiden%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Ninja Gaiden Episode II- The Dark Sword of Chaos (PlayChoice-10).mra": {
-   "hash": "2bc760792a86707485f03edaf79e97ac",
+   "hash": "257718a1b0c790bee235c21d3dc8232e",
    "size": 2596,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Ninja%20Gaiden%20Episode%20II-%20The%20Dark%20Sword%20of%20Chaos%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Ninja%20Gaiden%20Episode%20II-%20The%20Dark%20Sword%20of%20Chaos%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Ninja Gaiden Episode III- The Ancient Ship of Doom (PlayChoice-10).mra": {
-   "hash": "20699592e5d61244cd714c0085bae1b1",
+   "hash": "e6374a94f191a43cf6c239662c63d34e",
    "size": 2595,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Ninja%20Gaiden%20Episode%20III-%20The%20Ancient%20Ship%20of%20Doom%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Ninja%20Gaiden%20Episode%20III-%20The%20Ancient%20Ship%20of%20Doom%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Nintendo World Cup (PlayChoice-10).mra": {
-   "hash": "c29d25a5a2d97b3853c86f54ddd2423b",
-   "size": 2558,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Nintendo%20World%20Cup%20%28PlayChoice-10%29.mra"
+   "hash": "9cb6d152a0f2606f3a917120fcbbfe14",
+   "size": 2557,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Nintendo%20World%20Cup%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Off the Wall (Sente) (10-16-84).mra": {
    "hash": "ecea1cc7c2bd97450bee960dff925797",
@@ -580,9 +580,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/a1159c555197931f2b3bc7967d39ad74ce4e05b9/releases/Penfan%20Girls%20-%20Step1.%20Mild%20Mind%20%28set%201%29.mra"
   },
   "_Arcade/PinBot (PlayChoice-10).mra": {
-   "hash": "ea6c2cd7acedf0a6b1ba1f945aca6902",
+   "hash": "e77544ecee583bd8afaf869656b847e0",
    "size": 2554,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/PinBot%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/PinBot%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Pirates (set 1).mra": {
    "hash": "a185d475809718763aa32f3bb0b386e8",
@@ -592,7 +592,7 @@
   "_Arcade/PlayChoice-10 (three channels).mra": {
    "hash": "36b066243775096c9f290c579c37aeaa",
    "size": 3615,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/PlayChoice-10%20%28three%20channels%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/PlayChoice-10%20%28three%20channels%29.mra"
   },
   "_Arcade/Poosho Poosho.mra": {
    "hash": "4c9b2546edb4296c7f26315952dca0df",
@@ -600,29 +600,29 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Poosho%20Poosho.mra"
   },
   "_Arcade/Power Blade (PlayChoice-10).mra": {
-   "hash": "0a7ca785f810c934d706cdbd3cbc9f1c",
+   "hash": "14c8ace795d698433f9557de76d17ba4",
    "size": 2559,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Power%20Blade%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Power%20Blade%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Pro Wrestling (PlayChoice-10).mra": {
-   "hash": "8d3e4dcf54593168da90a02ba372e2e4",
+   "hash": "6410e7dbd0ddd047f4bbb57a79075ae8",
    "size": 2569,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Pro%20Wrestling%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Pro%20Wrestling%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Puzzle Break (set 1).mra": {
    "hash": "bc7482573fb2775055501521f339bd50",
    "size": 2383,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Puzzle%20Break%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Puzzle%20Break%20%28set%201%29.mra"
   },
   "_Arcade/Puzzle Express More More (Korea).mra": {
    "hash": "16780175a53a16e7ee96374669b5f977",
    "size": 2423,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Puzzle%20Express%20More%20More%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Puzzle%20Express%20More%20More%20%28Korea%29.mra"
   },
   "_Arcade/Puzzle Express More More Plus.mra": {
    "hash": "9b08a6130a28accb8eb29ae2570a7fb4",
    "size": 2452,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Puzzle%20Express%20More%20More%20Plus.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Puzzle%20Express%20More%20More%20Plus.mra"
   },
   "_Arcade/Puzzle King (Dance & Puzzle).mra": {
    "hash": "26dfcb70de603b785704b3bb801f0c3d",
@@ -632,12 +632,12 @@
   "_Arcade/Puzzle King (PacMan 2, Tetris, HyperMan 2, Snow Bros.).mra": {
    "hash": "084215548b050db22c8b97d7c18b53dc",
    "size": 2283,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Puzzle%20King%20%28PacMan%202%2C%20Tetris%2C%20HyperMan%202%2C%20Snow%20Bros.%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Puzzle%20King%20%28PacMan%202%2C%20Tetris%2C%20HyperMan%202%2C%20Snow%20Bros.%29.mra"
   },
   "_Arcade/Puzzle Yutnori (Korea).mra": {
    "hash": "678e4e434f926fde55829b9336c03c77",
    "size": 2336,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Puzzle%20Yutnori%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Puzzle%20Yutnori%20%28Korea%29.mra"
   },
   "_Arcade/Quiz Kokology 2.mra": {
    "hash": "9c5e904d14e00ee0d62866bf0cb4d32c",
@@ -650,9 +650,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/Quiz%20Kokology.mra"
   },
   "_Arcade/R.C. Pro-Am (PlayChoice-10).mra": {
-   "hash": "021810bf5978ad7ca8663c4bf6e62cf5",
+   "hash": "bf69639695c4c398b9c5caa1e1d42f17",
    "size": 2526,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/R.C.%20Pro-Am%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/R.C.%20Pro-Am%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Raccoon World.mra": {
    "hash": "41a1e633b2b58a2a0dfe24ee635e3b20",
@@ -665,14 +665,14 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/Racin%27%20Force%20%28ver%20EAC%29.mra"
   },
   "_Arcade/Rad Racer (PlayChoice-10).mra": {
-   "hash": "39f6cbbef8e3d04fdc787df10e157e40",
+   "hash": "e251e53421592e509598df16453b061b",
    "size": 2525,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Rad%20Racer%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Rad%20Racer%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Rad Racer II (PlayChoice-10).mra": {
-   "hash": "494c2d437bddd850cf2ebc42e2567f88",
+   "hash": "c14f84b390584aeb4fd10acc50a76e3e",
    "size": 2562,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Rad%20Racer%20II%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Rad%20Racer%20II%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Rescue Raider (5-11-87) (non-cartridge).mra": {
    "hash": "cc9674369e8d073bfb251ad8061c19d9",
@@ -690,9 +690,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/70f8613f2378f426513542203a1970c099310848/releases/Roads%20Edge%20-%20Round%20Trip%20RV%20%28rev.B%29.mra"
   },
   "_Arcade/Rockin' Kats (PlayChoice-10).mra": {
-   "hash": "9a225c56b2edff5eb0a69903375d6732",
+   "hash": "3b35cf98ad0aa84b8cf65ef14633d316",
    "size": 2560,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Rockin%27%20Kats%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Rockin%27%20Kats%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Rolling Crush (version 1.07.E - 1999-02-11, Trust license).mra": {
    "hash": "2eeb1d90a39e9591cbaa1eb625f2ac65",
@@ -705,9 +705,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/Run%20and%20Gun%202%20%28ver%20UAA%29.mra"
   },
   "_Arcade/Rush'n Attack (PlayChoice-10).mra": {
-   "hash": "3ada4db9deb7305e39dab86e9e690845",
+   "hash": "a23a620f0fe322e57ea01d9f5c52224c",
    "size": 2559,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Rush%27n%20Attack%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Rush%27n%20Attack%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Rushing Heroes (ver UAB).mra": {
    "hash": "e0b14a32c0a26603288232fe9af6f099",
@@ -715,9 +715,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/Rushing%20Heroes%20%28ver%20UAB%29.mra"
   },
   "_Arcade/Rygar (PlayChoice-10).mra": {
-   "hash": "997d02d965d556d4bcebb7ea91953dfa",
+   "hash": "77de149ce307dca7cca41936e2511960",
    "size": 2550,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Rygar%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Rygar%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Ryuusei Janshi Kirara Star (ver 1.0, 92047-01 version).mra": {
    "hash": "9836ced25f5d2e8687c0216851e4c1c8",
@@ -772,7 +772,7 @@
   "_Arcade/Snow Bros. - Nick & Tom (set 1).mra": {
    "hash": "9fd553df924588dff155e1750cebe55d",
    "size": 2368,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29.mra"
   },
   "_Arcade/Soccer Superstars (ver EAC).mra": {
    "hash": "e16e4f7a3774cac52f2d491244089777",
@@ -785,9 +785,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/Sokonuke%20Taisen%20Game%20%28Japan%29.mra"
   },
   "_Arcade/Solar Jetman (PlayChoice-10).mra": {
-   "hash": "b124d4280ae497dcff68abe8808ef2e8",
+   "hash": "bb96da4aa80965cb12fa119ddca5f0c1",
    "size": 2488,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Solar%20Jetman%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Solar%20Jetman%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Solitaire (version 2.5).mra": {
    "hash": "6758da674b4412c1ecf3622ecb4a6984",
@@ -832,7 +832,7 @@
   "_Arcade/Suhoseong (Korea).mra": {
    "hash": "dbd822d4b22f7660482a2a91e9af8d42",
    "size": 2165,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Suhoseong%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Suhoseong%20%28Korea%29.mra"
   },
   "_Arcade/Super Bubble 2003 (World, Ver 1.0).mra": {
    "hash": "bb56527eed4ac4ff9ef3cb72fc104769",
@@ -840,9 +840,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Super%20Bubble%202003%20%28World%2C%20Ver%201.0%29.mra"
   },
   "_Arcade/Super C (PlayChoice-10).mra": {
-   "hash": "1e643e6053f34851bcb9f5b5213b650b",
+   "hash": "cc7434bbaa21aae797152a32bdc52c38",
    "size": 2556,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Super%20C%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Super%20C%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Super Lup Lup Puzzle - Zhuan Zhuan Puzzle (version 4.0 - 990518).mra": {
    "hash": "6f5db5d4f4c3a88720521f461289eddf",
@@ -850,24 +850,24 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle%20%28version%204.0%20-%20990518%29.mra"
   },
   "_Arcade/Super Mario Bros. (PlayChoice-10).mra": {
-   "hash": "5690829c700c325cd08fbe01530bb5cb",
-   "size": 2522,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Super%20Mario%20Bros.%20%28PlayChoice-10%29.mra"
+   "hash": "569c1447723c56569baa437663af940d",
+   "size": 2520,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Super%20Mario%20Bros.%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Super Mario Bros. 2 (PlayChoice-10).mra": {
-   "hash": "09bb994d1fbe6ac3bdb7455d381d123c",
-   "size": 2535,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Super%20Mario%20Bros.%202%20%28PlayChoice-10%29.mra"
+   "hash": "1b2df7fe49c89e216cc0fd95557a5b9d",
+   "size": 2534,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Super%20Mario%20Bros.%202%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Super Mario Bros. 3 (PlayChoice-10).mra": {
-   "hash": "8c3a85f4ea04f9c6c68cfcbc4d3ad442",
-   "size": 2569,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Super%20Mario%20Bros.%203%20%28PlayChoice-10%29.mra"
+   "hash": "3c460d5ce0cad4775160b62afe714dd6",
+   "size": 2568,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Super%20Mario%20Bros.%203%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Sutjaro Haeyo Deluxe (Korea).mra": {
    "hash": "47833cf8f740aa532e2958533597d109",
    "size": 3059,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Sutjaro%20Haeyo%20Deluxe%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Sutjaro%20Haeyo%20Deluxe%20%28Korea%29.mra"
   },
   "_Arcade/Taisen Tokkae-dama (ver JAA).mra": {
    "hash": "2488837c9ff3cec0171a19bda124e039",
@@ -880,24 +880,24 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Team%20Hat%20Trick%20%2811-16-84%29.mra"
   },
   "_Arcade/Tecmo Bowl (PlayChoice-10).mra": {
-   "hash": "a285ad60213656a4fdd54360dcf07e43",
+   "hash": "a205bed7e34dac5be49fd44b984bbff1",
    "size": 2558,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Tecmo%20Bowl%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Tecmo%20Bowl%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Teenage Mutant Ninja Turtles (PlayChoice-10).mra": {
-   "hash": "2f96877cbd898b86464814909e9d7f1e",
-   "size": 2569,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Teenage%20Mutant%20Ninja%20Turtles%20%28PlayChoice-10%29.mra"
+   "hash": "f5979a95cc2e9e63bcf901ffda276331",
+   "size": 2568,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Teenage%20Mutant%20Ninja%20Turtles%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Teenage Mutant Ninja Turtles II- The Arcade Game (PlayChoice-10).mra": {
-   "hash": "be7fec0b3d4bae19df83a665e0b49936",
+   "hash": "792ae1fe1a340ecbbb03f894ba46af25",
    "size": 2597,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Teenage%20Mutant%20Ninja%20Turtles%20II-%20The%20Arcade%20Game%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Teenage%20Mutant%20Ninja%20Turtles%20II-%20The%20Arcade%20Game%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Tennis (PlayChoice-10).mra": {
-   "hash": "598ba00911984cd8e4d6a9fb61c0ad0a",
+   "hash": "b5fa6f26f5422c1ea95c335404451db7",
    "size": 2526,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Tennis%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Tennis%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Tetris Plus (ver 1.0).mra": {
    "hash": "ea075118c51ef16919b44729f932b15f",
@@ -915,9 +915,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-JalecoMS32_MiSTer/4bba751ba18c5ff1293c1c711cda911aa6368bb6/releases/The%20Game%20Paradise%20-%20Master%20of%20Shooting%21%20%28ver%201.0%29.mra"
   },
   "_Arcade/The Goonies (PlayChoice-10).mra": {
-   "hash": "2ecf70db1f8fb287bc786af5430eb4af",
+   "hash": "ed9a605eff2f99b3714e62368b192d93",
    "size": 2529,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/The%20Goonies%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/The%20Goonies%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/The Legend of Silkroad.mra": {
    "hash": "0ea5420938ba1a376391f2e0d476c084",
@@ -935,9 +935,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/Thundercade%20-%20Twin%20Formation.mra"
   },
   "_Arcade/Tiny Toon Adventures (prototype) (PlayChoice-10).mra": {
-   "hash": "270d9a7bff5f6b520a1a042f58aecf8e",
+   "hash": "efc6b28bd87d67b7fc75279b8485242a",
    "size": 2592,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Tiny%20Toon%20Adventures%20%28prototype%29%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Tiny%20Toon%20Adventures%20%28prototype%29%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/To Heart House.mra": {
    "hash": "c3c41433a740ced6e836ad6281c075b2",
@@ -955,9 +955,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/Tokimeki%20Memorial%20Taisen%20Puzzle-dama%20%28ver%20JAB%29.mra"
   },
   "_Arcade/Toppy & Rappy.mra": {
-   "hash": "9dc08a13d4135ffe3b06250b8036b866",
+   "hash": "a1471209b5d811149bfaed61edb199b1",
    "size": 2631,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Toppy%20%26%20Rappy.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Toppy%20%26%20Rappy.mra"
   },
   "_Arcade/Toy Land Adventure.mra": {
    "hash": "775b37feaf5502c736ee2b57b8878db5",
@@ -965,9 +965,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Toy%20Land%20Adventure.mra"
   },
   "_Arcade/Track & Field (PlayChoice-10).mra": {
-   "hash": "cae8752eb8df5711c145545595229833",
+   "hash": "b9c0b0b0b8a045c4633ec25062bba333",
    "size": 2561,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Track%20%26%20Field%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Track%20%26%20Field%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Trivial Pursuit (All Star Sports Edition).mra": {
    "hash": "a06c706caa9488098137404ced6f721b",
@@ -1000,9 +1000,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/ff83d2ac6071c348a641508425461831208c20b3/releases/Trivial%20Pursuit%20%28Young%20Players%20Edition%29%20%283-29-85%29.mra"
   },
   "_Arcade/Trojan (PlayChoice-10).mra": {
-   "hash": "bdb33e2edc2e4390f45f4a5e96bbdead",
+   "hash": "50c6a3dd98a0e960fe02a9b5588e340c",
    "size": 2556,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Trojan%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Trojan%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Twin Bee Yahhoo! (ver JAA).mra": {
    "hash": "0c553b3166dba8e64a9af0a2ae53335c",
@@ -1017,7 +1017,7 @@
   "_Arcade/Twinkle (set 1).mra": {
    "hash": "a16f2be61f811b3a6b2900fb10e4b0b8",
    "size": 2462,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Twinkle%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Twinkle%20%28set%201%29.mra"
   },
   "_Arcade/Ultraman Club - Tatakae! Ultraman Kyoudai!!.mra": {
    "hash": "924beef3cfbb31513e8824a32286a15b",
@@ -1025,9 +1025,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/Ultraman%20Club%20-%20Tatakae%21%20Ultraman%20Kyoudai%21%21.mra"
   },
   "_Arcade/Uncle Fester's Quest- The Addams Family (PlayChoice-10).mra": {
-   "hash": "cd9ee7d0a57f7b34a579f9a202f15b39",
+   "hash": "08412519267a844447787a22b481b533",
    "size": 2589,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Uncle%20Fester%27s%20Quest-%20The%20Addams%20Family%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Uncle%20Fester%27s%20Quest-%20The%20Addams%20Family%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Vamf x1-2 (Europe, version 1.1.0908).mra": {
    "hash": "c84b0f62c4ebbeb74b3848a55f64c131",
@@ -1040,9 +1040,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/Versus%20Net%20Soccer%20%28ver%20EAD%29.mra"
   },
   "_Arcade/Volley Ball (PlayChoice-10).mra": {
-   "hash": "24993be70bf8cea0b3a7350d93575339",
+   "hash": "f47d9d01e05be3ea07048b806f9b9dab",
    "size": 2529,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Volley%20Ball%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Volley%20Ball%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Vs. Janshi Brandnew Stars (Ver 1.1, MegaSystem 32 Version).mra": {
    "hash": "41282ea16664aa43312bb9ed7cc3fd35",
@@ -1055,9 +1055,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/War%20of%20Aero%20-%20Project%20MEIOU.mra"
   },
   "_Arcade/Wild Gunman (PlayChoice-10).mra": {
-   "hash": "5053a10670b9ac459d72b0334b4db29d",
+   "hash": "c60c5841cb27fb81e865adcf991889bf",
    "size": 2540,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Wild%20Gunman%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Wild%20Gunman%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Winning Spike (ver EAA).mra": {
    "hash": "f921ded8dc09555e83fa9b434b6e817e",
@@ -1085,9 +1085,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-HyperNG64_MiSTer/70f8613f2378f426513542203a1970c099310848/releases/Xtreme%20Rally%20-%20Off%20Beat%20Racer%21.mra"
   },
   "_Arcade/Yo! Noid (PlayChoice-10).mra": {
-   "hash": "a696f213c8a3e0933c2b3ecb1c468e78",
+   "hash": "84e4e482c00bcb9c01452a6ee8c62ed1",
    "size": 2561,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Yo%21%20Noid%20%28PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Yo%21%20Noid%20%28PlayChoice-10%29.mra"
   },
   "_Arcade/Yori Jori Kuk Kuk.mra": {
    "hash": "e4f4e05d6084ff31b77814e67486173c",
@@ -1115,19 +1115,19 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/_alternatives/_Blandia/Blandia%20%28prototype%29.mra"
   },
   "_Arcade/_alternatives/_Cookie & Bibi 2 (English, set 1)/Cookie & Bibi 2 (English - Korean).mra": {
-   "hash": "916f78f3619aa9ad830d162799b85f08",
-   "size": 2448,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%20-%20Korean%29.mra"
+   "hash": "bce337e943ebbf30633da7abe4ab2bb6",
+   "size": 2451,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%20-%20Korean%29.mra"
   },
   "_Arcade/_alternatives/_Cookie & Bibi 2 (English, set 1)/Cookie & Bibi 2 (English, set 2).mra": {
-   "hash": "99caea5674c7d443d854dedbc37b9bd4",
-   "size": 2519,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%202%29.mra"
+   "hash": "fa34bb5e2871aafa4ed82198d8e17fa2",
+   "size": 2522,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%202%29.mra"
   },
   "_Arcade/_alternatives/_Cookie & Bibi 2 (English, set 1)/Cookie & Bibi 2 (English, set 3).mra": {
-   "hash": "6cefda55bfd8a466d975c8dfcaf15a8b",
-   "size": 2429,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%203%29.mra"
+   "hash": "fac259b34b676493d53a5096f74c2f10",
+   "size": 2432,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%203%29.mra"
   },
   "_Arcade/_alternatives/_Cool Minigame Collection/Cool Minigame Collection (Italy).mra": {
    "hash": "2eac06d980faa4b3e8a05c5c22d7b7d9",
@@ -1160,9 +1160,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/_alternatives/_DownTown%20-%20Mokugeki/DownTown%20-%20Mokugeki%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Dr. Mario/Virus (Dr. Mario prototype, PlayChoice-10).mra": {
-   "hash": "0daa876a0e7d85978c8a7785ee12fa2a",
+   "hash": "808102660adf34b1dfbb2880d08bc682",
    "size": 2602,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/_alternatives/_Dr.%20Mario/Virus%20%28Dr.%20Mario%20prototype%2C%20PlayChoice-10%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/_alternatives/_Dr.%20Mario/Virus%20%28Dr.%20Mario%20prototype%2C%20PlayChoice-10%29.mra"
   },
   "_Arcade/_alternatives/_Dragoon Might (ver AAB)/Dragoon Might (ver JAA).mra": {
    "hash": "69817201174c58ec3f6054e35173743e",
@@ -1210,9 +1210,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/ed067f8cba69d46158ce75e5b701c0b8b8675c59/releases/_alternatives/_Gradius%20IV/Gradius%20IV%20Fukkatsu%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_alternatives/_Gradius/Gradius (PlayChoice-10, older).mra": {
-   "hash": "ea176d7e0e590446b4b54c4c70002eb5",
+   "hash": "3432e9417e14d274c2afc46dae0d378b",
    "size": 2571,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/_alternatives/_Gradius/Gradius%20%28PlayChoice-10%2C%20older%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/_alternatives/_Gradius/Gradius%20%28PlayChoice-10%2C%20older%29.mra"
   },
   "_Arcade/_alternatives/_Gratia - Second Earth (ver 1.0, 92047-01 version)/Gratia - Second Earth (ver 1.0, 91022-10 version).mra": {
    "hash": "c861e9c2e890d2f799acd5e7e450bca7",
@@ -1252,7 +1252,7 @@
   "_Arcade/_alternatives/_Hyper Pacman/Hyper Pacman (bootleg).mra": {
    "hash": "7579acd0402063cc945ebf3a7187a723",
    "size": 2343,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_Hyper%20Pacman/Hyper%20Pacman%20%28bootleg%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Hyper%20Pacman/Hyper%20Pacman%20%28bootleg%29.mra"
   },
   "_Arcade/_alternatives/_Idol Janshi Suchie-Pai II (ver 1.1)/Idol Janshi Suchie-Pai II (ver 1.0).mra": {
    "hash": "dbcfe9deb1fd05ee7a986017d6b8fe00",
@@ -1392,7 +1392,7 @@
   "_Arcade/_alternatives/_New HyperMan (3-in-1 with Cookie & Bibi & HyperMan) (set 1)/New HyperMan (3-in-1 with Cookie & Bibi & HyperMan) (set 2).mra": {
    "hash": "75b90dc1eb24ac9ea2c534aef34c741f",
    "size": 2546,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Night Stocker/Night Stocker (8-27-86).mra": {
    "hash": "7fcbe4ab76f07a7079128f4cdc7d1ab5",
@@ -1417,7 +1417,7 @@
   "_Arcade/_alternatives/_Puzzle Break (set 1)/Puzzle Break (set 2).mra": {
    "hash": "d307f4f291924076f60d4f5bc5788e70",
    "size": 2387,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_Puzzle%20Break%20%28set%201%29/Puzzle%20Break%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Puzzle%20Break%20%28set%201%29/Puzzle%20Break%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Racin' Force (ver EAC)/Racin' Force (ver UAB).mra": {
    "hash": "7fe3e6b06086694356e40da27817337d",
@@ -1467,27 +1467,27 @@
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (Dooyong license).mra": {
    "hash": "08ce0eb4ee8fcc44e4c6cd1bd737f1b3",
    "size": 2402,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28Dooyong%20license%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28Dooyong%20license%29.mra"
   },
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (Japan).mra": {
    "hash": "558e5b56e18f2c7552186f295da0ae84",
    "size": 2372,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28Japan%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28Japan%29.mra"
   },
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (set 2).mra": {
    "hash": "5d5e8117c017b90d5cea247d4339b907",
    "size": 2389,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (set 3).mra": {
    "hash": "ec9c8df2996a25c5c7f8fe0d757a2908",
    "size": 2385,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%203%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%203%29.mra"
   },
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (set 4).mra": {
    "hash": "0f22f6f743933ecf23b1d82827eef91c",
    "size": 2383,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%204%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%204%29.mra"
   },
   "_Arcade/_alternatives/_Soccer Superstars (ver EAC)/Soccer Superstars (ver AAA).mra": {
    "hash": "77afc8bac47dd8d5b719eaac2f350c3a",
@@ -1587,7 +1587,7 @@
   "_Arcade/_alternatives/_Twinkle (set 1)/Twinkle (set 2).mra": {
    "hash": "c9da27ef2eac01edfe0b29336a1e9a74",
    "size": 2476,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/_alternatives/_Twinkle%20%28set%201%29/Twinkle%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/_alternatives/_Twinkle%20%28set%201%29/Twinkle%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Vamf x1-2/Vamf x1-2 (Europe, version 1.0.0903).mra": {
    "hash": "006c2071206c83c91eb148c568cbfdf6",
@@ -1712,12 +1712,12 @@
   "_Arcade/cores/Pandora_20261021.rbf": {
    "hash": "510a6c871e817dff10c0d859d5587b9b",
    "size": 3364736,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/c97b9c0dd15cc2c59884090886a17ad58df363d5/releases/Arcade-Pandora_20261021.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/575955f41b73e5241b55b144bbbe4be65b61d920/releases/Arcade-Pandora_20261021.rbf"
   },
   "_Arcade/cores/PlayChoice10_20261020.rbf": {
    "hash": "3b9c396f91c818211e043850f53497c8",
    "size": 3772336,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/e043143b6e3466e1f97afed16388cf90412aa9cb/releases/Arcade-PlayChoice10_20261020.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Arcade-PlayChoice10_20261020.rbf"
   },
   "_Arcade/cores/SetaDowntown_20260921.rbf": {
    "hash": "f7b5fca7f7090e4257262b9afd181283",
@@ -1748,1333 +1748,1555 @@
    "hash": "e35a0f18c96756217887964544905341",
    "size": 2046450,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/3in1semi.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/4in1boot.zip": {
    "hash": "5b2d1197e8631ed402dec234971610fb",
    "size": 1185199,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/4in1boot.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/akiss.zip": {
    "hash": "6a02dec5c0368b7a6b29c54e08700f15",
    "size": 13222532,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/akiss.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/aoh.zip": {
    "hash": "1b86778a61a657ce5c6242f2cd972687",
    "size": 30462319,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/aoh.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/atehate.zip": {
    "hash": "6aac0b2b8b9c31b20abc3b9eeb389d03",
    "size": 1967252,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/atehate.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/baryon.zip": {
    "hash": "2d92ba44910951cdc4f84934a4b508b5",
    "size": 2532933,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/baryon.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/bbbxing.zip": {
    "hash": "20ea54376b105cfcf7657897d17dae66",
    "size": 10429741,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/bbbxing.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/bbust2.zip": {
    "hash": "02549f00a06b76c6cccceef2a3703c7f",
    "size": 32920435,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/bbust2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/blandia.zip": {
    "hash": "4fa9bce31b052c243747b3dcce5fc11d",
    "size": 6996255,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/blandia.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/blockcar.zip": {
    "hash": "8b39bbcb991793ba8262177efe81fe2b",
    "size": 1866471,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/blockcar.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/bnstars1.zip": {
    "hash": "d1f2a1f3e79d0ad6b76df48c47d1a928",
    "size": 18608613,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/bnstars1.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/boonggab.zip": {
    "hash": "4a917e33baf4ab1140f652bb0b95f208",
    "size": 14279857,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/boonggab.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/buriki.zip": {
    "hash": "be5ac200fdb0922d9a21db4357217b37",
    "size": 54519633,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/buriki.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/candy.zip": {
    "hash": "8b11e4c7098dc2eb1a16afe24267c2ec",
    "size": 14513609,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/candy.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/cookbib2.zip": {
    "hash": "b277fa7ba48e9583e146ddb21470d48b",
    "size": 2349351,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/cookbib2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/cookbib3.zip": {
    "hash": "08d84864359d554308c0d542f2bba183",
    "size": 846012,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/cookbib3.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/coolmini.zip": {
    "hash": "bb6be097bb7f94111c9449b94aae5388",
    "size": 9027110,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/coolmini.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/crazywar.zip": {
    "hash": "71fc6380adc8fc98186161af0f00ac56",
    "size": 12682336,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/crazywar.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/crzcross.zip": {
    "hash": "806698d88b5c25153c00780ea817b521",
    "size": 5744659,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/crzcross.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/cshift.zip": {
    "hash": "7608c515157d46b04b9e5f8da3c895a4",
    "size": 39280,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/cshift.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/cutefght.zip": {
    "hash": "aa17f3fc9f7e52fe64677cb172705652",
    "size": 4309956,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/cutefght.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/daioh.zip": {
    "hash": "74c9b667c6ee1f69804eb2948350b4eb",
    "size": 12700846,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/daioh.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/daiskiss.zip": {
    "hash": "ad5913634135e43b13add813af0ef91d",
    "size": 3824411,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/daiskiss.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/desertwr.zip": {
    "hash": "cf61a5cbcac5860c986054df521931fc",
    "size": 10622326,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/desertwr.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/downtown.zip": {
    "hash": "6e4c87f1486e8a3f058a064bad076f83",
    "size": 1808798,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/downtown.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/dquizgo2.zip": {
    "hash": "3bc50802c93a9dad9a15a6c382427aeb",
    "size": 5801031,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/dquizgo2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/dragoona.zip": {
    "hash": "2f3778bd25e12bd965831962c6bb3dac",
    "size": 11836268,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/dragoona.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/dreamwld.zip": {
    "hash": "67c23b22fe5629301f0be817c847e156",
    "size": 2007956,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/dreamwld.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/drgnunit.zip": {
    "hash": "40ec461642b784105a218c25d35bfca9",
    "size": 1821007,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/drgnunit.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/dtfamily.zip": {
    "hash": "e40ebc639f105721365dfebd16c48cd0",
    "size": 4237482,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/dtfamily.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/dynabomb.zip": {
    "hash": "e1c5640ff9d9f83152e7b8353686522d",
    "size": 5708807,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/dynabomb.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/eightfrc.zip": {
    "hash": "cafa9dc2122be9335a04338288a61f10",
    "size": 2973386,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/eightfrc.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/extdwnhl.zip": {
    "hash": "54ae438974139e7873e51a1807f91027",
    "size": 3869597,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/extdwnhl.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/f1superb.zip": {
    "hash": "951e1b4172e414a9f9493d378da5256e",
    "size": 17252765,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/f1superb.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/fantjour.zip": {
    "hash": "f0117b59661f31366d7b1b7be69ff388",
    "size": 6581455,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/fantjour.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/fatfurwa.zip": {
    "hash": "abf45a15d67af4aa6cd536e1bddff0ac",
    "size": 91935302,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/fatfurwa.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/finalgdr.zip": {
    "hash": "d044589c0890575d5c3ed035bc08175c",
    "size": 1961228,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/finalgdr.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/finalttr.zip": {
    "hash": "2ba81ba082709f6bd5bc2bc9dee28036",
    "size": 260189,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/finalttr.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/fort2b.zip": {
    "hash": "cf6414869d3ace7fb7141a6a386b9335",
    "size": 14863754,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/fort2b.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/gaialast.zip": {
    "hash": "7ed26621aaf0951c8a9d415a5b8f7580",
    "size": 3982955,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gaialast.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/gametngk.zip": {
    "hash": "8c19de84b4c957a8dc768320b597106b",
    "size": 13902932,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gametngk.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/genix.zip": {
    "hash": "87f1d4e68cfd681e6770f08373576eae",
    "size": 2127278,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/genix.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/gghost.zip": {
    "hash": "a615b37643f470d540c444d2591e7aa2",
    "size": 28617,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gghost.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/gimeabrk.zip": {
    "hash": "8c07c04c2c9f32eee83b871393a86fbe",
    "size": 34490,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gimeabrk.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/gradius4.zip": {
    "hash": "2d129c549f361136ef59263d3b53f92e",
    "size": 15053534,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gradius4.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/gratia.zip": {
    "hash": "b16880e215746eab6756ce26ac61e6aa",
    "size": 12372816,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gratia.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/grudge.zip": {
    "hash": "434fc940a8349b3fff6a08bb7523bc0b",
    "size": 126254,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/grudge.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/gstream.zip": {
    "hash": "c946ed316cca8579254c3ac51d57814e",
    "size": 12489602,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gstream.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/gundhara.zip": {
    "hash": "73b150cc8a5e50fd9c18a37a950e733d",
    "size": 10942952,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gundhara.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/gwasu.zip": {
    "hash": "48aea324231b5224707e9c826ca9b6dc",
    "size": 520059,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/gwasu.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/hattrick.zip": {
    "hash": "b04aa9be79d78ebffda80fed667b9db6",
    "size": 16562,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hattrick.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/hayaosi2.zip": {
    "hash": "425d2f1e3ab9d7b1383991b439a6b07a",
    "size": 6534132,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hayaosi2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/hayaosi3.zip": {
    "hash": "8be2abdde03cc60dac1ef71eebb043ae",
    "size": 9195833,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hayaosi3.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/hidctch2.zip": {
    "hash": "102f9b2ca5f5971a41950d59adc2687d",
    "size": 21043302,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hidctch2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/hidctch3.zip": {
    "hash": "f71bf49c0d209239317dc849416bf6b2",
    "size": 18524487,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hidctch3.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/hidnc2k.zip": {
    "hash": "1b1291f615514640f6f6ef1edeffb40d",
    "size": 21643905,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hidnc2k.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/hidnctch.zip": {
    "hash": "3266f039205d3576b491c6934a235423",
    "size": 15404914,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hidnctch.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/hng64.zip": {
    "hash": "219a818c4ffd9fab04b9be9c7e2107a8",
    "size": 41592,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hng64.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/hrthouse.zip": {
    "hash": "85a008f3e740ba55c4406eb471c74c50",
    "size": 2134520,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hrthouse.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/hyperpac.zip": {
    "hash": "772da3d501c0a5c795645e5c5fdaf19c",
    "size": 506903,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hyperpac.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/ironfort.zip": {
    "hash": "9f286a079893e8260a6441d19e2d5643",
    "size": 5112476,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ironfort.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/jjsquawk.zip": {
    "hash": "d38cea9630d86502214a4c0d1ede9711",
    "size": 8296845,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/jjsquawk.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/jmpbreak.zip": {
    "hash": "541c1cee67256406bad7da095fbb6d2d",
    "size": 5262835,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/jmpbreak.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/kamenrid.zip": {
    "hash": "dd5be3f5b58092d1c3ff64b886b95261",
    "size": 1645002,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/kamenrid.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/kirarast.zip": {
    "hash": "390ff256e11415db1477ffcc03f3b809",
    "size": 13551531,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/kirarast.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/klondkp.zip": {
    "hash": "d0f431e7f84323f8f819211fd48008ca",
    "size": 607162,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/klondkp.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/konamigx.zip": {
    "hash": "981fa4057f4bd5c064ce446963d8ac33",
    "size": 8734,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/konamigx.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/landbrk.zip": {
    "hash": "3bc0b3b4a0f6edc24bdec8ae8cc64f72",
    "size": 26154508,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/landbrk.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/le2.zip": {
    "hash": "c2b0b6138e607afba3e2f45005eb217a",
    "size": 12848032,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/le2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/legendoh.zip": {
    "hash": "cc0c10ccb8f4006090d18060dedba3b7",
    "size": 7731481,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/legendoh.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/lethalen.zip": {
    "hash": "ee313295ed9b4fb3e3e7ef72d6b0a432",
    "size": 6864665,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/lethalen.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/linkypip.zip": {
    "hash": "3d19a4d30c323695706a681a3d5e7047",
    "size": 4221563,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/linkypip.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/madshark.zip": {
    "hash": "193b09791ce3504618252bc2f7cb706a",
    "size": 3833215,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/madshark.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/magspeed.zip": {
    "hash": "4a6ebbb047ed8d880f07be9dce410799",
    "size": 1457668,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/magspeed.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/mcheonru.zip": {
    "hash": "a0eb279be17ebb3c5dd74908541248ac",
    "size": 1261590,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/mcheonru.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/minigolf.zip": {
    "hash": "3ff23a92ddfc09deda2d6e4a2031a59d",
    "size": 115313,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/minigolf.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/misncrft.zip": {
    "hash": "5c3c58bd95cc96994a55c259ba360ed6",
    "size": 6155831,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/misncrft.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/moremore.zip": {
    "hash": "b4d531f29da7a36e72d25884afbc0831",
    "size": 938135,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/moremore.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/moremorp.zip": {
    "hash": "14f341ac6f8b6a21feeb907e1ad03009",
    "size": 910432,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/moremorp.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/mrdig.zip": {
    "hash": "0d6c716ac05c26d2b9b7f2d50c3a88b5",
    "size": 1432765,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/mrdig.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/mrkicker.zip": {
    "hash": "9eac2d4dedec1925eba70388f5bfda65",
    "size": 2153077,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/mrkicker.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/msgundam.zip": {
    "hash": "f001a138f3d0a2da9ee35a2045323d0f",
    "size": 5086055,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/msgundam.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/nametune.zip": {
    "hash": "a29eb7b742c969a960d7aae811b72c62",
    "size": 296189,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/nametune.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/nbapbp.zip": {
    "hash": "8304bf144909ef09118d91732c58eaf7",
    "size": 23583164,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/nbapbp.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/neobattl.zip": {
    "hash": "4a27ba9259f5d1d70318e5b9c5416715",
    "size": 1231676,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/neobattl.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/newxpang.zip": {
    "hash": "251301765f56081647f693643e5ae45f",
    "size": 4243875,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/newxpang.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/nhidctch.zip": {
    "hash": "8614070b65ff439f06034f45a23799bb",
    "size": 20136320,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/nhidctch.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/nstocker.zip": {
    "hash": "a3953f4536b3bbe06551676bb0bb9e67",
    "size": 77719,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/nstocker.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/oisipuzl.zip": {
    "hash": "3cfc3db9b5a9c1196389101e5d9235d2",
    "size": 5000993,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/oisipuzl.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/opengolf.zip": {
    "hash": "a8b962cd6a66f4d7ca49fab632b31d4f",
    "size": 12923863,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/opengolf.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/otwalls.zip": {
    "hash": "753dd0c3183f42fd6db7f39fbbf3711e",
    "size": 27208,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/otwalls.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/p47aces.zip": {
    "hash": "737ba785c93fb708eceb9a79f02e773d",
    "size": 9094666,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/p47aces.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pairlove.zip": {
    "hash": "137d3ce5e0327bbad44dfe7efae47ffd",
    "size": 611159,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pairlove.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_1942.zip": {
    "hash": "75ac74f775e79b7583239410b5bdc859",
    "size": 31276,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_1942.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_bball.zip": {
    "hash": "256d106e4168fa5c3018802356715539",
    "size": 20021,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_bball.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_bfght.zip": {
    "hash": "389cb4091b823dcfcb32fc1729ef4d58",
    "size": 19008,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_bfght.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_bload.zip": {
    "hash": "8e6fde232b9921e1a5fe32ff2dcd8a29",
    "size": 145803,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_bload.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_bstar.zip": {
    "hash": "af328af9bdbc6ec9d0a8109ab7bc6cdb",
    "size": 132439,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_bstar.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_cntra.zip": {
    "hash": "76fbfa14d6c3e983adc92ed5f350d197",
    "size": 93213,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_cntra.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_cshwk.zip": {
    "hash": "c46c377e31c51149c7a226956b9a0331",
    "size": 84868,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_cshwk.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_cvnia.zip": {
    "hash": "ec3b7f388aff56b2e1d3d4d78dbec882",
    "size": 69539,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_cvnia.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_dbldr.zip": {
    "hash": "58fea45b333fd11f5d2d3a850462b064",
    "size": 91029,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_dbldr.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_ddrgn.zip": {
    "hash": "7edaaaaa06fc901e4d1bba52229ae50e",
    "size": 143607,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_ddrgn.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_drmro.zip": {
    "hash": "7e5994372d93522b4650cee73efed404",
    "size": 57887,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_drmro.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_duckh.zip": {
    "hash": "5a998aba61ac1ccdf9fe335580e7d27e",
    "size": 19050,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_duckh.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_ebike.zip": {
    "hash": "748af31606f9f08016791b566986ef6f",
    "size": 20683,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_ebike.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_ftqst.zip": {
    "hash": "128d23220323177dce8954f81e16b669",
    "size": 108922,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_ftqst.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_gntlt.zip": {
    "hash": "7cacddfeba1eff097bed9f32f1115378",
    "size": 88724,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_gntlt.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_golf.zip": {
    "hash": "063462acd6771a3137d3696623c9fa68",
    "size": 19464,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_golf.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_goons.zip": {
    "hash": "6588745634f5a8193f96f9959f95ce0f",
    "size": 37097,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_goons.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_grdus.zip": {
    "hash": "26536bebf3d421e682f03d34915e03f6",
    "size": 65511,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_grdus.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_hgaly.zip": {
    "hash": "3052fdc1b7f7e7fdb913c17cb096d6a8",
    "size": 18415,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_hgaly.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_kngfu.zip": {
    "hash": "585e8a2d28fe3dc3e58bffae640d35d6",
    "size": 32388,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_kngfu.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_mario.zip": {
    "hash": "163060959d51d057eb827707e7fb05fd",
    "size": 19726,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_mario.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_miket.zip": {
    "hash": "a772ee98a734df974e0306d4083bdd14",
    "size": 138442,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_miket.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_mman3.zip": {
    "hash": "127be2dd6cdc8af8e60cfc93c229cde1",
    "size": 228203,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_mman3.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_moglf.zip": {
    "hash": "b0d1388b4dd02e95037b67c0ef6fd7d5",
    "size": 190686,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_moglf.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_mtoid.zip": {
    "hash": "f531b0ec54f12814143089879433835f",
    "size": 70075,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_mtoid.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_ngai2.zip": {
    "hash": "2a8bc624c97c1734e14ffc2b3f24f2b7",
    "size": 172083,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_ngai2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_ngai3.zip": {
    "hash": "ba925dfb0b14513d9162725355250b33",
    "size": 172689,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_ngai3.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_ngaid.zip": {
    "hash": "c3dce1d685eb6495ade355aeee98663c",
    "size": 144540,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_ngaid.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_pinbt.zip": {
    "hash": "685c887dda14e03d8b18d7b7be581416",
    "size": 107340,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_pinbt.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_pwbld.zip": {
    "hash": "d8bf4015e95ffaa263eeb29f66c46cef",
    "size": 131704,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_pwbld.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_pwrst.zip": {
    "hash": "7ecdb2561001c2fccd55ff2295d80eb7",
    "size": 56305,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_pwrst.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_radr2.zip": {
    "hash": "5249ed182cb339e4c89d58c78e570358",
    "size": 57497,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_radr2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_radrc.zip": {
    "hash": "090ade23cf46b60e54cabfe3b97fc2d2",
    "size": 49818,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_radrc.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_rcpam.zip": {
    "hash": "d59ee0ffa09be58d8b2b4d9f4c545d5d",
    "size": 40452,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_rcpam.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_rkats.zip": {
    "hash": "7038339277a7c89d39949fa9844321df",
    "size": 150920,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_rkats.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_rnatk.zip": {
    "hash": "b39231b0b36a5c89977edcfddb998c60",
    "size": 63319,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_rnatk.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_rrngr.zip": {
    "hash": "1e75f5d8af7cc497ce5204916e27b50b",
    "size": 149839,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_rrngr.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_rygar.zip": {
    "hash": "a3e19721b755d84868d7d806317471ca",
    "size": 79756,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_rygar.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_sjetm.zip": {
    "hash": "3ce6b03df59f636df30f657b9a189077",
    "size": 170288,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_sjetm.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_smb.zip": {
    "hash": "f689b9a88611397b6156e972857035df",
    "size": 34883,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_smb.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_smb2.zip": {
    "hash": "30abebc41b66d3d6bf9e4adda3ba3af8",
    "size": 80818,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_smb2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_smb3.zip": {
    "hash": "f558e643cc5b2718795a7b9c5a68c148",
    "size": 230673,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_smb3.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_suprc.zip": {
    "hash": "c36a7353b008bd16ee634dc1af530a65",
    "size": 152098,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_suprc.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_tbowl.zip": {
    "hash": "f32b8ab5f0a8f8088402ba74e223830b",
    "size": 103630,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_tbowl.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_tenis.zip": {
    "hash": "625f6d2912f555c8ec1c45cf5712286c",
    "size": 19681,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_tenis.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_tkfld.zip": {
    "hash": "64a09119d1d72f12717dfcd2fc9a327b",
    "size": 36300,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_tkfld.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_tmnt.zip": {
    "hash": "2297e77cf580542caaeec290f2e79f6b",
    "size": 148511,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_tmnt.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_tmnt2.zip": {
    "hash": "68c094dac49dadac0da97371112bd149",
    "size": 263770,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_tmnt2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_trjan.zip": {
    "hash": "98de3912c7184744ef00c84b7f08deb0",
    "size": 78145,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_trjan.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_ttoon.zip": {
    "hash": "d34f7c8ec17a1e81e453657a07e7a7b3",
    "size": 146767,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_ttoon.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_vball.zip": {
    "hash": "02620c1a07a5d60c782f1cdefcc40c60",
    "size": 24517,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_vball.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_wcup.zip": {
    "hash": "5d8b24eac9135af451dc8517680276c8",
    "size": 113034,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_wcup.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_wgnmn.zip": {
    "hash": "703788e801345477885447809834785e",
    "size": 19278,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_wgnmn.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pc_ynoid.zip": {
    "hash": "3982795a8b26250286ffb103e84e4c48",
    "size": 135116,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pc_ynoid.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/penfan.zip": {
    "hash": "71fa3926fd290632c2d5cfb6a27047e8",
    "size": 11881042,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/penfan.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pirates.zip": {
    "hash": "f63cb885b3856747c6ddabc2170cd138",
    "size": 4300050,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pirates.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/playch10.zip": {
    "hash": "49f8475ae1aa30dc8b9ec8fc134ae8ff",
    "size": 55339,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/playch10.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/poosho.zip": {
    "hash": "b1feee13a2c1508be5190347e9494397",
    "size": 4582720,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/poosho.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/puzzlekg.zip": {
    "hash": "d427c9a9cbd94df26b2b6eb134de9ea1",
    "size": 16929954,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/puzzlekg.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/pzlbreak.zip": {
    "hash": "f7eae4a4bd0a3765579c0be6ce753591",
    "size": 775262,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/pzlbreak.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/qzkklgy2.zip": {
    "hash": "4a86eecd15b10ebac67c7e4ff7484b30",
    "size": 1769563,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/qzkklgy2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/qzkklogy.zip": {
    "hash": "9b4f6f45dd11ba7e6134a29d07c28045",
    "size": 1490288,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/qzkklogy.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/raccoon.zip": {
    "hash": "22bbe085fadfd15d548710fd864614f2",
    "size": 3367831,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/raccoon.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/racinfrc.zip": {
    "hash": "03348188f5c099833390b374140f5b2d",
    "size": 9582809,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/racinfrc.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/rescraid.zip": {
    "hash": "b6e62c07bd1edffc4a7fa58e05d522df",
    "size": 148830,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/rescraid.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/rezon.zip": {
    "hash": "6b35ed8c9fd2c39196e659ae190ee1e3",
    "size": 1288950,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/rezon.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/roadedge.zip": {
    "hash": "c7e53aea511ff5ee0a16cfc459f40c1b",
    "size": 39141986,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/roadedge.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/rolcrush.zip": {
    "hash": "304756a0e59d82379052eeb5ee44e0aa",
    "size": 4259070,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/rolcrush.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/rungun2.zip": {
    "hash": "018f3ded9b9933cb9fb06f7234d43f50",
    "size": 18718562,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/rungun2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/rushhero.zip": {
    "hash": "42ff5030cf99add502419ad65e6fae47",
    "size": 19207880,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/rushhero.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/salmndr2.zip": {
    "hash": "699c0e30ed62d1b206928755302b8e2f",
    "size": 6686739,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/salmndr2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/sams64.zip": {
    "hash": "aa5c4131313bfab40413f6d0123e5008",
    "size": 49437622,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/sams64.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/sams64_2.zip": {
    "hash": "77de0bb53e88a82f56b449c1ce6e4f54",
    "size": 72026116,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/sams64_2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/sb2003.zip": {
    "hash": "a38989a3cc9387b5de75e5dc67f80d65",
    "size": 6663901,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/sb2003.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/sente6vb.zip": {
    "hash": "c0f5e64132778ff0f4ee50eba1970bc4",
    "size": 4778,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/sente6vb.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/sentetst.zip": {
    "hash": "c7324325900146ccc9ebad405ab15242",
    "size": 5166,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/sentetst.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/sexyparo.zip": {
    "hash": "9f338a80cd8e122ef847e95ee8bc32ba",
    "size": 12554164,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/sexyparo.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/sfootbal.zip": {
    "hash": "47e2843c9ac2a870b9d80c00131f15fb",
    "size": 42798,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/sfootbal.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/shrike.zip": {
    "hash": "49d75045931a20ebb6e874c51407a71d",
    "size": 88269,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/shrike.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/silkroad.zip": {
    "hash": "4d92c8b4ffa21c46793f3d1148f54a81",
    "size": 17200006,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/silkroad.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/snakepit.zip": {
    "hash": "0a44470ed6ba5ed1edd5576a9c4eb2ad",
    "size": 67157,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/snakepit.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/snakjack.zip": {
    "hash": "56e5d902b6f23640b19c4f14790de6ed",
    "size": 54461,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/snakjack.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/snowbros.zip": {
    "hash": "b645976a0b0390a52f2cae504f4ad940",
    "size": 946472,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/snowbros.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/soccerss.zip": {
    "hash": "d4bb28327fb34d2d735f5478363f6ade",
    "size": 8427035,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/soccerss.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/sokonuke.zip": {
    "hash": "f8cf10ad021b0fdea76294abf5b5725b",
    "size": 1678327,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/sokonuke.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/solitaire.zip": {
    "hash": "eb4861e4c66de47b5dc77332b1423629",
    "size": 5507527,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/solitaire.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/spiker.zip": {
    "hash": "bb5e3716dc5153dba535fa3129138f99",
    "size": 84467,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/spiker.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/spotty.zip": {
    "hash": "6c9284d27a0612b60ba3bf646fc8a000",
    "size": 272327,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/spotty.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/stealsee.zip": {
    "hash": "7a24e04a93acae2faba0d945ad4e5300",
    "size": 11098069,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/stealsee.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/stg.zip": {
    "hash": "eafe1108effcef531df209df434f617b",
    "size": 1753760,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/stg.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/stocker.zip": {
    "hash": "bcd1ad4b69a374cc956d1f3cc6e33174",
    "size": 26920,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/stocker.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/stompin.zip": {
    "hash": "8b237885c8c588ff45df18148c62b08e",
    "size": 123206,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/stompin.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/suchie2.zip": {
    "hash": "edc024d91615bdde45c8fde5c2f5de29",
    "size": 10982266,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/suchie2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/suhosong.zip": {
    "hash": "638545ae2adb6912beaf670259bf8049",
    "size": 680746,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/suhosong.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/suplup.zip": {
    "hash": "01779402352b4601d72f5dcab0a75ad0",
    "size": 18346871,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/suplup.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/sutjarod.zip": {
    "hash": "6ce34dd5c7049ccd04a2a5fc7fc6b1e8",
    "size": 416762,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/sutjarod.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/tbyahhoo.zip": {
    "hash": "23dcf8c77593784b58255a931317e9f4",
    "size": 6831877,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/tbyahhoo.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/teamht.zip": {
    "hash": "d7e867b88db25b6ae31168b49e680a97",
    "size": 19538,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/teamht.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/tetrisp.zip": {
    "hash": "0b3947e9a433c30b37f775c0247409ce",
    "size": 6027269,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/tetrisp.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/tetrisp2.zip": {
    "hash": "ab70be2c48db7753d80a6a1b5094d2d8",
    "size": 14616353,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/tetrisp2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/thunderl.zip": {
    "hash": "144ec37110f2d5f0a6030d30cf15ddae",
    "size": 1194597,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/thunderl.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/tkmmpzdm.zip": {
    "hash": "0008bc1a35732900ccac30924a9501e8",
    "size": 7298231,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/tkmmpzdm.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/tndrcade.zip": {
    "hash": "f72fce9d18dd6d6a6c75cbb3107e101c",
    "size": 866393,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/tndrcade.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/toggle.zip": {
    "hash": "43b6724d0b1ea3c321458c6d9909559d",
    "size": 24365,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/toggle.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/tokkae.zip": {
    "hash": "322139f4f8e25b8061bc8019f72636fa",
    "size": 7199441,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/tokkae.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/toppyrap.zip": {
    "hash": "61bbd8147ccafe4c91480c2083f590e0",
    "size": 899598,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/toppyrap.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/toto.zip": {
    "hash": "d88d8a942a671b39be3198ab9a86ca4a",
    "size": 196069,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/toto.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/toyland.zip": {
    "hash": "d4e86b49efe8c4a4f7c79b50b73db6be",
    "size": 4809873,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/toyland.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/triviabb.zip": {
    "hash": "2ac0728cc698294e48b69b5e73d89b83",
    "size": 82841,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/triviabb.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/triviaes.zip": {
    "hash": "31943df4c46afb3876c5a76561212d0e",
    "size": 176461,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/triviaes.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/triviag1.zip": {
    "hash": "d87c9a16e1e1335e1d759eba9078e340",
    "size": 103603,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/triviag1.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/triviag2.zip": {
    "hash": "b022f679cd4fff48d62ba9b3bdde94a8",
    "size": 77241,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/triviag2.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/triviasp.zip": {
    "hash": "038e4326962066ecfa953bb59685ece2",
    "size": 74460,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/triviasp.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/triviayp.zip": {
    "hash": "36a49d273721703b2e375b6ed4205221",
    "size": 77049,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/triviayp.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/twineagl.zip": {
    "hash": "63ad4ebfeb0717eed431c444bdc719d9",
    "size": 2477358,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/twineagl.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/twinkle.zip": {
    "hash": "8abeae34ee22382a08000986c7b92712",
    "size": 421807,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/twinkle.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/umanclub.zip": {
    "hash": "b859ccabea72748f4ea49b89575e9aa8",
    "size": 1202336,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/umanclub.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/vamphalf.zip": {
    "hash": "9eeb0856ccf723c1585d6ee9dd424153",
    "size": 11777549,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/vamphalf.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/vsnetscr.zip": {
    "hash": "56fbbdf096289fd5fc8e3c785d310d9f",
    "size": 17690672,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/vsnetscr.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/winspike.zip": {
    "hash": "d964cdfb39fff2856ef6ff34939e665c",
    "size": 11936749,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/winspike.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/wits.zip": {
    "hash": "8cbc72045eac86167abb3e16da2e3968",
    "size": 465517,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/wits.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/wivernwg.zip": {
    "hash": "cff61bb1a6d20ca923668b63a3e07124",
    "size": 10553539,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/wivernwg.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/worldadv.zip": {
    "hash": "b0c5fd5be67fa47041af661eb9c78544",
    "size": 4558833,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/worldadv.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/wrofaero.zip": {
    "hash": "48e840f5779f1412ed953f4ad40e6597",
    "size": 1415393,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/wrofaero.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/xrally.zip": {
    "hash": "e5a544bb5a2b5b482f1230420bdaba46",
    "size": 44612580,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/xrally.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/yorijori.zip": {
    "hash": "007697a914482bf2c3a5b654658e7ebb",
    "size": 4303654,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/yorijori.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/yutnori.zip": {
    "hash": "87d71b199284f5d6d18ea12d1820d8d0",
    "size": 1033386,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/yutnori.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/zingzip.zip": {
    "hash": "70df833f41ac3ef98c3894a889bf8e4d",
    "size": 4191731,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/zingzip.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   },
   "games/mame/zombraid.zip": {
    "hash": "b31797722054ab79b3e513cf1828b000",
    "size": 13703913,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/zombraid.zip",
-   "overwrite": false
+   "overwrite": false,
+   "path": "pext"
   }
  },
  "folders": {
@@ -3148,8 +3370,12 @@
   "_Arcade/_alternatives/_Winning Spike (ver EAA)": {},
   "_Arcade/_alternatives/_Wivern Wings": {},
   "_Arcade/cores": {},
-  "games": {},
+  "games": {
+   "path": "pext"
+  },
   "games/arcsnd": {},
-  "games/mame": {}
+  "games/mame": {
+   "path": "pext"
+  }
  }
 }
