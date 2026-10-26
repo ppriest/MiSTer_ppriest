@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1793040625,
+ "timestamp": 1793047068,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "2ab9207ca2578536ea229a33c0d09d6b",
@@ -23,6 +23,11 @@
    "hash": "fbfb196b4721dab5e908ab79d3c35b66",
    "size": 1715,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/Athena%20no%20Hatena.mra"
+  },
+  "_Arcade/Avengers In Galactic Storm (US-Europe 1.0).mra": {
+   "hash": "0a8b79ebd195d8664ec60ff6d655fa34",
+   "size": 3411,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/Avengers%20In%20Galactic%20Storm%20%28US-Europe%201.0%29.mra"
   },
   "_Arcade/Balloon Fight (PlayChoice-10).mra": {
    "hash": "7fc42c252340278db9d8e25e7da910bf",
@@ -364,6 +369,11 @@
    "size": 2542,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/aa7a7c58c415a5673e9e81de2d4ac36cb2a95f1e/releases/Hogan%27s%20Alley%20%28PlayChoice-10%29.mra"
   },
+  "_Arcade/Hoops '96 (Europe-Asia 2.0).mra": {
+   "hash": "4777a097f9ae95b224d721c9101fadca",
+   "size": 2685,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/Hoops%20%2796%20%28Europe-Asia%202.0%29.mra"
+  },
   "_Arcade/Hyper Pacman.mra": {
    "hash": "1bf6362b8f2ab2bf1fc0936159d54bb0",
    "size": 2395,
@@ -383,6 +393,11 @@
    "hash": "c148f7377308d046f412ac7770b7164b",
    "size": 3523,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/J.%20J.%20Squawkers.mra"
+  },
+  "_Arcade/Janken Game Acchi Muite Hoi! (Japan 1.3).mra": {
+   "hash": "af41e11f62435e786e6f041c82d4f22e",
+   "size": 3037,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/Janken%20Game%20Acchi%20Muite%20Hoi%21%20%28Japan%201.3%29.mra"
   },
   "_Arcade/Jumping Break (set 1).mra": {
    "hash": "28776d9562e5d0a65eef384c5d30a511",
@@ -754,6 +769,11 @@
    "size": 2736,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Shrike%20Avenger%20%28prototype%29.mra"
   },
+  "_Arcade/Skull Fang (Europe 1.13).mra": {
+   "hash": "e9fb22e76f7e901545a79663b053a7ed",
+   "size": 2983,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/Skull%20Fang%20%28Europe%201.13%29.mra"
+  },
   "_Arcade/Snacks'n Jaxson.mra": {
    "hash": "b1d6ff068ca36647c6905261c13d0620",
    "size": 2194,
@@ -798,6 +818,11 @@
    "hash": "434c37c0e0cc4e49607e3639e5687200",
    "size": 2139,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Spotty%20%28Ver.%202.0.2%29.mra"
+  },
+  "_Arcade/Stadium Hero '96 (Europe, EAJ, Tuning license).mra": {
+   "hash": "f405d0dcea95a3ac1b75d6ab54e39bd6",
+   "size": 2584,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/Stadium%20Hero%20%2796%20%28Europe%2C%20EAJ%2C%20Tuning%20license%29.mra"
   },
   "_Arcade/Steal See.mra": {
    "hash": "b122a42435584fbf504959c9283f508d",
@@ -1099,6 +1124,11 @@
    "size": 2574,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/408e2c8abab9b8cff285a629fa8f7528f385487f/releases/Zombie%20Raid%20%289-28-95%2C%20US%29.mra"
   },
+  "_Arcade/_alternatives/_Avengers In Galactic Storm (US-Europe 1.0)/Avengers In Galactic Storm (Japan 1.2).mra": {
+   "hash": "dc1ad6427741de231ac06df79f9e809b",
+   "size": 3437,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/_alternatives/_Avengers%20In%20Galactic%20Storm%20%28US-Europe%201.0%29/Avengers%20In%20Galactic%20Storm%20%28Japan%201.2%29.mra"
+  },
   "_Arcade/_alternatives/_Baryon - Future Assault (set 1)/Baryon - Future Assault (set 2).mra": {
    "hash": "b3210d382b87259579f6bc98f37c53ac",
    "size": 3002,
@@ -1243,6 +1273,16 @@
    "hash": "bcf6f601b5f675e3bfd5fc1a721f6794",
    "size": 3303,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/a1159c555197931f2b3bc7967d39ad74ce4e05b9/releases/_alternatives/_Hidden%20Catch%202%20%28pcb%20ver%203.03%29%20%28Kor-Eng%29%20%28AT89c52%20protected%29/Hidden%20Catch%202%20%28pcb%20ver%201.00%29%20%28Kor-Eng-Jpn-Chi%29.mra"
+  },
+  "_Arcade/_alternatives/_Hoops '96 (Europe-Asia 2.0)/Dunk Dream '95 (Japan 1.4, EAM).mra": {
+   "hash": "196eaeba3f132258dd74877400014b20",
+   "size": 2716,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/_alternatives/_Hoops%20%2796%20%28Europe-Asia%202.0%29/Dunk%20Dream%20%2795%20%28Japan%201.4%2C%20EAM%29.mra"
+  },
+  "_Arcade/_alternatives/_Hoops '96 (Europe-Asia 2.0)/Hoops (Europe-Asia 1.7).mra": {
+   "hash": "bc3d071d71dc315232cece2b4ed76a35",
+   "size": 2703,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/_alternatives/_Hoops%20%2796%20%28Europe-Asia%202.0%29/Hoops%20%28Europe-Asia%201.7%29.mra"
   },
   "_Arcade/_alternatives/_Hyper Pacman/Hyper Pacman (bootleg).mra": {
    "hash": "7579acd0402063cc945ebf3a7187a723",
@@ -1454,6 +1494,16 @@
    "size": 4990,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/89124d4f29e1d3f95557e5e5265efcbe9d0d7cb4/releases/_alternatives/_Sexy%20Parodius%20%28ver%20JAA%29/Sexy%20Parodius%20%28ver%20AAA%29.mra"
   },
+  "_Arcade/_alternatives/_Skull Fang (Europe 1.13)/Skull Fang - Kuhga Gaiden (Asia 1.13).mra": {
+   "hash": "8f885369c099ba8da0797810d95ee1e2",
+   "size": 3025,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/_alternatives/_Skull%20Fang%20%28Europe%201.13%29/Skull%20Fang%20-%20Kuhga%20Gaiden%20%28Asia%201.13%29.mra"
+  },
+  "_Arcade/_alternatives/_Skull Fang (Europe 1.13)/Skull Fang - Kuhga Gaiden (Japan 1.09).mra": {
+   "hash": "b9db431fc8656663be388ee5c401adf0",
+   "size": 3026,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/_alternatives/_Skull%20Fang%20%28Europe%201.13%29/Skull%20Fang%20-%20Kuhga%20Gaiden%20%28Japan%201.09%29.mra"
+  },
   "_Arcade/_alternatives/_Snake Pit/Snake Pit (9-14-84).mra": {
    "hash": "39bf00acf02241c05539a839d00f6577",
    "size": 2142,
@@ -1513,6 +1563,26 @@
    "hash": "6d9e5d0348a5862fd347955b20331ca2",
    "size": 2308,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Spiker/Spiker%20%28earliest-%29.mra"
+  },
+  "_Arcade/_alternatives/_Stadium Hero '96 (Europe, EAJ, Tuning license)/Stadium Hero '96 (Japan, EAD).mra": {
+   "hash": "92bc5455239abfe56665425e67f4a563",
+   "size": 2600,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/_alternatives/_Stadium%20Hero%20%2796%20%28Europe%2C%20EAJ%2C%20Tuning%20license%29/Stadium%20Hero%20%2796%20%28Japan%2C%20EAD%29.mra"
+  },
+  "_Arcade/_alternatives/_Stadium Hero '96 (Europe, EAJ, Tuning license)/Stadium Hero '96 (Japan-, EAE).mra": {
+   "hash": "04d6bf943332c80d948a18694989f84a",
+   "size": 2371,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/_alternatives/_Stadium%20Hero%20%2796%20%28Europe%2C%20EAJ%2C%20Tuning%20license%29/Stadium%20Hero%20%2796%20%28Japan-%2C%20EAE%29.mra"
+  },
+  "_Arcade/_alternatives/_Stadium Hero '96 (Europe, EAJ, Tuning license)/Stadium Hero '96 (Korea, Dream Island license).mra": {
+   "hash": "3929a877b3704774145317cc3c31f7c2",
+   "size": 2381,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/_alternatives/_Stadium%20Hero%20%2796%20%28Europe%2C%20EAJ%2C%20Tuning%20license%29/Stadium%20Hero%20%2796%20%28Korea%2C%20Dream%20Island%20license%29.mra"
+  },
+  "_Arcade/_alternatives/_Stadium Hero '96 (Europe, EAJ, Tuning license)/Stadium Hero '96 (USA, EAH).mra": {
+   "hash": "f9f73366ef6ec538b5699a99ebf971a7",
+   "size": 2598,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/_alternatives/_Stadium%20Hero%20%2796%20%28Europe%2C%20EAJ%2C%20Tuning%20license%29/Stadium%20Hero%20%2796%20%28USA%2C%20EAH%29.mra"
   },
   "_Arcade/_alternatives/_Stompin'/Stompin' (prototype-).mra": {
    "hash": "e2884f2a0a9c3d87c0fd217a7c6832b7",
@@ -1639,6 +1709,16 @@
    "size": 4316884,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Arcade-BallySente_20261025.rbf"
   },
+  "_Arcade/cores/DecoMLC156_20261026.rbf": {
+   "hash": "afee691e5e2ddf814e3879dbb24d0ce0",
+   "size": 4149612,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/Arcade-DecoMLC156_20261026.rbf"
+  },
+  "_Arcade/cores/DecoMLC_20261026.rbf": {
+   "hash": "23bd5fb32845968a33c283974a3ba25e",
+   "size": 4092868,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DecoMLC_MiSTer/6ef8c8ae02b8b20d72a796cbc79bd42d3f42b5b9/releases/Arcade-DecoMLC_20261026.rbf"
+  },
   "_Arcade/cores/DreamWorld_20261017.rbf": {
    "hash": "6b9eeb98c90518b2cee7c93f3c203240",
    "size": 3847752,
@@ -1753,6 +1833,13 @@
    "overwrite": false,
    "path": "pext"
   },
+  "games/mame/acchi.zip": {
+   "hash": "7f9e232bb2184b16409d717e5139bc5e",
+   "size": 11183473,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/acchi.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
   "games/mame/akiss.zip": {
    "hash": "6a02dec5c0368b7a6b29c54e08700f15",
    "size": 13222532,
@@ -1771,6 +1858,13 @@
    "hash": "6aac0b2b8b9c31b20abc3b9eeb389d03",
    "size": 1967252,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/atehate.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/avengrgs.zip": {
+   "hash": "4f3d0884292b7edfe6f3fb4cc5b9870e",
+   "size": 18392783,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/avengrgs.zip",
    "overwrite": false,
    "path": "pext"
   },
@@ -2142,6 +2236,13 @@
    "hash": "219a818c4ffd9fab04b9be9c7e2107a8",
    "size": 41592,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hng64.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/hoops96.zip": {
+   "hash": "6bd2b64ae7757129dbbd87c03ad9a0aa",
+   "size": 9553599,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/hoops96.zip",
    "overwrite": false,
    "path": "pext"
   },
@@ -2943,6 +3044,13 @@
    "overwrite": false,
    "path": "pext"
   },
+  "games/mame/skullfng.zip": {
+   "hash": "07aaadc36c3974544510af3ad4502c57",
+   "size": 13327389,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/skullfng.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
   "games/mame/snakepit.zip": {
    "hash": "0a44470ed6ba5ed1edd5576a9c4eb2ad",
    "size": 67157,
@@ -2996,6 +3104,13 @@
    "hash": "6c9284d27a0612b60ba3bf646fc8a000",
    "size": 272327,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/spotty.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/stadhr96.zip": {
+   "hash": "c28d1c961a172cc8ca53312403d711e5",
+   "size": 16950621,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/stadhr96.zip",
    "overwrite": false,
    "path": "pext"
   },
@@ -3291,6 +3406,7 @@
   "Scripts": {},
   "_Arcade": {},
   "_Arcade/_alternatives": {},
+  "_Arcade/_alternatives/_Avengers In Galactic Storm (US-Europe 1.0)": {},
   "_Arcade/_alternatives/_Baryon - Future Assault (set 1)": {},
   "_Arcade/_alternatives/_Blandia": {},
   "_Arcade/_alternatives/_Cookie & Bibi 2 (English, set 1)": {},
@@ -3310,6 +3426,7 @@
   "_Arcade/_alternatives/_Hayaoshi Quiz Nettou Namahousou (ver 1.5)": {},
   "_Arcade/_alternatives/_Hidden Catch (World) - Tul Lin Gu Lim Chat Ki '98 (Korea) (pcb ver 3.03)": {},
   "_Arcade/_alternatives/_Hidden Catch 2 (pcb ver 3.03) (Kor-Eng) (AT89c52 protected)": {},
+  "_Arcade/_alternatives/_Hoops '96 (Europe-Asia 2.0)": {},
   "_Arcade/_alternatives/_Hyper Pacman": {},
   "_Arcade/_alternatives/_Idol Janshi Suchie-Pai II (ver 1.1)": {},
   "_Arcade/_alternatives/_Iron Fortress": {},
@@ -3340,10 +3457,12 @@
   "_Arcade/_alternatives/_Ryuusei Janshi Kirara Star (ver 1.0, 92047-01 version)": {},
   "_Arcade/_alternatives/_Salamander 2 (ver JAA)": {},
   "_Arcade/_alternatives/_Sexy Parodius (ver JAA)": {},
+  "_Arcade/_alternatives/_Skull Fang (Europe 1.13)": {},
   "_Arcade/_alternatives/_Snake Pit": {},
   "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)": {},
   "_Arcade/_alternatives/_Soccer Superstars (ver EAC)": {},
   "_Arcade/_alternatives/_Spiker": {},
+  "_Arcade/_alternatives/_Stadium Hero '96 (Europe, EAJ, Tuning license)": {},
   "_Arcade/_alternatives/_Stompin'": {},
   "_Arcade/_alternatives/_Super Bubble 2003": {},
   "_Arcade/_alternatives/_Super Lup Lup Puzzle - Zhuan Zhuan Puzzle": {},
