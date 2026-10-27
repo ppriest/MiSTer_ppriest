@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1793107249,
+ "timestamp": 1793121496,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "04945c999f35edbff296c4808443b57b",
@@ -17,7 +17,7 @@
   "_Arcade/Age Of Heroes - Silkroad 2 (v0.63 - 2001-02-07).mra": {
    "hash": "b63fdfeb68471e6ac1df6719079b2211",
    "size": 2686,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Age%20Of%20Heroes%20-%20Silkroad%202%20%28v0.63%20-%202001-02-07%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Age%20Of%20Heroes%20-%20Silkroad%202%20%28v0.63%20-%202001-02-07%29.mra"
   },
   "_Arcade/Athena no Hatena.mra": {
    "hash": "08dc0a3d346c2f0b63018f4310a5f993",
@@ -37,7 +37,7 @@
   "_Arcade/Baryon - Future Assault (set 1).mra": {
    "hash": "2dc289752778608604b50aada36504a7",
    "size": 3029,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Baryon%20-%20Future%20Assault%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/48df56782442a56ea4d27b7b01b56fc59f896017/releases/Baryon%20-%20Future%20Assault%20%28set%201%29.mra"
   },
   "_Arcade/Baseball (PlayChoice-10).mra": {
    "hash": "feabd44550e08a14dc4e25cad8e66f3d",
@@ -77,7 +77,7 @@
   "_Arcade/Boong-Ga Boong-Ga (Spank'em!).mra": {
    "hash": "84178cf8cdecca1bce1911b5af8a9b72",
    "size": 3212,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Boong-Ga%20Boong-Ga%20%28Spank%27em%21%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Boong-Ga%20Boong-Ga%20%28Spank%27em%21%29.mra"
   },
   "_Arcade/Buriki One - World Grapple Tournament '99 in Tokyo (rev.B).mra": {
    "hash": "80113f198776e2413eabf1c72af0fd41",
@@ -112,7 +112,7 @@
   "_Arcade/Come Back Toto.mra": {
    "hash": "3f5a4ded977cbd61f7fcd57c205310d6",
    "size": 2460,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Come%20Back%20Toto.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Come%20Back%20Toto.mra"
   },
   "_Arcade/Contra (PlayChoice-10).mra": {
    "hash": "637d4d2c7a03664e5ac7bb1799c11208",
@@ -122,17 +122,17 @@
   "_Arcade/Cookie & Bibi 2 (English, set 1).mra": {
    "hash": "e67750346bba23b6b5d873eb6d1a9e2c",
    "size": 2513,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29.mra"
   },
   "_Arcade/Cookie & Bibi 3.mra": {
    "hash": "5d4d729d91d2f53fab718e67f9f3f739",
    "size": 2698,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Cookie%20%26%20Bibi%203.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Cookie%20%26%20Bibi%203.mra"
   },
   "_Arcade/Cool Minigame Collection.mra": {
    "hash": "920164890d255e77d6965fdc2438c4b1",
    "size": 2342,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Cool%20Minigame%20Collection.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Cool%20Minigame%20Collection.mra"
   },
   "_Arcade/Crazy Cross (ver EAA).mra": {
    "hash": "705e3ee4c97f7b606f8a163b9bbb9667",
@@ -147,7 +147,7 @@
   "_Arcade/Cute Fighter.mra": {
    "hash": "636f0f006e8bbe8ffe8404b21e0d6a44",
    "size": 2808,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Cute%20Fighter.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/48df56782442a56ea4d27b7b01b56fc59f896017/releases/Cute%20Fighter.mra"
   },
   "_Arcade/Daioh.mra": {
    "hash": "3b0bcb8dd20c176542fa8adec5f1eb7c",
@@ -162,7 +162,7 @@
   "_Arcade/Date Quiz Go Go Episode 2.mra": {
    "hash": "0e7c65e0e1445b9381cde1701a6b73f8",
    "size": 2159,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Date%20Quiz%20Go%20Go%20Episode%202.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Date%20Quiz%20Go%20Go%20Episode%202.mra"
   },
   "_Arcade/Desert War - Wangan Sensou (ver 1.0).mra": {
    "hash": "b43d5dbb8db5a43d40ef9b680a2edce1",
@@ -172,7 +172,7 @@
   "_Arcade/Diet Family.mra": {
    "hash": "e60bafa08569bf4b5e8fbc469632f5b1",
    "size": 2145,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Diet%20Family.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Diet%20Family.mra"
   },
   "_Arcade/Double Dragon (PlayChoice-10).mra": {
    "hash": "66db291c3ddc363819f44ca395958b67",
@@ -207,7 +207,7 @@
   "_Arcade/Dream World.mra": {
    "hash": "1ed78893ac97127070c767007dc4482e",
    "size": 2553,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Dream%20World.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/48df56782442a56ea4d27b7b01b56fc59f896017/releases/Dream%20World.mra"
   },
   "_Arcade/Duck Hunt (PlayChoice-10).mra": {
    "hash": "534aba453c721deb36f418142ef05804",
@@ -217,7 +217,7 @@
   "_Arcade/Dynamite Bomber (Korea, Rev 1.5).mra": {
    "hash": "39f6593028ae84b298ffdb0fda20bf55",
    "size": 2787,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Dynamite%20Bomber%20%28Korea%2C%20Rev%201.5%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Dynamite%20Bomber%20%28Korea%2C%20Rev%201.5%29.mra"
   },
   "_Arcade/Eight Forces.mra": {
    "hash": "79c4b2f93d91a8bdfc6cbc84fe3a1060",
@@ -252,12 +252,12 @@
   "_Arcade/Final Godori (Korea, version 2.20.5915).mra": {
    "hash": "8fc197655d3e2756d88988e6b8d5fde9",
    "size": 1918,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Final%20Godori%20%28Korea%2C%20version%202.20.5915%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Final%20Godori%20%28Korea%2C%20version%202.20.5915%29.mra"
   },
   "_Arcade/Final Tetris.mra": {
    "hash": "c907ff3d3c3c3fb0015491aab279ec28",
    "size": 2867,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Final%20Tetris.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Final%20Tetris.mra"
   },
   "_Arcade/Fortress 2 Blue Arcade (World) (ver 1.01 - pcb ver 3.05).mra": {
    "hash": "38231da15c2747dcf568717e8c271283",
@@ -267,12 +267,12 @@
   "_Arcade/G-Stream G2020.mra": {
    "hash": "42c3b3537f800b3f930b5f12d67c82ed",
    "size": 3018,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-GStream_MiSTer/ed768d3aec480c8bc34dce987d8d2ae6cc49365e/releases/G-Stream%20G2020.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-GStream_MiSTer/d416ee9fc9316791b6e3153b4f46401be4939c69/releases/G-Stream%20G2020.mra"
   },
   "_Arcade/Gaia - The Last Choice of Earth.mra": {
    "hash": "0da7cf978ea811b605b79df85d6962ba",
    "size": 2909,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Gaia%20-%20The%20Last%20Choice%20of%20Earth.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/48df56782442a56ea4d27b7b01b56fc59f896017/releases/Gaia%20-%20The%20Last%20Choice%20of%20Earth.mra"
   },
   "_Arcade/Gauntlet (PlayChoice-10).mra": {
    "hash": "04fa1ec89bf05043c32ac6b2400a668a",
@@ -327,7 +327,7 @@
   "_Arcade/Gwasuwon (Korea).mra": {
    "hash": "0f5894df4f275c7119df520514f66206",
    "size": 3048,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Gwasuwon%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Gwasuwon%20%28Korea%29.mra"
   },
   "_Arcade/Hat Trick (11-12-84).mra": {
    "hash": "9b05eef6cc3eed30e5e38781bc49ff57",
@@ -377,7 +377,7 @@
   "_Arcade/Hyper Pacman.mra": {
    "hash": "1bf6362b8f2ab2bf1fc0936159d54bb0",
    "size": 2395,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Hyper%20Pacman.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Hyper%20Pacman.mra"
   },
   "_Arcade/Idol Janshi Suchie-Pai II (ver 1.1).mra": {
    "hash": "daa02d21f4b6928545fe3dfaaf8b6d56",
@@ -402,7 +402,7 @@
   "_Arcade/Jumping Break (set 1).mra": {
    "hash": "28776d9562e5d0a65eef384c5d30a511",
    "size": 2010,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Jumping%20Break%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Jumping%20Break%20%28set%201%29.mra"
   },
   "_Arcade/KlonDike+.mra": {
    "hash": "5e39e9f521986290709136cc92685c06",
@@ -427,12 +427,12 @@
   "_Arcade/Legend of Heroes.mra": {
    "hash": "2210fb7ff214a6bbacd91c8bf2e5c0a1",
    "size": 3354,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Legend%20of%20Heroes.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Legend%20of%20Heroes.mra"
   },
   "_Arcade/Lethal Enforcers (ver UAE).mra": {
    "hash": "d35bf52fc7f8a07f89df62ef0ae8c5ed",
    "size": 2667,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/Lethal%20Enforcers%20%28ver%20UAE%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/c5df48611c522c774d7d43f038d7604aa077934c/releases/Lethal%20Enforcers%20%28ver%20UAE%29.mra"
   },
   "_Arcade/Lethal Enforcers II Gun Fighters (ver EAA).mra": {
    "hash": "1d0d08a4e37e19b86774ea2ee4f112c6",
@@ -447,7 +447,7 @@
   "_Arcade/Macheonlu (Korea).mra": {
    "hash": "1ebb0cc7fdd636e923541ecdd7be8ce8",
    "size": 2773,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Macheonlu%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Macheonlu%20%28Korea%29.mra"
   },
   "_Arcade/Mad Shark.mra": {
    "hash": "be4684f264312276624436a6ea9e2848",
@@ -502,7 +502,7 @@
   "_Arcade/Mission Craft (version 2.7).mra": {
    "hash": "d356d24313d541df28068511d212beb6",
    "size": 2251,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Mission%20Craft%20%28version%202.7%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Mission%20Craft%20%28version%202.7%29.mra"
   },
   "_Arcade/Mobile Suit Gundam.mra": {
    "hash": "47550a39cd642f9eaf7280aecd4421ae",
@@ -512,12 +512,12 @@
   "_Arcade/Mr. Dig.mra": {
    "hash": "231693fa5627c71036f1f7bf83cdbf3b",
    "size": 1882,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Mr.%20Dig.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Mr.%20Dig.mra"
   },
   "_Arcade/Mr. Kicker (F-E1-16-010 PCB).mra": {
    "hash": "d824a6bae1eb91f5b4a4815b5f06a5b2",
    "size": 1938,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Mr.%20Kicker%20%28F-E1-16-010%20PCB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Mr.%20Kicker%20%28F-E1-16-010%20PCB%29.mra"
   },
   "_Arcade/Name That Tune (Bally, 3-31-86).mra": {
    "hash": "b2845b5c9e664f17b159142ac87c66c1",
@@ -527,7 +527,7 @@
   "_Arcade/New Cross Pang (set 1).mra": {
    "hash": "e375a72b1b4e449795a8f21bb180ded5",
    "size": 2031,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/New%20Cross%20Pang%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/New%20Cross%20Pang%20%28set%201%29.mra"
   },
   "_Arcade/New Hidden Catch (World) - New Tul Lin Gu Lim Chat Ki '98 (Korea) (pcb ver 3.02).mra": {
    "hash": "49e4e880339c4105b5edb3540d28890b",
@@ -537,7 +537,7 @@
   "_Arcade/New HyperMan (3-in-1 with Cookie & Bibi & HyperMan) (set 1).mra": {
    "hash": "87e036d912c85edb6033ce25c2a89471",
    "size": 2427,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29.mra"
   },
   "_Arcade/Night Stocker (10-6-86).mra": {
    "hash": "4d65b3ad040f06559a49b73a28753347",
@@ -607,7 +607,7 @@
   "_Arcade/Poosho Poosho.mra": {
    "hash": "4c9b2546edb4296c7f26315952dca0df",
    "size": 1998,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Poosho%20Poosho.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Poosho%20Poosho.mra"
   },
   "_Arcade/Power Blade (PlayChoice-10).mra": {
    "hash": "14c8ace795d698433f9557de76d17ba4",
@@ -622,17 +622,17 @@
   "_Arcade/Puzzle Break (set 1).mra": {
    "hash": "bc7482573fb2775055501521f339bd50",
    "size": 2383,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Puzzle%20Break%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Puzzle%20Break%20%28set%201%29.mra"
   },
   "_Arcade/Puzzle Express More More (Korea).mra": {
    "hash": "16780175a53a16e7ee96374669b5f977",
    "size": 2423,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Puzzle%20Express%20More%20More%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Puzzle%20Express%20More%20More%20%28Korea%29.mra"
   },
   "_Arcade/Puzzle Express More More Plus.mra": {
    "hash": "9b08a6130a28accb8eb29ae2570a7fb4",
    "size": 2452,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Puzzle%20Express%20More%20More%20Plus.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Puzzle%20Express%20More%20More%20Plus.mra"
   },
   "_Arcade/Puzzle King (Dance & Puzzle).mra": {
    "hash": "5420c96bfdb34085e777be2d6f8110d7",
@@ -642,12 +642,12 @@
   "_Arcade/Puzzle King (PacMan 2, Tetris, HyperMan 2, Snow Bros.).mra": {
    "hash": "084215548b050db22c8b97d7c18b53dc",
    "size": 2283,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Puzzle%20King%20%28PacMan%202%2C%20Tetris%2C%20HyperMan%202%2C%20Snow%20Bros.%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Puzzle%20King%20%28PacMan%202%2C%20Tetris%2C%20HyperMan%202%2C%20Snow%20Bros.%29.mra"
   },
   "_Arcade/Puzzle Yutnori (Korea).mra": {
    "hash": "678e4e434f926fde55829b9336c03c77",
    "size": 2336,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Puzzle%20Yutnori%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Puzzle%20Yutnori%20%28Korea%29.mra"
   },
   "_Arcade/Quiz Kokology 2.mra": {
    "hash": "9c5e904d14e00ee0d62866bf0cb4d32c",
@@ -707,7 +707,7 @@
   "_Arcade/Rolling Crush (version 1.07.E - 1999-02-11, Trust license).mra": {
    "hash": "2eeb1d90a39e9591cbaa1eb625f2ac65",
    "size": 3081,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Rolling%20Crush%20%28version%201.07.E%20-%201999-02-11%2C%20Trust%20license%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/48df56782442a56ea4d27b7b01b56fc59f896017/releases/Rolling%20Crush%20%28version%201.07.E%20-%201999-02-11%2C%20Trust%20license%29.mra"
   },
   "_Arcade/Run and Gun 2 (ver UAA).mra": {
    "hash": "5d5c03f2d9591d2377907ed6b264c2d9",
@@ -784,11 +784,6 @@
    "size": 2255,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/Snake%20Pit.mra"
   },
-  "_Arcade/Snow Bros. - Nick & Tom (set 1).mra": {
-   "hash": "9fd553df924588dff155e1750cebe55d",
-   "size": 2368,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29.mra"
-  },
   "_Arcade/Soccer Superstars (ver EAC).mra": {
    "hash": "e16e4f7a3774cac52f2d491244089777",
    "size": 3698,
@@ -807,7 +802,7 @@
   "_Arcade/Solitaire (version 2.5).mra": {
    "hash": "6758da674b4412c1ecf3622ecb4a6984",
    "size": 2116,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Solitaire%20%28version%202.5%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Solitaire%20%28version%202.5%29.mra"
   },
   "_Arcade/Spiker (6-9-86).mra": {
    "hash": "ec857d4d30fa879bb7d66c1939b2638b",
@@ -817,7 +812,7 @@
   "_Arcade/Spotty (Ver. 2.0.2).mra": {
    "hash": "434c37c0e0cc4e49607e3639e5687200",
    "size": 2139,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Spotty%20%28Ver.%202.0.2%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Spotty%20%28Ver.%202.0.2%29.mra"
   },
   "_Arcade/Stadium Hero '96 (Europe, EAJ, Tuning license).mra": {
    "hash": "f405d0dcea95a3ac1b75d6ab54e39bd6",
@@ -852,12 +847,12 @@
   "_Arcade/Suhoseong (Korea).mra": {
    "hash": "dbd822d4b22f7660482a2a91e9af8d42",
    "size": 2165,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Suhoseong%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Suhoseong%20%28Korea%29.mra"
   },
   "_Arcade/Super Bubble 2003 (World, Ver 1.0).mra": {
    "hash": "bb56527eed4ac4ff9ef3cb72fc104769",
    "size": 2561,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Super%20Bubble%202003%20%28World%2C%20Ver%201.0%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Super%20Bubble%202003%20%28World%2C%20Ver%201.0%29.mra"
   },
   "_Arcade/Super C (PlayChoice-10).mra": {
    "hash": "cc7434bbaa21aae797152a32bdc52c38",
@@ -867,7 +862,7 @@
   "_Arcade/Super Lup Lup Puzzle - Zhuan Zhuan Puzzle (version 4.0 - 990518).mra": {
    "hash": "6f5db5d4f4c3a88720521f461289eddf",
    "size": 2111,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle%20%28version%204.0%20-%20990518%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle%20%28version%204.0%20-%20990518%29.mra"
   },
   "_Arcade/Super Mario Bros. (PlayChoice-10).mra": {
    "hash": "569c1447723c56569baa437663af940d",
@@ -887,7 +882,7 @@
   "_Arcade/Sutjaro Haeyo Deluxe (Korea).mra": {
    "hash": "47833cf8f740aa532e2958533597d109",
    "size": 3059,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Sutjaro%20Haeyo%20Deluxe%20%28Korea%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Sutjaro%20Haeyo%20Deluxe%20%28Korea%29.mra"
   },
   "_Arcade/Taisen Tokkae-dama (ver JAA).mra": {
    "hash": "2488837c9ff3cec0171a19bda124e039",
@@ -962,7 +957,7 @@
   "_Arcade/To Heart House.mra": {
    "hash": "c3c41433a740ced6e836ad6281c075b2",
    "size": 2515,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/To%20Heart%20House.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/To%20Heart%20House.mra"
   },
   "_Arcade/Toggle (prototype).mra": {
    "hash": "7aef2edc8e69931891706d1aa2a9f336",
@@ -977,12 +972,12 @@
   "_Arcade/Toppy & Rappy.mra": {
    "hash": "a1471209b5d811149bfaed61edb199b1",
    "size": 2631,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Toppy%20%26%20Rappy.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Toppy%20%26%20Rappy.mra"
   },
   "_Arcade/Toy Land Adventure.mra": {
    "hash": "775b37feaf5502c736ee2b57b8878db5",
    "size": 2112,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Toy%20Land%20Adventure.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Toy%20Land%20Adventure.mra"
   },
   "_Arcade/Track & Field (PlayChoice-10).mra": {
    "hash": "b9c0b0b0b8a045c4633ec25062bba333",
@@ -1037,7 +1032,7 @@
   "_Arcade/Twinkle (set 1).mra": {
    "hash": "a16f2be61f811b3a6b2900fb10e4b0b8",
    "size": 2462,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Twinkle%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Twinkle%20%28set%201%29.mra"
   },
   "_Arcade/Ultraman Club - Tatakae! Ultraman Kyoudai!!.mra": {
    "hash": "0866c31eec7d4bd85924eeb5c2650006",
@@ -1052,7 +1047,7 @@
   "_Arcade/Vamf x1-2 (Europe, version 1.1.0908).mra": {
    "hash": "c84b0f62c4ebbeb74b3848a55f64c131",
    "size": 2055,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Vamf%20x1-2%20%28Europe%2C%20version%201.1.0908%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Vamf%20x1-2%20%28Europe%2C%20version%201.1.0908%29.mra"
   },
   "_Arcade/Versus Net Soccer (ver EAD).mra": {
    "hash": "3eb0812ec91ea3bf1c5e98e22f9e75dd",
@@ -1092,12 +1087,12 @@
   "_Arcade/Wivern Wings.mra": {
    "hash": "bae098dc3629f56e901d05962ba8ddba",
    "size": 2431,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Wivern%20Wings.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Wivern%20Wings.mra"
   },
   "_Arcade/World Adventure.mra": {
    "hash": "961e9b8d586f64d5c21e598347aa7b3d",
    "size": 2012,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/World%20Adventure.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/World%20Adventure.mra"
   },
   "_Arcade/Xtreme Rally - Off Beat Racer!.mra": {
    "hash": "69290a349fc106e6167e4afe03bb10bf",
@@ -1112,7 +1107,7 @@
   "_Arcade/Yori Jori Kuk Kuk.mra": {
    "hash": "e4f4e05d6084ff31b77814e67486173c",
    "size": 2280,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Yori%20Jori%20Kuk%20Kuk.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Yori%20Jori%20Kuk%20Kuk.mra"
   },
   "_Arcade/Zing Zing Zip (World) - Zhen Zhen Ji Pao (China).mra": {
    "hash": "ba7b0ea5570a676f79b4dccbd1f3470a",
@@ -1132,7 +1127,7 @@
   "_Arcade/_alternatives/_Baryon - Future Assault (set 1)/Baryon - Future Assault (set 2).mra": {
    "hash": "b3210d382b87259579f6bc98f37c53ac",
    "size": 3002,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/_alternatives/_Baryon%20-%20Future%20Assault%20%28set%201%29/Baryon%20-%20Future%20Assault%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/48df56782442a56ea4d27b7b01b56fc59f896017/releases/_alternatives/_Baryon%20-%20Future%20Assault%20%28set%201%29/Baryon%20-%20Future%20Assault%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Blandia/Blandia (prototype).mra": {
    "hash": "fd42acbcc566e9a6da8a1a9a48fc83fe",
@@ -1142,22 +1137,22 @@
   "_Arcade/_alternatives/_Cookie & Bibi 2 (English, set 1)/Cookie & Bibi 2 (English - Korean).mra": {
    "hash": "bce337e943ebbf30633da7abe4ab2bb6",
    "size": 2451,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%20-%20Korean%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%20-%20Korean%29.mra"
   },
   "_Arcade/_alternatives/_Cookie & Bibi 2 (English, set 1)/Cookie & Bibi 2 (English, set 2).mra": {
    "hash": "fa34bb5e2871aafa4ed82198d8e17fa2",
    "size": 2522,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%202%29.mra"
   },
   "_Arcade/_alternatives/_Cookie & Bibi 2 (English, set 1)/Cookie & Bibi 2 (English, set 3).mra": {
    "hash": "fac259b34b676493d53a5096f74c2f10",
    "size": 2432,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%203%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/_alternatives/_Cookie%20%26%20Bibi%202%20%28English%2C%20set%201%29/Cookie%20%26%20Bibi%202%20%28English%2C%20set%203%29.mra"
   },
   "_Arcade/_alternatives/_Cool Minigame Collection/Cool Minigame Collection (Italy).mra": {
    "hash": "2eac06d980faa4b3e8a05c5c22d7b7d9",
    "size": 2381,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Cool%20Minigame%20Collection/Cool%20Minigame%20Collection%20%28Italy%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Cool%20Minigame%20Collection/Cool%20Minigame%20Collection%20%28Italy%29.mra"
   },
   "_Arcade/_alternatives/_Crazy Cross (ver EAA)/Taisen Puzzle-dama (ver JAA).mra": {
    "hash": "b0f70180e239964c1c8a6c669d7f0951",
@@ -1287,7 +1282,7 @@
   "_Arcade/_alternatives/_Hyper Pacman/Hyper Pacman (bootleg).mra": {
    "hash": "7579acd0402063cc945ebf3a7187a723",
    "size": 2343,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Hyper%20Pacman/Hyper%20Pacman%20%28bootleg%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/_alternatives/_Hyper%20Pacman/Hyper%20Pacman%20%28bootleg%29.mra"
   },
   "_Arcade/_alternatives/_Idol Janshi Suchie-Pai II (ver 1.1)/Idol Janshi Suchie-Pai II (ver 1.0).mra": {
    "hash": "dbcfe9deb1fd05ee7a986017d6b8fe00",
@@ -1307,7 +1302,7 @@
   "_Arcade/_alternatives/_Jumping Break/Jumping Break (set 2).mra": {
    "hash": "31cedb41329b6105a2e94fddfe1bc31f",
    "size": 2019,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Jumping%20Break/Jumping%20Break%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Jumping%20Break/Jumping%20Break%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Konami's Open Golf Championship (ver EAE)/Golfing Greats 2 (ver JAC).mra": {
    "hash": "10b5ebabcc46883a3646fbf5bd1eaea8",
@@ -1342,42 +1337,42 @@
   "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver EAA).mra": {
    "hash": "c72853ba8cc44c82581a70701e51bbee",
    "size": 2364,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/c5df48611c522c774d7d43f038d7604aa077934c/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAA%29.mra"
   },
   "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver EAB).mra": {
    "hash": "197fad2de0b7b97d6c0a7a6ecb9604e1",
    "size": 2365,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/c5df48611c522c774d7d43f038d7604aa077934c/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAB%29.mra"
   },
   "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver EAD).mra": {
    "hash": "39189ee0e3828b47ffb035e2ca07bf52",
    "size": 2641,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAD%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/c5df48611c522c774d7d43f038d7604aa077934c/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAD%29.mra"
   },
   "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver EAE).mra": {
    "hash": "1c7567fd8135122caa0ff9be11afcc4c",
    "size": 2365,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAE%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/c5df48611c522c774d7d43f038d7604aa077934c/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20EAE%29.mra"
   },
   "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver JAD).mra": {
    "hash": "b2efa75bf024bf489274560b3533d960",
    "size": 2148,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20JAD%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/c5df48611c522c774d7d43f038d7604aa077934c/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20JAD%29.mra"
   },
   "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver UAA).mra": {
    "hash": "67a3ac2c90aa13cf24c7f931a6e7ecba",
    "size": 2423,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20UAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/c5df48611c522c774d7d43f038d7604aa077934c/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20UAA%29.mra"
   },
   "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver UAB).mra": {
    "hash": "a76c3851746926bf272512132e69e10b",
    "size": 2699,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20UAB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/c5df48611c522c774d7d43f038d7604aa077934c/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20UAB%29.mra"
   },
   "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver unknown, US, hacked-proto).mra": {
    "hash": "d7e6838ccb63f382b9834feb3b47e0a8",
    "size": 2446,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20unknown%2C%20US%2C%20hacked-proto%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/c5df48611c522c774d7d43f038d7604aa077934c/releases/_alternatives/_Lethal%20Enforcers/Lethal%20Enforcers%20%28ver%20unknown%2C%20US%2C%20hacked-proto%29.mra"
   },
   "_Arcade/_alternatives/_Mahjong Angel Kiss (ver 1.0, 92047-01 version)/Mahjong Angel Kiss (ver 1.0, 92048-01 version).mra": {
    "hash": "b30b39d548a638f6872499b92a165c6d",
@@ -1402,7 +1397,7 @@
   "_Arcade/_alternatives/_Mission Craft/Mission Craft (version 2.4).mra": {
    "hash": "7cd85045d65388ba457a19137afedcd1",
    "size": 2267,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Mission%20Craft/Mission%20Craft%20%28version%202.4%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Mission%20Craft/Mission%20Craft%20%28version%202.4%29.mra"
   },
   "_Arcade/_alternatives/_Mobile Suit Gundam/Mobile Suit Gundam (Japan).mra": {
    "hash": "d34c94bb2f8ef6b605211a55dad275e1",
@@ -1412,7 +1407,7 @@
   "_Arcade/_alternatives/_Mr. Kicker/Mr. Kicker (SEMICOM-003b PCB).mra": {
    "hash": "59963596353b306c7c469107a7af8d30",
    "size": 1968,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Mr.%20Kicker/Mr.%20Kicker%20%28SEMICOM-003b%20PCB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Mr.%20Kicker/Mr.%20Kicker%20%28SEMICOM-003b%20PCB%29.mra"
   },
   "_Arcade/_alternatives/_Name That Tune/Name That Tune (Bally, 3-23-86).mra": {
    "hash": "fd92c124de0ec86baf071b90d5164641",
@@ -1422,12 +1417,12 @@
   "_Arcade/_alternatives/_New Cross Pang/New Cross Pang (set 2).mra": {
    "hash": "7e2013741e0fde5709a84d5c59cc68d9",
    "size": 2046,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_New%20Cross%20Pang/New%20Cross%20Pang%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_New%20Cross%20Pang/New%20Cross%20Pang%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_New HyperMan (3-in-1 with Cookie & Bibi & HyperMan) (set 1)/New HyperMan (3-in-1 with Cookie & Bibi & HyperMan) (set 2).mra": {
    "hash": "75b90dc1eb24ac9ea2c534aef34c741f",
    "size": 2546,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/_alternatives/_New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%201%29/New%20HyperMan%20%283-in-1%20with%20Cookie%20%26%20Bibi%20%26%20HyperMan%29%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Night Stocker/Night Stocker (8-27-86).mra": {
    "hash": "7fcbe4ab76f07a7079128f4cdc7d1ab5",
@@ -1452,7 +1447,7 @@
   "_Arcade/_alternatives/_Puzzle Break (set 1)/Puzzle Break (set 2).mra": {
    "hash": "d307f4f291924076f60d4f5bc5788e70",
    "size": 2387,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Puzzle%20Break%20%28set%201%29/Puzzle%20Break%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/_alternatives/_Puzzle%20Break%20%28set%201%29/Puzzle%20Break%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Racin' Force (ver EAC)/Racin' Force (ver UAB).mra": {
    "hash": "7fe3e6b06086694356e40da27817337d",
@@ -1472,7 +1467,7 @@
   "_Arcade/_alternatives/_Rolling Crush (version 1.07.E - 1999-02-11, Trust license)/Rolling Crush (version 1.03.E - 1999-01-29).mra": {
    "hash": "dc5e54306047dca51cb5e4a026b3814a",
    "size": 2680,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/_alternatives/_Rolling%20Crush%20%28version%201.07.E%20-%201999-02-11%2C%20Trust%20license%29/Rolling%20Crush%20%28version%201.03.E%20-%201999-01-29%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/48df56782442a56ea4d27b7b01b56fc59f896017/releases/_alternatives/_Rolling%20Crush%20%28version%201.07.E%20-%201999-02-11%2C%20Trust%20license%29/Rolling%20Crush%20%28version%201.03.E%20-%201999-01-29%29.mra"
   },
   "_Arcade/_alternatives/_Run and Gun 2 (ver UAA)/Slam Dunk 2 (ver JAA).mra": {
    "hash": "5038b1fffed4de92e4a88af78950b5bb",
@@ -1508,31 +1503,6 @@
    "hash": "39bf00acf02241c05539a839d00f6577",
    "size": 2142,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7ad9d2fcdc096d21e8f8c87a6b57ab43e8ea78b7/releases/_alternatives/_Snake%20Pit/Snake%20Pit%20%289-14-84%29.mra"
-  },
-  "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (Dooyong license).mra": {
-   "hash": "08ce0eb4ee8fcc44e4c6cd1bd737f1b3",
-   "size": 2402,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28Dooyong%20license%29.mra"
-  },
-  "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (Japan).mra": {
-   "hash": "558e5b56e18f2c7552186f295da0ae84",
-   "size": 2372,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28Japan%29.mra"
-  },
-  "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (set 2).mra": {
-   "hash": "5d5e8117c017b90d5cea247d4339b907",
-   "size": 2389,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%202%29.mra"
-  },
-  "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (set 3).mra": {
-   "hash": "ec9c8df2996a25c5c7f8fe0d757a2908",
-   "size": 2385,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%203%29.mra"
-  },
-  "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)/Snow Bros. - Nick & Tom (set 4).mra": {
-   "hash": "0f22f6f743933ecf23b1d82827eef91c",
-   "size": 2383,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%201%29/Snow%20Bros.%20-%20Nick%20%26%20Tom%20%28set%204%29.mra"
   },
   "_Arcade/_alternatives/_Soccer Superstars (ver EAC)/Soccer Superstars (ver AAA).mra": {
    "hash": "77afc8bac47dd8d5b719eaac2f350c3a",
@@ -1592,32 +1562,32 @@
   "_Arcade/_alternatives/_Super Bubble 2003/Super Bubble 2003 (Asia, Ver 1.0).mra": {
    "hash": "8adebc2f811e1798e5923eeb7a45f647",
    "size": 2575,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Super%20Bubble%202003/Super%20Bubble%202003%20%28Asia%2C%20Ver%201.0%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Super%20Bubble%202003/Super%20Bubble%202003%20%28Asia%2C%20Ver%201.0%29.mra"
   },
   "_Arcade/_alternatives/_Super Lup Lup Puzzle - Zhuan Zhuan Puzzle/Lup Lup Puzzle - Zhuan Zhuan Puzzle (version 1.05 - 981214).mra": {
    "hash": "f9a052cb4009e58fd0885060cf2d09f1",
    "size": 2097,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle/Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle%20%28version%201.05%20-%20981214%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle/Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle%20%28version%201.05%20-%20981214%29.mra"
   },
   "_Arcade/_alternatives/_Super Lup Lup Puzzle - Zhuan Zhuan Puzzle/Lup Lup Puzzle - Zhuan Zhuan Puzzle (version 2.9 - 990108).mra": {
    "hash": "25aab34384f07e406e8fd0808d580eae",
    "size": 2087,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle/Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle%20%28version%202.9%20-%20990108%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle/Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle%20%28version%202.9%20-%20990108%29.mra"
   },
   "_Arcade/_alternatives/_Super Lup Lup Puzzle - Zhuan Zhuan Puzzle/Lup Lup Puzzle - Zhuan Zhuan Puzzle (version 3.0 - 990128).mra": {
    "hash": "5976d235dcaefb4a0f95bba5b38e778b",
    "size": 2087,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle/Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle%20%28version%203.0%20-%20990128%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle/Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle%20%28version%203.0%20-%20990128%29.mra"
   },
   "_Arcade/_alternatives/_Super Lup Lup Puzzle - Zhuan Zhuan Puzzle/Puzzle Bang Bang (Korea, version 2.8 - 990106).mra": {
    "hash": "cf12be3cd3fae952f7efc997cac9a7c7",
    "size": 2071,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle/Puzzle%20Bang%20Bang%20%28Korea%2C%20version%202.8%20-%20990106%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle/Puzzle%20Bang%20Bang%20%28Korea%2C%20version%202.8%20-%20990106%29.mra"
   },
   "_Arcade/_alternatives/_Super Lup Lup Puzzle - Zhuan Zhuan Puzzle/Puzzle Bang Bang (Korea, version 2.9 - 990108).mra": {
    "hash": "2142732fbcbbd58d82d2817fdd1d5dac",
    "size": 2069,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle/Puzzle%20Bang%20Bang%20%28Korea%2C%20version%202.9%20-%20990108%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Super%20Lup%20Lup%20Puzzle%20-%20Zhuan%20Zhuan%20Puzzle/Puzzle%20Bang%20Bang%20%28Korea%2C%20version%202.9%20-%20990108%29.mra"
   },
   "_Arcade/_alternatives/_The Legend of Silkroad/The Legend of Silkroad (larger ROMs).mra": {
    "hash": "28a79219e08c3a11c12939ff7197ee09",
@@ -1652,17 +1622,17 @@
   "_Arcade/_alternatives/_Twinkle (set 1)/Twinkle (set 2).mra": {
    "hash": "c9da27ef2eac01edfe0b29336a1e9a74",
    "size": 2476,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/_alternatives/_Twinkle%20%28set%201%29/Twinkle%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/_alternatives/_Twinkle%20%28set%201%29/Twinkle%20%28set%202%29.mra"
   },
   "_Arcade/_alternatives/_Vamf x1-2/Vamf x1-2 (Europe, version 1.0.0903).mra": {
    "hash": "006c2071206c83c91eb148c568cbfdf6",
    "size": 1901,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Vamf%20x1-2/Vamf%20x1-2%20%28Europe%2C%20version%201.0.0903%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Vamf%20x1-2/Vamf%20x1-2%20%28Europe%2C%20version%201.0.0903%29.mra"
   },
   "_Arcade/_alternatives/_Vamf x1-2/Vamp x1-2 (Korea, version 1.1.0908).mra": {
    "hash": "29485645b8317996cf7b23feb18f5e75",
    "size": 2050,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Vamf%20x1-2/Vamp%20x1-2%20%28Korea%2C%20version%201.1.0908%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Vamf%20x1-2/Vamp%20x1-2%20%28Korea%2C%20version%201.1.0908%29.mra"
   },
   "_Arcade/_alternatives/_Versus Net Soccer (ver EAD)/Versus Net Soccer (ver AAA).mra": {
    "hash": "19281e93e05862481897fb8b330a2243",
@@ -1697,12 +1667,12 @@
   "_Arcade/_alternatives/_Wivern Wings/Wyvern Wings (set 1).mra": {
    "hash": "4b5f3de8efd5d6492d26edaee3cce0d5",
    "size": 2488,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Wivern%20Wings/Wyvern%20Wings%20%28set%201%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Wivern%20Wings/Wyvern%20Wings%20%28set%201%29.mra"
   },
   "_Arcade/_alternatives/_Wivern Wings/Wyvern Wings (set 2).mra": {
    "hash": "c45f9ac262c258a822dc117de25ef69c",
    "size": 2490,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/_alternatives/_Wivern%20Wings/Wyvern%20Wings%20%28set%202%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/_alternatives/_Wivern%20Wings/Wyvern%20Wings%20%28set%202%29.mra"
   },
   "_Arcade/cores/BallySente_20261025.rbf": {
    "hash": "2fc56752283b3533a3cbc7abd4adddc0",
@@ -1722,7 +1692,7 @@
   "_Arcade/cores/DreamWorld_20261017.rbf": {
    "hash": "6b9eeb98c90518b2cee7c93f3c203240",
    "size": 3847752,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/1a24ec2b779875c115251d9dbeb1e60e3483fcd8/releases/Arcade-DreamWorld_20261017.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/48df56782442a56ea4d27b7b01b56fc59f896017/releases/Arcade-DreamWorld_20261017.rbf"
   },
   "_Arcade/cores/Eolith_20261011.rbf": {
    "hash": "547a0d1b20b7a566e8144b06801c0c10",
@@ -1732,7 +1702,7 @@
   "_Arcade/cores/GStream_20261014.rbf": {
    "hash": "e151c4312a2f749ebdaef360554746c1",
    "size": 3478728,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-GStream_MiSTer/ed768d3aec480c8bc34dce987d8d2ae6cc49365e/releases/Arcade-GStream_20261014.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-GStream_MiSTer/d416ee9fc9316791b6e3153b4f46401be4939c69/releases/Arcade-GStream_20261014.rbf"
   },
   "_Arcade/cores/HyperNG64_20261006.rbf": {
    "hash": "f7b406a8331014cc018b468466fb7a7a",
@@ -1772,12 +1742,12 @@
   "_Arcade/cores/LethalEnforcers_20261019.rbf": {
    "hash": "8832040da089e40bdc7ca0611bc76a95",
    "size": 3515520,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/8db775da52b6187053c9b3fb2e5df37686729665/releases/Arcade-LethalEnforcers_20261019.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-LethalEnforcers_MiSTer/c5df48611c522c774d7d43f038d7604aa077934c/releases/Arcade-LethalEnforcers_20261019.rbf"
   },
   "_Arcade/cores/Limenko_20261013.rbf": {
    "hash": "caa4de14b50e5666db12eb5fd14d8e71",
    "size": 4204272,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Arcade-Limenko_20261013.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Arcade-Limenko_20261013.rbf"
   },
   "_Arcade/cores/NixPirates_20261010.rbf": {
    "hash": "c0143bb3c4c0905529ceff2eb3388127",
@@ -1787,7 +1757,7 @@
   "_Arcade/cores/Pandora_20261025.rbf": {
    "hash": "2dfa72fcdb0fd5cb90465066bcd38658",
    "size": 3354276,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/9c82a2cc5ee50c66326c952d4f17fbcee14689c5/releases/Arcade-Pandora_20261025.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Pandora_MiSTer/49bfd2ad60b19570618a7c6264bee5439b7c02a6/releases/Arcade-Pandora_20261025.rbf"
   },
   "_Arcade/cores/PlayChoice10_20261020.rbf": {
    "hash": "3b9c396f91c818211e043850f53497c8",
@@ -1812,7 +1782,7 @@
   "_Arcade/cores/Vamphalf_20261010.rbf": {
    "hash": "c4f1d48f18dbd4f387ca68a5fa2aa6fa",
    "size": 4369536,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/9e095f58939cf4de9bfbf915b8933cfe1f60dcb1/releases/Arcade-Vamphalf_20261010.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Arcade-Vamphalf_20261010.rbf"
   },
   "games/arcsnd/arcsnd": {
    "hash": "3f7dda9995d162a386760f5577ac2d40",
@@ -3065,13 +3035,6 @@
    "overwrite": false,
    "path": "pext"
   },
-  "games/mame/snowbros.zip": {
-   "hash": "b645976a0b0390a52f2cae504f4ad940",
-   "size": 946472,
-   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/snowbros.zip",
-   "overwrite": false,
-   "path": "pext"
-  },
   "games/mame/soccerss.zip": {
    "hash": "d4bb28327fb34d2d735f5478363f6ade",
    "size": 8427035,
@@ -3459,7 +3422,6 @@
   "_Arcade/_alternatives/_Sexy Parodius (ver JAA)": {},
   "_Arcade/_alternatives/_Skull Fang (Europe 1.13)": {},
   "_Arcade/_alternatives/_Snake Pit": {},
-  "_Arcade/_alternatives/_Snow Bros. - Nick & Tom (set 1)": {},
   "_Arcade/_alternatives/_Soccer Superstars (ver EAC)": {},
   "_Arcade/_alternatives/_Spiker": {},
   "_Arcade/_alternatives/_Stadium Hero '96 (Europe, EAJ, Tuning license)": {},

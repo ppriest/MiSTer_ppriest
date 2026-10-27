@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-10-27. 589 files from 18 repositories.
+Updated 2026-10-27. 582 files from 18 repositories.
 
 | Repository | Builds | Latest build | MRAs |
 |---|---|---|---|
@@ -15,7 +15,7 @@ Updated 2026-10-27. 589 files from 18 repositories.
 | [ppriest/Arcade-KonamiHornet_MiSTer](https://github.com/ppriest/Arcade-KonamiHornet_MiSTer) | `Arcade-KonamiHornet_20261027.rbf` | 2026-10-27 | 6 |
 | [ppriest/Arcade-LethalEnforcers_MiSTer](https://github.com/ppriest/Arcade-LethalEnforcers_MiSTer) | `Arcade-LethalEnforcers_20261019.rbf` | 2026-10-19 | 9 |
 | [ppriest/Arcade-NixPirates_MiSTer](https://github.com/ppriest/Arcade-NixPirates_MiSTer) | `Arcade-NixPirates_20261010.rbf` | 2026-10-10 | 3 |
-| [ppriest/Arcade-Pandora_MiSTer](https://github.com/ppriest/Arcade-Pandora_MiSTer) | `Arcade-Pandora_20261025.rbf` | 2026-10-25 | 30 |
+| [ppriest/Arcade-Pandora_MiSTer](https://github.com/ppriest/Arcade-Pandora_MiSTer) | `Arcade-Pandora_20261025.rbf` | 2026-10-25 | 24 |
 | [ppriest/Arcade-PlayChoice10_MiSTer](https://github.com/ppriest/Arcade-PlayChoice10_MiSTer) | `Arcade-PlayChoice10_20261020.rbf` | 2026-10-20 | 57 |
 | [ppriest/Arcade-Seta_MiSTer](https://github.com/ppriest/Arcade-Seta_MiSTer) | `Arcade-Seta_20261027.rbf` | 2026-10-27 | 34 |
 | [ppriest/Arcade-SetaDowntown_MiSTer](https://github.com/ppriest/Arcade-SetaDowntown_MiSTer) | `Arcade-SetaDowntown_20261027.rbf` | 2026-10-27 | 7 |
