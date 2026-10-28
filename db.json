@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1793147196,
+ "timestamp": 1793156380,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "04945c999f35edbff296c4808443b57b",
@@ -137,7 +137,7 @@
   "_Arcade/Crazy Cross (ver EAA).mra": {
    "hash": "705e3ee4c97f7b606f8a163b9bbb9667",
    "size": 3365,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Crazy%20Cross%20%28ver%20EAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Crazy%20Cross%20%28ver%20EAA%29.mra"
   },
   "_Arcade/Crazy War.mra": {
    "hash": "739aa44dd32cb6da136b3eaeebd4c266",
@@ -157,7 +157,7 @@
   "_Arcade/Daisu-Kiss (ver JAA).mra": {
    "hash": "71713ff3a27bc57fc644d3187a5a62a2",
    "size": 5130,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Daisu-Kiss%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Daisu-Kiss%20%28ver%20JAA%29.mra"
   },
   "_Arcade/Date Quiz Go Go Episode 2.mra": {
    "hash": "0e7c65e0e1445b9381cde1701a6b73f8",
@@ -202,7 +202,7 @@
   "_Arcade/Dragoon Might (ver AAB).mra": {
    "hash": "a552985e741a71b46ad40d04398dfee3",
    "size": 6242,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Dragoon%20Might%20%28ver%20AAB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Dragoon%20Might%20%28ver%20AAB%29.mra"
   },
   "_Arcade/Dream World.mra": {
    "hash": "1ed78893ac97127070c767007dc4482e",
@@ -242,7 +242,7 @@
   "_Arcade/Fantastic Journey (ver EAA).mra": {
    "hash": "e2a55c7124fa9aac789daa475beefbc9",
    "size": 3679,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Fantastic%20Journey%20%28ver%20EAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Fantastic%20Journey%20%28ver%20EAA%29.mra"
   },
   "_Arcade/Fatal Fury - Wild Ambition - Garou Densetsu - Wild Ambition (rev.A).mra": {
    "hash": "aeb2689a11ba51b45778ffd1ac73799a",
@@ -412,7 +412,7 @@
   "_Arcade/Konami's Open Golf Championship (ver EAE).mra": {
    "hash": "5e4d66803cf0665b299162a7ee5d49b4",
    "size": 5193,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Konami%27s%20Open%20Golf%20Championship%20%28ver%20EAE%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Konami%27s%20Open%20Golf%20Championship%20%28ver%20EAE%29.mra"
   },
   "_Arcade/Kung Fu (PlayChoice-10).mra": {
    "hash": "9a6386a8dfadb07cc45c6af222dc2120",
@@ -437,7 +437,7 @@
   "_Arcade/Lethal Enforcers II Gun Fighters (ver EAA).mra": {
    "hash": "1d0d08a4e37e19b86774ea2ee4f112c6",
    "size": 6210,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Lethal%20Enforcers%20II%20Gun%20Fighters%20%28ver%20EAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Lethal%20Enforcers%20II%20Gun%20Fighters%20%28ver%20EAA%29.mra"
   },
   "_Arcade/Linky Pipe.mra": {
    "hash": "b7ddd3f5e7dbf70f40abc62c1c5d3b56",
@@ -672,12 +672,12 @@
   "_Arcade/Racin' Force (ver EAC).mra": {
    "hash": "860200bc08400431307345c4f56720cc",
    "size": 4459,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Racin%27%20Force%20%28ver%20EAC%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Racin%27%20Force%20%28ver%20EAC%29.mra"
   },
   "_Arcade/Racin' Force (ver UAB).mra": {
    "hash": "7794a04c4a24237cc7fe914f39203d88",
    "size": 4094,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Racin%27%20Force%20%28ver%20UAB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Racin%27%20Force%20%28ver%20UAB%29.mra"
   },
   "_Arcade/Rad Racer (PlayChoice-10).mra": {
    "hash": "e251e53421592e509598df16453b061b",
@@ -717,7 +717,7 @@
   "_Arcade/Run and Gun 2 (ver UAA).mra": {
    "hash": "0fd76488f296c0794d8c2e2fba832629",
    "size": 4221,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Run%20and%20Gun%202%20%28ver%20UAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Run%20and%20Gun%202%20%28ver%20UAA%29.mra"
   },
   "_Arcade/Rush'n Attack (PlayChoice-10).mra": {
    "hash": "a23a620f0fe322e57ea01d9f5c52224c",
@@ -727,7 +727,7 @@
   "_Arcade/Rushing Heroes (ver UAB).mra": {
    "hash": "63c442980546bf9eb5018f4cd6d04668",
    "size": 3876,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Rushing%20Heroes%20%28ver%20UAB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Rushing%20Heroes%20%28ver%20UAB%29.mra"
   },
   "_Arcade/Rygar (PlayChoice-10).mra": {
    "hash": "77de149ce307dca7cca41936e2511960",
@@ -747,7 +747,7 @@
   "_Arcade/Salamander 2 (ver JAA).mra": {
    "hash": "cd57af2c33e2ab75751f42766547c1b2",
    "size": 5703,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Salamander%202%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Salamander%202%20%28ver%20JAA%29.mra"
   },
   "_Arcade/Samurai Shodown 64 - Samurai Spirits - Paewang Jeonseol 64.mra": {
    "hash": "132d4402a30489913038e3b954c2f885",
@@ -767,7 +767,7 @@
   "_Arcade/Sexy Parodius (ver JAA).mra": {
    "hash": "58230205703185213dd525185db170cd",
    "size": 4971,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Sexy%20Parodius%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Sexy%20Parodius%20%28ver%20JAA%29.mra"
   },
   "_Arcade/Shrike Avenger (prototype).mra": {
    "hash": "430d38735472177b643cfe197de273b7",
@@ -792,7 +792,7 @@
   "_Arcade/Soccer Superstars (ver EAC).mra": {
    "hash": "b9a7d4c0ce428c359980529149dac03a",
    "size": 3705,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Soccer%20Superstars%20%28ver%20EAC%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Soccer%20Superstars%20%28ver%20EAC%29.mra"
   },
   "_Arcade/Sokonuke Taisen Game (Japan).mra": {
    "hash": "257c2db4ef2760fec142055a7837afdb",
@@ -892,7 +892,7 @@
   "_Arcade/Taisen Tokkae-dama (ver JAA).mra": {
    "hash": "2488837c9ff3cec0171a19bda124e039",
    "size": 5050,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Taisen%20Tokkae-dama%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Taisen%20Tokkae-dama%20%28ver%20JAA%29.mra"
   },
   "_Arcade/Team Hat Trick (11-16-84).mra": {
    "hash": "4c52bd658176251891efc7c07be4b87b",
@@ -972,7 +972,7 @@
   "_Arcade/Tokimeki Memorial Taisen Puzzle-dama (ver JAB).mra": {
    "hash": "ec30c65e3594e14415ac8bb48020dada",
    "size": 8925,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Tokimeki%20Memorial%20Taisen%20Puzzle-dama%20%28ver%20JAB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Tokimeki%20Memorial%20Taisen%20Puzzle-dama%20%28ver%20JAB%29.mra"
   },
   "_Arcade/Toppy & Rappy.mra": {
    "hash": "a1471209b5d811149bfaed61edb199b1",
@@ -1027,7 +1027,7 @@
   "_Arcade/Twin Bee Yahhoo! (ver JAA).mra": {
    "hash": "0c553b3166dba8e64a9af0a2ae53335c",
    "size": 3706,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Twin%20Bee%20Yahhoo%21%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Twin%20Bee%20Yahhoo%21%20%28ver%20JAA%29.mra"
   },
   "_Arcade/Twin Eagle - Revenge Joe's Brother.mra": {
    "hash": "aace17c620fa1c10cd4a15a2cdc70f4e",
@@ -1057,7 +1057,7 @@
   "_Arcade/Versus Net Soccer (ver EAD).mra": {
    "hash": "2f02745cd9cd2df8cd42550517decc01",
    "size": 3395,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Versus%20Net%20Soccer%20%28ver%20EAD%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Versus%20Net%20Soccer%20%28ver%20EAD%29.mra"
   },
   "_Arcade/Volley Ball (PlayChoice-10).mra": {
    "hash": "f47d9d01e05be3ea07048b806f9b9dab",
@@ -1082,7 +1082,7 @@
   "_Arcade/Winning Spike (ver EAA).mra": {
    "hash": "ef84e63cd677727ebbf348abf41cf95e",
    "size": 3618,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Winning%20Spike%20%28ver%20EAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Winning%20Spike%20%28ver%20EAA%29.mra"
   },
   "_Arcade/Wit's (Japan).mra": {
    "hash": "fc37ec0733c8ae6f01836a1488bd99f9",
@@ -1162,7 +1162,7 @@
   "_Arcade/_alternatives/_Crazy Cross (ver EAA)/Taisen Puzzle-dama (ver JAA).mra": {
    "hash": "b0f70180e239964c1c8a6c669d7f0951",
    "size": 3398,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Crazy%20Cross%20%28ver%20EAA%29/Taisen%20Puzzle-dama%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Crazy%20Cross%20%28ver%20EAA%29/Taisen%20Puzzle-dama%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_alternatives/_Daioh/Daioh (earlier).mra": {
    "hash": "ce1f846de057e526aeebbb1605dd0c52",
@@ -1192,17 +1192,17 @@
   "_Arcade/_alternatives/_Dragoon Might (ver AAB)/Dragoon Might (ver JAA).mra": {
    "hash": "69817201174c58ec3f6054e35173743e",
    "size": 6513,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Dragoon%20Might%20%28ver%20AAB%29/Dragoon%20Might%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Dragoon%20Might%20%28ver%20AAB%29/Dragoon%20Might%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_alternatives/_Fantastic Journey (ver EAA)/Fantastic Journey (ver AAA).mra": {
    "hash": "2d9d7c268738958edd1a8dc924f8b986",
    "size": 3709,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Fantastic%20Journey%20%28ver%20EAA%29/Fantastic%20Journey%20%28ver%20AAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Fantastic%20Journey%20%28ver%20EAA%29/Fantastic%20Journey%20%28ver%20AAA%29.mra"
   },
   "_Arcade/_alternatives/_Fantastic Journey (ver EAA)/Gokujou Parodius Kako no Eikou o Motomete (ver JAD).mra": {
    "hash": "cf78e787063f02666d0f82d5bf7556b2",
    "size": 5882,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Fantastic%20Journey%20%28ver%20EAA%29/Gokujou%20Parodius%20Kako%20no%20Eikou%20o%20Motomete%20%28ver%20JAD%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Fantastic%20Journey%20%28ver%20EAA%29/Gokujou%20Parodius%20Kako%20no%20Eikou%20o%20Motomete%20%28ver%20JAD%29.mra"
   },
   "_Arcade/_alternatives/_Fortress 2 Blue Arcade (World) (ver 1.01 - pcb ver 3.05)/Fortress 2 Blue Arcade (Korea) (ver 1.00 - pcb ver 3.05).mra": {
    "hash": "a8f21cb971c0175c07c36d8a2eaf48fc",
@@ -1312,12 +1312,12 @@
   "_Arcade/_alternatives/_Konami's Open Golf Championship (ver EAE)/Golfing Greats 2 (ver JAC).mra": {
    "hash": "10b5ebabcc46883a3646fbf5bd1eaea8",
    "size": 5063,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Konami%27s%20Open%20Golf%20Championship%20%28ver%20EAE%29/Golfing%20Greats%202%20%28ver%20JAC%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Konami%27s%20Open%20Golf%20Championship%20%28ver%20EAE%29/Golfing%20Greats%202%20%28ver%20JAC%29.mra"
   },
   "_Arcade/_alternatives/_Konami's Open Golf Championship (ver EAE)/Konami's Open Golf Championship (ver EAD).mra": {
    "hash": "e93201cc419e16caa92afdaf04349493",
    "size": 5223,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Konami%27s%20Open%20Golf%20Championship%20%28ver%20EAE%29/Konami%27s%20Open%20Golf%20Championship%20%28ver%20EAD%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Konami%27s%20Open%20Golf%20Championship%20%28ver%20EAE%29/Konami%27s%20Open%20Golf%20Championship%20%28ver%20EAD%29.mra"
   },
   "_Arcade/_alternatives/_Land Breaker (World) - Miss Tang Ja Ru Gi (Korea) (pcb ver 3.02)/Land Breaker (World) - Miss Tang Ja Ru Gi (Korea) (pcb ver 1.0) (AT89c52 protected).mra": {
    "hash": "c87873bf54f706ff1a231a81432502a4",
@@ -1332,12 +1332,12 @@
   "_Arcade/_alternatives/_Lethal Enforcers II Gun Fighters (ver EAA)/Lethal Enforcers II Gun Fighters (ver UAA).mra": {
    "hash": "a65c129db94abb1acd99891354ced890",
    "size": 6123,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Lethal%20Enforcers%20II%20Gun%20Fighters%20%28ver%20EAA%29/Lethal%20Enforcers%20II%20Gun%20Fighters%20%28ver%20UAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Lethal%20Enforcers%20II%20Gun%20Fighters%20%28ver%20EAA%29/Lethal%20Enforcers%20II%20Gun%20Fighters%20%28ver%20UAA%29.mra"
   },
   "_Arcade/_alternatives/_Lethal Enforcers II Gun Fighters (ver EAA)/Lethal Enforcers II The Western (ver JAA).mra": {
    "hash": "c44c1d00e1af529d375241e903855ae0",
    "size": 5984,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Lethal%20Enforcers%20II%20Gun%20Fighters%20%28ver%20EAA%29/Lethal%20Enforcers%20II%20The%20Western%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Lethal%20Enforcers%20II%20Gun%20Fighters%20%28ver%20EAA%29/Lethal%20Enforcers%20II%20The%20Western%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_alternatives/_Lethal Enforcers/Lethal Enforcers (ver EAA).mra": {
    "hash": "c72853ba8cc44c82581a70701e51bbee",
@@ -1457,7 +1457,7 @@
   "_Arcade/_alternatives/_Racin' Force (ver EAC)/Racin' Force (ver UAB).mra": {
    "hash": "7fe3e6b06086694356e40da27817337d",
    "size": 4441,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Racin%27%20Force%20%28ver%20EAC%29/Racin%27%20Force%20%28ver%20UAB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Racin%27%20Force%20%28ver%20EAC%29/Racin%27%20Force%20%28ver%20UAB%29.mra"
   },
   "_Arcade/_alternatives/_Rescue Raider/Rescue Raider (stand-alone).mra": {
    "hash": "887c474e4c5d9b27172bd84ecee36208",
@@ -1477,7 +1477,7 @@
   "_Arcade/_alternatives/_Run and Gun 2 (ver UAA)/Slam Dunk 2 (ver JAA).mra": {
    "hash": "af927238dc9eed1d8f9196551b19a4ab",
    "size": 3955,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Run%20and%20Gun%202%20%28ver%20UAA%29/Slam%20Dunk%202%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Run%20and%20Gun%202%20%28ver%20UAA%29/Slam%20Dunk%202%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_alternatives/_Ryuusei Janshi Kirara Star (ver 1.0, 92047-01 version)/Ryuusei Janshi Kirara Star (ver 1.0, 91022-10 version).mra": {
    "hash": "06f40576495d6cb7da69973e29b9566c",
@@ -1487,12 +1487,12 @@
   "_Arcade/_alternatives/_Salamander 2 (ver JAA)/Salamander 2 (ver AAB).mra": {
    "hash": "2771960bf89ccb737a5b2b76b588746c",
    "size": 5488,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Salamander%202%20%28ver%20JAA%29/Salamander%202%20%28ver%20AAB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Salamander%202%20%28ver%20JAA%29/Salamander%202%20%28ver%20AAB%29.mra"
   },
   "_Arcade/_alternatives/_Sexy Parodius (ver JAA)/Sexy Parodius (ver AAA).mra": {
    "hash": "c953400f6ac995402209f6ac9378d569",
    "size": 4990,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Sexy%20Parodius%20%28ver%20JAA%29/Sexy%20Parodius%20%28ver%20AAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Sexy%20Parodius%20%28ver%20JAA%29/Sexy%20Parodius%20%28ver%20AAA%29.mra"
   },
   "_Arcade/_alternatives/_Skull Fang (Europe 1.13)/Skull Fang - Kuhga Gaiden (Asia 1.13).mra": {
    "hash": "8f885369c099ba8da0797810d95ee1e2",
@@ -1512,22 +1512,22 @@
   "_Arcade/_alternatives/_Soccer Superstars (ver EAC)/Soccer Superstars (ver AAA).mra": {
    "hash": "d8f7898fe7892677198f7a65926e6a15",
    "size": 3735,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Soccer%20Superstars%20%28ver%20EAC%29/Soccer%20Superstars%20%28ver%20AAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Soccer%20Superstars%20%28ver%20EAC%29/Soccer%20Superstars%20%28ver%20AAA%29.mra"
   },
   "_Arcade/_alternatives/_Soccer Superstars (ver EAC)/Soccer Superstars (ver JAA).mra": {
    "hash": "5a3f1139db75eb93d4dabcc7f434ddb4",
    "size": 3739,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Soccer%20Superstars%20%28ver%20EAC%29/Soccer%20Superstars%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Soccer%20Superstars%20%28ver%20EAC%29/Soccer%20Superstars%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_alternatives/_Soccer Superstars (ver EAC)/Soccer Superstars (ver JAC).mra": {
    "hash": "0f2c7bbe5e38ec335780acd054c6b62c",
    "size": 3735,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Soccer%20Superstars%20%28ver%20EAC%29/Soccer%20Superstars%20%28ver%20JAC%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Soccer%20Superstars%20%28ver%20EAC%29/Soccer%20Superstars%20%28ver%20JAC%29.mra"
   },
   "_Arcade/_alternatives/_Soccer Superstars (ver EAC)/Soccer Superstars (ver UAC).mra": {
    "hash": "e836a439940273494b42c930c1cb6aa4",
    "size": 3735,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Soccer%20Superstars%20%28ver%20EAC%29/Soccer%20Superstars%20%28ver%20UAC%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Soccer%20Superstars%20%28ver%20EAC%29/Soccer%20Superstars%20%28ver%20UAC%29.mra"
   },
   "_Arcade/_alternatives/_Spiker/Spiker (5-5-86).mra": {
    "hash": "977ed730e160e43ecadebd3973f3e3ed",
@@ -1622,7 +1622,7 @@
   "_Arcade/_alternatives/_Twin Bee Yahhoo! (ver JAA)/Magical Twin Bee (ver EAA).mra": {
    "hash": "5384eaa4d6582ebab333ca72e97a4e68",
    "size": 3455,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Twin%20Bee%20Yahhoo%21%20%28ver%20JAA%29/Magical%20Twin%20Bee%20%28ver%20EAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Twin%20Bee%20Yahhoo%21%20%28ver%20JAA%29/Magical%20Twin%20Bee%20%28ver%20EAA%29.mra"
   },
   "_Arcade/_alternatives/_Twinkle (set 1)/Twinkle (set 2).mra": {
    "hash": "c9da27ef2eac01edfe0b29336a1e9a74",
@@ -1642,32 +1642,32 @@
   "_Arcade/_alternatives/_Versus Net Soccer (ver EAD)/Versus Net Soccer (ver AAA).mra": {
    "hash": "bb3dd4977ab01cc661ef79cca56df7ba",
    "size": 3410,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Versus%20Net%20Soccer%20%28ver%20EAD%29/Versus%20Net%20Soccer%20%28ver%20AAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Versus%20Net%20Soccer%20%28ver%20EAD%29/Versus%20Net%20Soccer%20%28ver%20AAA%29.mra"
   },
   "_Arcade/_alternatives/_Versus Net Soccer (ver EAD)/Versus Net Soccer (ver EAB).mra": {
    "hash": "9660cdeecfb0c1d24e332567b2804e3c",
    "size": 3412,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Versus%20Net%20Soccer%20%28ver%20EAD%29/Versus%20Net%20Soccer%20%28ver%20EAB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Versus%20Net%20Soccer%20%28ver%20EAD%29/Versus%20Net%20Soccer%20%28ver%20EAB%29.mra"
   },
   "_Arcade/_alternatives/_Versus Net Soccer (ver EAD)/Versus Net Soccer (ver JAB).mra": {
    "hash": "40c630a009bff539afbfe07197eeaf9f",
    "size": 3410,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Versus%20Net%20Soccer%20%28ver%20EAD%29/Versus%20Net%20Soccer%20%28ver%20JAB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Versus%20Net%20Soccer%20%28ver%20EAD%29/Versus%20Net%20Soccer%20%28ver%20JAB%29.mra"
   },
   "_Arcade/_alternatives/_Versus Net Soccer (ver EAD)/Versus Net Soccer (ver UAB).mra": {
    "hash": "dd7442932961c6009cba20f80cc3e1dc",
    "size": 3410,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Versus%20Net%20Soccer%20%28ver%20EAD%29/Versus%20Net%20Soccer%20%28ver%20UAB%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Versus%20Net%20Soccer%20%28ver%20EAD%29/Versus%20Net%20Soccer%20%28ver%20UAB%29.mra"
   },
   "_Arcade/_alternatives/_Winning Spike (ver EAA)/Winning Spike (ver AAA).mra": {
    "hash": "6fb9a4c94695184e15b8b01ca115cba2",
    "size": 3633,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Winning%20Spike%20%28ver%20EAA%29/Winning%20Spike%20%28ver%20AAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Winning%20Spike%20%28ver%20EAA%29/Winning%20Spike%20%28ver%20AAA%29.mra"
   },
   "_Arcade/_alternatives/_Winning Spike (ver EAA)/Winning Spike (ver JAA).mra": {
    "hash": "b63049c830b8015445114117952e7d86",
    "size": 3633,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/_alternatives/_Winning%20Spike%20%28ver%20EAA%29/Winning%20Spike%20%28ver%20JAA%29.mra"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/_alternatives/_Winning%20Spike%20%28ver%20EAA%29/Winning%20Spike%20%28ver%20JAA%29.mra"
   },
   "_Arcade/_alternatives/_Wivern Wings/Wyvern Wings (set 1).mra": {
    "hash": "4b5f3de8efd5d6492d26edaee3cce0d5",
@@ -1727,17 +1727,17 @@
   "_Arcade/cores/KonamiGXT1_20261013.rbf": {
    "hash": "13468707fd09883cada731cfe5ef03d9",
    "size": 4556708,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Arcade-KonamiGXT1_20261013.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Arcade-KonamiGXT1_20261013.rbf"
   },
   "_Arcade/cores/KonamiGXT34_20261011.rbf": {
    "hash": "3a9feacd901551bc583949a0e3f6a827",
    "size": 4541268,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Arcade-KonamiGXT34_20261011.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Arcade-KonamiGXT34_20261011.rbf"
   },
-  "_Arcade/cores/KonamiGX_20261013.rbf": {
-   "hash": "f3933e097c8e4468d384fd29066a9bde",
-   "size": 4511460,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/c5517bf5cc746f907409aa13ea0af0585184f61e/releases/Arcade-KonamiGX_20261013.rbf"
+  "_Arcade/cores/KonamiGX_20261028.rbf": {
+   "hash": "39f8cf4d8f33dabfb2b26b87ac578209",
+   "size": 4528756,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiGX_MiSTer/df6e65175c4acdfec209e1e6afd13b4e725af63d/releases/Arcade-KonamiGX_20261028.rbf"
   },
   "_Arcade/cores/KonamiHornet_20261027.rbf": {
    "hash": "3813aa1ee0c787dd86461d0b76f6ae55",
