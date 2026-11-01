@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1793532412,
+ "timestamp": 1793575407,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "04945c999f35edbff296c4808443b57b",
@@ -64,6 +64,11 @@
    "size": 4119,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-JalecoMS32_MiSTer/0858ab7b98ba4dcb31d545b5edf2613c1ee3211b/releases/Best%20Bout%20Boxing%20%28ver%201.3%29.mra"
   },
+  "_Arcade/Big Run (11th Rallye version, Europe).mra": {
+   "hash": "c6022c200e4fa48ca16cd805aba71a53",
+   "size": 3877,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Cischeat_MiSTer/3af9ad49d92d37076ef284211e0ed55fc53c4854/releases/Big%20Run%20%2811th%20Rallye%20version%2C%20Europe%29.mra"
+  },
   "_Arcade/Blandia.mra": {
    "hash": "977f76d4dcaf8f06c2135f899e53f9e7",
    "size": 2966,
@@ -108,6 +113,11 @@
    "hash": "7f92cb69b5698f310d67c981515d74ee",
    "size": 2580,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2b01aec18b41fbd6333fa787d1d375174324f652/releases/Chip%27n%20Dale-%20Rescue%20Rangers%20%28PlayChoice-10%29.mra"
+  },
+  "_Arcade/Cisco Heat.mra": {
+   "hash": "5d160726c2ef634097e91e4b1e17d04b",
+   "size": 3161,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Cischeat_MiSTer/3af9ad49d92d37076ef284211e0ed55fc53c4854/releases/Cisco%20Heat.mra"
   },
   "_Arcade/Come Back Toto.mra": {
    "hash": "3f5a4ded977cbd61f7fcd57c205310d6",
@@ -234,6 +244,11 @@
    "size": 2712,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/9e9618bf27332d1466907ee045035a029a038805/releases/Extreme%20Downhill%20%28v1.5%29.mra"
   },
+  "_Arcade/F-1 Grand Prix Star II.mra": {
+   "hash": "7d863304a3a6b1f3b5771a852fbe850a",
+   "size": 3432,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Cischeat_MiSTer/3af9ad49d92d37076ef284211e0ed55fc53c4854/releases/F-1%20Grand%20Prix%20Star%20II.mra"
+  },
   "_Arcade/F-1 Super Battle.mra": {
    "hash": "2f5383f82d50e0c28e2e29573aeb25b8",
    "size": 4565,
@@ -308,6 +323,11 @@
    "hash": "99f8c32d5ec0b314f01811f5b16337ee",
    "size": 5621,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/87f9866be19fa7943a3e4fe10d5ec11967dcd079/releases/Gradius%20IV%20Fukkatsu%20%28ver%20JAC%29.mra"
+  },
+  "_Arcade/Grand Prix Star (ver 4.0).mra": {
+   "hash": "8b19141873fbc848ba392f3c1bf90c87",
+   "size": 3596,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Cischeat_MiSTer/3af9ad49d92d37076ef284211e0ed55fc53c4854/releases/Grand%20Prix%20Star%20%28ver%204.0%29.mra"
   },
   "_Arcade/Gratia - Second Earth (ver 1.0, 92047-01 version).mra": {
    "hash": "bd9ef118ff0c00ca3db4baf8cd93b7d0",
@@ -583,6 +603,21 @@
    "hash": "6f8e986e33af04814d5eb1733e3003eb",
    "size": 1766,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/9e9618bf27332d1466907ee045035a029a038805/releases/Pairs%20Love.mra"
+  },
+  "_Arcade/ParaParaDancing.mra": {
+   "hash": "8599ddf513e2b29102ba7d33d61e1d46",
+   "size": 1315,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/27ca7ee3d7fa32763b4f0f981a693a64ffbacc14/releases/ParaParaDancing.mra"
+  },
+  "_Arcade/ParaParaParadise v1.1.mra": {
+   "hash": "898895da934043e11c0308fb95101402",
+   "size": 1326,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/27ca7ee3d7fa32763b4f0f981a693a64ffbacc14/releases/ParaParaParadise%20v1.1.mra"
+  },
+  "_Arcade/ParaParaParadise.mra": {
+   "hash": "d4ef6b14e55ec13b3d60040df9b16dc3",
+   "size": 1313,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/27ca7ee3d7fa32763b4f0f981a693a64ffbacc14/releases/ParaParaParadise.mra"
   },
   "_Arcade/Penfan Girls - Step1. Mild Mind (set 1).mra": {
    "hash": "f1311c234a3155add8123669f209e345",
@@ -1134,6 +1169,11 @@
    "size": 3002,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-DreamWorld_MiSTer/48df56782442a56ea4d27b7b01b56fc59f896017/releases/_alternatives/_Baryon%20-%20Future%20Assault%20%28set%201%29/Baryon%20-%20Future%20Assault%20%28set%202%29.mra"
   },
+  "_Arcade/_alternatives/_Big Run (11th Rallye version, Europe)/Big Run (11th Rallye version, US).mra": {
+   "hash": "3435d1ee3e8a423f8b9f1a6dc588399e",
+   "size": 3884,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Cischeat_MiSTer/3af9ad49d92d37076ef284211e0ed55fc53c4854/releases/_alternatives/_Big%20Run%20%2811th%20Rallye%20version%2C%20Europe%29/Big%20Run%20%2811th%20Rallye%20version%2C%20US%29.mra"
+  },
   "_Arcade/_alternatives/_Blandia/Blandia (prototype).mra": {
    "hash": "fd42acbcc566e9a6da8a1a9a48fc83fe",
    "size": 5011,
@@ -1238,6 +1278,16 @@
    "hash": "3432e9417e14d274c2afc46dae0d378b",
    "size": 2571,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-PlayChoice10_MiSTer/2b01aec18b41fbd6333fa787d1d375174324f652/releases/_alternatives/_Gradius/Gradius%20%28PlayChoice-10%2C%20older%29.mra"
+  },
+  "_Arcade/_alternatives/_Grand Prix Star (ver 4.0)/Grand Prix Star (ver 2.0).mra": {
+   "hash": "2442bac5843ca7f143de54af45f9ee6b",
+   "size": 3597,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Cischeat_MiSTer/3af9ad49d92d37076ef284211e0ed55fc53c4854/releases/_alternatives/_Grand%20Prix%20Star%20%28ver%204.0%29/Grand%20Prix%20Star%20%28ver%202.0%29.mra"
+  },
+  "_Arcade/_alternatives/_Grand Prix Star (ver 4.0)/Grand Prix Star (ver 3.0).mra": {
+   "hash": "2b5b34a829cbc1355fbb41a0f19817ca",
+   "size": 3614,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Cischeat_MiSTer/3af9ad49d92d37076ef284211e0ed55fc53c4854/releases/_alternatives/_Grand%20Prix%20Star%20%28ver%204.0%29/Grand%20Prix%20Star%20%28ver%203.0%29.mra"
   },
   "_Arcade/_alternatives/_Gratia - Second Earth (ver 1.0, 92047-01 version)/Gratia - Second Earth (ver 1.0, 91022-10 version).mra": {
    "hash": "c861e9c2e890d2f799acd5e7e450bca7",
@@ -1438,6 +1488,11 @@
    "hash": "4fde6d4700cd3656b2d08bafa72508e0",
    "size": 3785,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-JalecoMS32_MiSTer/0858ab7b98ba4dcb31d545b5edf2613c1ee3211b/releases/_alternatives/_P-47%20Aces%20%28ver%201.1%29/P-47%20Aces%20%28ver%201.0%29.mra"
+  },
+  "_Arcade/_alternatives/_ParaParaParadise/ParaParaParadise 1st Mix Plus.mra": {
+   "hash": "9cf72205c1f35675b570025ef4064aa2",
+   "size": 1339,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/27ca7ee3d7fa32763b4f0f981a693a64ffbacc14/releases/_alternatives/_ParaParaParadise/ParaParaParadise%201st%20Mix%20Plus.mra"
   },
   "_Arcade/_alternatives/_Penfan Girls - Step1. Mild Mind (set 1)/Penfan Girls - Step1. Mild Mind (set 2).mra": {
    "hash": "19109948744ceaba750652045a15cdc3",
@@ -1684,6 +1739,11 @@
    "size": 4316884,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-BallySente_MiSTer/7839b0f65075d2b5584812e4b167f5c01e5a3a2c/releases/Arcade-BallySente_20261025.rbf"
   },
+  "_Arcade/cores/Cischeat_20261101.rbf": {
+   "hash": "ce27ad5dc5d2fc71987fe64944047645",
+   "size": 4372416,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Cischeat_MiSTer/3af9ad49d92d37076ef284211e0ed55fc53c4854/releases/Arcade-Cischeat_20261101.rbf"
+  },
   "_Arcade/cores/DecoMLC156_20261031.rbf": {
    "hash": "2944611de4d9025ed62fb94f1deeeaaa",
    "size": 4114824,
@@ -1703,6 +1763,11 @@
    "hash": "547a0d1b20b7a566e8144b06801c0c10",
    "size": 4256824,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c5a2aff35ad223f8b74eef874f8f5490c0706b2b/releases/Arcade-Eolith_20261011.rbf"
+  },
+  "_Arcade/cores/Firebeat_20261101.rbf": {
+   "hash": "52d35cfb55b7beb459bfd088532094ff",
+   "size": 3785568,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/27ca7ee3d7fa32763b4f0f981a693a64ffbacc14/releases/Arcade-Firebeat_20261101.rbf"
   },
   "_Arcade/cores/GStream_20261014.rbf": {
    "hash": "e151c4312a2f749ebdaef360554746c1",
@@ -1864,6 +1929,13 @@
    "overwrite": false,
    "path": "pext"
   },
+  "games/mame/bigrun.zip": {
+   "hash": "37f77490815bc510387a35528b3eabb5",
+   "size": 2645246,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/bigrun.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
   "games/mame/blandia.zip": {
    "hash": "4fa9bce31b052c243747b3dcce5fc11d",
    "size": 6996255,
@@ -1903,6 +1975,13 @@
    "hash": "8b11e4c7098dc2eb1a16afe24267c2ec",
    "size": 14513609,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/candy.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/cischeat.zip": {
+   "hash": "3ade4c1ab7253b5b6b8b033dcf41d4ad",
+   "size": 2571227,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/cischeat.zip",
    "overwrite": false,
    "path": "pext"
   },
@@ -2036,6 +2115,20 @@
    "hash": "54ae438974139e7873e51a1807f91027",
    "size": 3869597,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/extdwnhl.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/f1gpstar.zip": {
+   "hash": "c06b7cb69b0cfe82d0398d837eae2f44",
+   "size": 3641670,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/f1gpstar.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/f1gpstr2.zip": {
+   "hash": "b2e9661453316c975c2dddecaf18ebe8",
+   "size": 4131456,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/f1gpstr2.zip",
    "overwrite": false,
    "path": "pext"
   },
@@ -2865,6 +2958,27 @@
    "overwrite": false,
    "path": "pext"
   },
+  "games/mame/ppd.zip": {
+   "hash": "c15112d99603ec59c088325694170d07",
+   "size": 45693,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ppd.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/ppp.zip": {
+   "hash": "60644f98586100fbbf14537982fe05e1",
+   "size": 45864,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ppp.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/ppp11.zip": {
+   "hash": "fac4c12f1b19f5980f6ec0aa2d03cb98",
+   "size": 45697,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/ppp11.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
   "games/mame/puzzlekg.zip": {
    "hash": "d427c9a9cbd94df26b2b6eb134de9ea1",
    "size": 16929954,
@@ -3376,6 +3490,7 @@
   "_Arcade/_alternatives": {},
   "_Arcade/_alternatives/_Avengers In Galactic Storm (US-Europe 1.0)": {},
   "_Arcade/_alternatives/_Baryon - Future Assault (set 1)": {},
+  "_Arcade/_alternatives/_Big Run (11th Rallye version, Europe)": {},
   "_Arcade/_alternatives/_Blandia": {},
   "_Arcade/_alternatives/_Cookie & Bibi 2 (English, set 1)": {},
   "_Arcade/_alternatives/_Cool Minigame Collection": {},
@@ -3388,6 +3503,7 @@
   "_Arcade/_alternatives/_Fortress 2 Blue Arcade (World) (ver 1.01 - pcb ver 3.05)": {},
   "_Arcade/_alternatives/_Gradius": {},
   "_Arcade/_alternatives/_Gradius IV": {},
+  "_Arcade/_alternatives/_Grand Prix Star (ver 4.0)": {},
   "_Arcade/_alternatives/_Gratia - Second Earth (ver 1.0, 92047-01 version)": {},
   "_Arcade/_alternatives/_Grudge Match": {},
   "_Arcade/_alternatives/_Gundhara": {},
@@ -3414,6 +3530,7 @@
   "_Arcade/_alternatives/_New HyperMan (3-in-1 with Cookie & Bibi & HyperMan) (set 1)": {},
   "_Arcade/_alternatives/_Night Stocker": {},
   "_Arcade/_alternatives/_P-47 Aces (ver 1.1)": {},
+  "_Arcade/_alternatives/_ParaParaParadise": {},
   "_Arcade/_alternatives/_Penfan Girls - Step1. Mild Mind (set 1)": {},
   "_Arcade/_alternatives/_Pirates": {},
   "_Arcade/_alternatives/_Puzzle Break (set 1)": {},

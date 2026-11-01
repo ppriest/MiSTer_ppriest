@@ -1,13 +1,15 @@
 # Cores in this database
 
-Updated 2026-11-01. 583 files from 18 repositories.
+Updated 2026-11-01. 603 files from 20 repositories.
 
 | Repository | Builds | Latest build | MRAs |
 |---|---|---|---|
 | [ppriest/Arcade-BallySente_MiSTer](https://github.com/ppriest/Arcade-BallySente_MiSTer) | `Arcade-BallySente_20261025.rbf` | 2026-10-25 | 40 |
+| [ppriest/Arcade-Cischeat_MiSTer](https://github.com/ppriest/Arcade-Cischeat_MiSTer) | `Arcade-Cischeat_20261101.rbf` | 2026-11-01 | 7 |
 | [ppriest/Arcade-DecoMLC_MiSTer](https://github.com/ppriest/Arcade-DecoMLC_MiSTer) | `Arcade-DecoMLC156_20261031.rbf`, `Arcade-DecoMLC_20261031.rbf` | 2026-10-31 | 14 |
 | [ppriest/Arcade-DreamWorld_MiSTer](https://github.com/ppriest/Arcade-DreamWorld_MiSTer) | `Arcade-DreamWorld_20261017.rbf` | 2026-10-17 | 7 |
 | [ppriest/Arcade-Eolith_MiSTer](https://github.com/ppriest/Arcade-Eolith_MiSTer) | `Arcade-Eolith_20261011.rbf` | 2026-10-11 | 23 |
+| [ppriest/Arcade-Firebeat_MiSTer](https://github.com/ppriest/Arcade-Firebeat_MiSTer) | `Arcade-Firebeat_20261101.rbf` | 2026-11-01 | 4 |
 | [ppriest/Arcade-GStream_MiSTer](https://github.com/ppriest/Arcade-GStream_MiSTer) | `Arcade-GStream_20261014.rbf` | 2026-10-14 | 1 |
 | [ppriest/Arcade-HyperNG64_MiSTer](https://github.com/ppriest/Arcade-HyperNG64_MiSTer) | `Arcade-HyperNG64_20261006.rbf` | 2026-10-06 | 7 |
 | [ppriest/Arcade-JalecoMS32_MiSTer](https://github.com/ppriest/Arcade-JalecoMS32_MiSTer) | `Arcade-JalecoMS32F1_20261027.rbf`, `Arcade-JalecoMS32_20261027.rbf` | 2026-10-27 | 20 |
