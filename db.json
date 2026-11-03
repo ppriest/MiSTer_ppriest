@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1793575407,
+ "timestamp": 1793749624,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "04945c999f35edbff296c4808443b57b",
@@ -605,19 +605,19 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Seta_MiSTer/9e9618bf27332d1466907ee045035a029a038805/releases/Pairs%20Love.mra"
   },
   "_Arcade/ParaParaDancing.mra": {
-   "hash": "8599ddf513e2b29102ba7d33d61e1d46",
-   "size": 1315,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/27ca7ee3d7fa32763b4f0f981a693a64ffbacc14/releases/ParaParaDancing.mra"
+   "hash": "d363b82cd6ff7e31ebd24194165065b4",
+   "size": 1319,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/ParaParaDancing.mra"
   },
   "_Arcade/ParaParaParadise v1.1.mra": {
-   "hash": "898895da934043e11c0308fb95101402",
-   "size": 1326,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/27ca7ee3d7fa32763b4f0f981a693a64ffbacc14/releases/ParaParaParadise%20v1.1.mra"
+   "hash": "698e2feae824d60493ee2474759f6031",
+   "size": 1330,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/ParaParaParadise%20v1.1.mra"
   },
   "_Arcade/ParaParaParadise.mra": {
-   "hash": "d4ef6b14e55ec13b3d60040df9b16dc3",
-   "size": 1313,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/27ca7ee3d7fa32763b4f0f981a693a64ffbacc14/releases/ParaParaParadise.mra"
+   "hash": "b3b04446e613ab9539c59cf62a6d3b4a",
+   "size": 1317,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/ParaParaParadise.mra"
   },
   "_Arcade/Penfan Girls - Step1. Mild Mind (set 1).mra": {
    "hash": "f1311c234a3155add8123669f209e345",
@@ -643,6 +643,46 @@
    "hash": "4c9b2546edb4296c7f26315952dca0df",
    "size": 1998,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Poosho%20Poosho.mra"
+  },
+  "_Arcade/Pop'n Music 4.mra": {
+   "hash": "841e3d20350e3185a8c02b9fd384365e",
+   "size": 1666,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/Pop%27n%20Music%204.mra"
+  },
+  "_Arcade/Pop'n Music 5.mra": {
+   "hash": "b9625d5b38d16446ec376dc69bf31e3d",
+   "size": 1681,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/Pop%27n%20Music%205.mra"
+  },
+  "_Arcade/Pop'n Music 6.mra": {
+   "hash": "dfe23dd752356998669b56706a3c467c",
+   "size": 1663,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/Pop%27n%20Music%206.mra"
+  },
+  "_Arcade/Pop'n Music 7.mra": {
+   "hash": "bce9705c73a2c7a5a9305df9ce65461d",
+   "size": 1656,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/Pop%27n%20Music%207.mra"
+  },
+  "_Arcade/Pop'n Music 8.mra": {
+   "hash": "298c53a7a43180c8f989be2bf69de6ed",
+   "size": 1672,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/Pop%27n%20Music%208.mra"
+  },
+  "_Arcade/Pop'n Music Animelo 2 (JAC).mra": {
+   "hash": "e78ce38b9a54e01fc988e348b6041c15",
+   "size": 1704,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/Pop%27n%20Music%20Animelo%202%20%28JAC%29.mra"
+  },
+  "_Arcade/Pop'n Music Animelo.mra": {
+   "hash": "607e3df72650b40f9dddac77e280439a",
+   "size": 1684,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/Pop%27n%20Music%20Animelo.mra"
+  },
+  "_Arcade/Pop'n Music Mickey Tunes.mra": {
+   "hash": "094f7b7bca5356fc3f877d23079b4364",
+   "size": 1674,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/Pop%27n%20Music%20Mickey%20Tunes.mra"
   },
   "_Arcade/Power Blade (PlayChoice-10).mra": {
    "hash": "14c8ace795d698433f9557de76d17ba4",
@@ -1490,9 +1530,9 @@
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-JalecoMS32_MiSTer/0858ab7b98ba4dcb31d545b5edf2613c1ee3211b/releases/_alternatives/_P-47%20Aces%20%28ver%201.1%29/P-47%20Aces%20%28ver%201.0%29.mra"
   },
   "_Arcade/_alternatives/_ParaParaParadise/ParaParaParadise 1st Mix Plus.mra": {
-   "hash": "9cf72205c1f35675b570025ef4064aa2",
-   "size": 1339,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/27ca7ee3d7fa32763b4f0f981a693a64ffbacc14/releases/_alternatives/_ParaParaParadise/ParaParaParadise%201st%20Mix%20Plus.mra"
+   "hash": "b439d14e8ac790f6a29b1503176fb463",
+   "size": 1343,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/_alternatives/_ParaParaParadise/ParaParaParadise%201st%20Mix%20Plus.mra"
   },
   "_Arcade/_alternatives/_Penfan Girls - Step1. Mild Mind (set 1)/Penfan Girls - Step1. Mild Mind (set 2).mra": {
    "hash": "19109948744ceaba750652045a15cdc3",
@@ -1503,6 +1543,31 @@
    "hash": "7fd0e86250efe57955e845ecb6951cc5",
    "size": 1695,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-NixPirates_MiSTer/65232f09ed4945cfd59228036ea67afabe7d579c/releases/_alternatives/_Pirates/Pirates%20%28set%202%29.mra"
+  },
+  "_Arcade/_alternatives/_Pop'n Music Animelo 2/Pop'n Music Animelo 2 (JAA).mra": {
+   "hash": "383dbeba344d027a27a1dcf05a162dd2",
+   "size": 1706,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/_alternatives/_Pop%27n%20Music%20Animelo%202/Pop%27n%20Music%20Animelo%202%20%28JAA%29.mra"
+  },
+  "_Arcade/_alternatives/_Pop'n Music Animelo 2/Pop'n Music Animelo 2 (JAA, license expired).mra": {
+   "hash": "0fa25cb5031324a56964540c5ddc66ff",
+   "size": 1726,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/_alternatives/_Pop%27n%20Music%20Animelo%202/Pop%27n%20Music%20Animelo%202%20%28JAA%2C%20license%20expired%29.mra"
+  },
+  "_Arcade/_alternatives/_Pop'n Music Animelo 2/Pop'n Music Animelo 2 (JAC, license expired).mra": {
+   "hash": "1b1a7e2e16f0e9825449db64ba3a5c5f",
+   "size": 1724,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/_alternatives/_Pop%27n%20Music%20Animelo%202/Pop%27n%20Music%20Animelo%202%20%28JAC%2C%20license%20expired%29.mra"
+  },
+  "_Arcade/_alternatives/_Pop'n Music Animelo/Pop'n Music Animelo (license expired).mra": {
+   "hash": "4edd1e1ee7a76451127a3d032b013773",
+   "size": 1704,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/_alternatives/_Pop%27n%20Music%20Animelo/Pop%27n%20Music%20Animelo%20%28license%20expired%29.mra"
+  },
+  "_Arcade/_alternatives/_Pop'n Music Mickey Tunes/Pop'n Music Mickey Tunes!.mra": {
+   "hash": "3b30c6e4a864ec0354ce2a57122d041f",
+   "size": 1676,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/_alternatives/_Pop%27n%20Music%20Mickey%20Tunes/Pop%27n%20Music%20Mickey%20Tunes%21.mra"
   },
   "_Arcade/_alternatives/_Puzzle Break (set 1)/Puzzle Break (set 2).mra": {
    "hash": "d307f4f291924076f60d4f5bc5788e70",
@@ -1764,10 +1829,15 @@
    "size": 4256824,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Eolith_MiSTer/c5a2aff35ad223f8b74eef874f8f5490c0706b2b/releases/Arcade-Eolith_20261011.rbf"
   },
-  "_Arcade/cores/Firebeat_20261101.rbf": {
+  "_Arcade/cores/Firebeat_popn_20261103.rbf": {
+   "hash": "3323e50739f522023094496182679f81",
+   "size": 4399900,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/Arcade-Firebeat_popn_20261103.rbf"
+  },
+  "_Arcade/cores/Firebeat_ppp_20261101.rbf": {
    "hash": "52d35cfb55b7beb459bfd088532094ff",
    "size": 3785568,
-   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/27ca7ee3d7fa32763b4f0f981a693a64ffbacc14/releases/Arcade-Firebeat_20261101.rbf"
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Firebeat_MiSTer/2eeadfb6f74551bfa7d676241d82176795aae7a4/releases/Arcade-Firebeat_ppp_20261101.rbf"
   },
   "_Arcade/cores/GStream_20261014.rbf": {
    "hash": "e151c4312a2f749ebdaef360554746c1",
@@ -2958,6 +3028,62 @@
    "overwrite": false,
    "path": "pext"
   },
+  "games/mame/popn4.zip": {
+   "hash": "3e0664d66b74810d26a0c496d9ed3995",
+   "size": 77842,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/popn4.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/popn5.zip": {
+   "hash": "7c7fa0473976fd66c185ff42dec16936",
+   "size": 78067,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/popn5.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/popn6.zip": {
+   "hash": "73fbac17a6dd9797d11160ae9cd55cf1",
+   "size": 77728,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/popn6.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/popn7.zip": {
+   "hash": "8b93b2683475bba856a2af22fea96345",
+   "size": 77737,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/popn7.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/popn8.zip": {
+   "hash": "f702d47de34cafa99c36dc9b576d098d",
+   "size": 77749,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/popn8.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/popnanm.zip": {
+   "hash": "34b18681e1c1985f55632bbbaa08032c",
+   "size": 77939,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/popnanm.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/popnanm2.zip": {
+   "hash": "574f38852a62ef2292eea753d292aa47",
+   "size": 78179,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/popnanm2.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/popnmt.zip": {
+   "hash": "46f5f2caaea37dfd92bf96e1b651d152",
+   "size": 77761,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/popnmt.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
   "games/mame/ppd.zip": {
    "hash": "c15112d99603ec59c088325694170d07",
    "size": 45693,
@@ -3533,6 +3659,9 @@
   "_Arcade/_alternatives/_ParaParaParadise": {},
   "_Arcade/_alternatives/_Penfan Girls - Step1. Mild Mind (set 1)": {},
   "_Arcade/_alternatives/_Pirates": {},
+  "_Arcade/_alternatives/_Pop'n Music Animelo": {},
+  "_Arcade/_alternatives/_Pop'n Music Animelo 2": {},
+  "_Arcade/_alternatives/_Pop'n Music Mickey Tunes": {},
   "_Arcade/_alternatives/_Puzzle Break (set 1)": {},
   "_Arcade/_alternatives/_Racin' Force (ver EAC)": {},
   "_Arcade/_alternatives/_Rescue Raider": {},
