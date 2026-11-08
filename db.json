@@ -2,7 +2,7 @@
  "db_id": "ppriest/MiSTer_ppriest",
  "db_url": "https://raw.githubusercontent.com/ppriest/MiSTer_ppriest/db/db.json.zip",
  "v": 1,
- "timestamp": 1793749624,
+ "timestamp": 1794096939,
  "files": {
   "Scripts/arcade_hybridsoundserver.sh": {
    "hash": "04945c999f35edbff296c4808443b57b",
@@ -448,6 +448,11 @@
    "hash": "2210fb7ff214a6bbacd91c8bf2e5c0a1",
    "size": 3354,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-Vamphalf_MiSTer/033d3ffd6c6baa01641149fd24e6e83afd0f16b1/releases/Legend%20of%20Heroes.mra"
+  },
+  "_Arcade/Lemmings (US prototype).mra": {
+   "hash": "07fa10041e90066b12a07b5b6b3095ae",
+   "size": 3222,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Lemmings_MiSTer/c24dd8381416a0a0df7cd76daf2f76b761ba6f32/releases/Lemmings%20%28US%20prototype%29.mra"
   },
   "_Arcade/Lethal Enforcers (ver UAE).mra": {
    "hash": "d35bf52fc7f8a07f89df62ef0ae8c5ed",
@@ -1879,6 +1884,11 @@
    "size": 4616740,
    "url": "https://raw.githubusercontent.com/ppriest/Arcade-KonamiHornet_MiSTer/87f9866be19fa7943a3e4fe10d5ec11967dcd079/releases/Arcade-KonamiHornet_20261027.rbf"
   },
+  "_Arcade/cores/Lemmings_20261108.rbf": {
+   "hash": "0c3c281628b91d1d38341244a8c0e09e",
+   "size": 3880156,
+   "url": "https://raw.githubusercontent.com/ppriest/Arcade-Lemmings_MiSTer/c24dd8381416a0a0df7cd76daf2f76b761ba6f32/releases/Arcade-Lemmings_20261108.rbf"
+  },
   "_Arcade/cores/LethalEnforcers_20261019.rbf": {
    "hash": "8832040da089e40bdc7ca0611bc76a95",
    "size": 3515520,
@@ -2465,6 +2475,13 @@
    "hash": "cc0c10ccb8f4006090d18060dedba3b7",
    "size": 7731481,
    "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/legendoh.zip",
+   "overwrite": false,
+   "path": "pext"
+  },
+  "games/mame/lemmings.zip": {
+   "hash": "b915fbd3ff7822af0b13548007acb830",
+   "size": 581894,
+   "url": "https://archive.org/download/mame-roms-merged_/MAME%20ROMs%20%28merged%29/lemmings.zip",
    "overwrite": false,
    "path": "pext"
   },

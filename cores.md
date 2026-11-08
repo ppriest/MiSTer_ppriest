@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-11-03. 625 files from 20 repositories.
+Updated 2026-11-08. 628 files from 21 repositories.
 
 | Repository | Builds | Latest build | MRAs |
 |---|---|---|---|
@@ -15,6 +15,7 @@ Updated 2026-11-03. 625 files from 20 repositories.
 | [ppriest/Arcade-JalecoMS32_MiSTer](https://github.com/ppriest/Arcade-JalecoMS32_MiSTer) | `Arcade-JalecoMS32F1_20261027.rbf`, `Arcade-JalecoMS32_20261027.rbf` | 2026-10-27 | 20 |
 | [ppriest/Arcade-KonamiGX_MiSTer](https://github.com/ppriest/Arcade-KonamiGX_MiSTer) | `Arcade-KonamiGXT1_20261013.rbf`, `Arcade-KonamiGXT34_20261030.rbf`, `Arcade-KonamiGX_20261028.rbf` | 2026-10-30 | 41 |
 | [ppriest/Arcade-KonamiHornet_MiSTer](https://github.com/ppriest/Arcade-KonamiHornet_MiSTer) | `Arcade-KonamiHornet_20261027.rbf` | 2026-10-27 | 6 |
+| [ppriest/Arcade-Lemmings_MiSTer](https://github.com/ppriest/Arcade-Lemmings_MiSTer) | `Arcade-Lemmings_20261108.rbf` | 2026-11-08 | 1 |
 | [ppriest/Arcade-LethalEnforcers_MiSTer](https://github.com/ppriest/Arcade-LethalEnforcers_MiSTer) | `Arcade-LethalEnforcers_20261019.rbf` | 2026-10-19 | 9 |
 | [ppriest/Arcade-NixPirates_MiSTer](https://github.com/ppriest/Arcade-NixPirates_MiSTer) | `Arcade-NixPirates_20261010.rbf` | 2026-10-10 | 3 |
 | [ppriest/Arcade-Pandora_MiSTer](https://github.com/ppriest/Arcade-Pandora_MiSTer) | `Arcade-Pandora_20261025.rbf` | 2026-10-25 | 24 |
