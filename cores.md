@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-11-08. 628 files from 21 repositories.
+Updated 2026-11-11. 628 files from 21 repositories.
 
 | Repository | Builds | Latest build | MRAs |
 |---|---|---|---|
@@ -13,7 +13,7 @@ Updated 2026-11-08. 628 files from 21 repositories.
 | [ppriest/Arcade-GStream_MiSTer](https://github.com/ppriest/Arcade-GStream_MiSTer) | `Arcade-GStream_20261014.rbf` | 2026-10-14 | 1 |
 | [ppriest/Arcade-HyperNG64_MiSTer](https://github.com/ppriest/Arcade-HyperNG64_MiSTer) | `Arcade-HyperNG64_20261006.rbf` | 2026-10-06 | 7 |
 | [ppriest/Arcade-JalecoMS32_MiSTer](https://github.com/ppriest/Arcade-JalecoMS32_MiSTer) | `Arcade-JalecoMS32F1_20261027.rbf`, `Arcade-JalecoMS32_20261027.rbf` | 2026-10-27 | 20 |
-| [ppriest/Arcade-KonamiGX_MiSTer](https://github.com/ppriest/Arcade-KonamiGX_MiSTer) | `Arcade-KonamiGXT1_20261013.rbf`, `Arcade-KonamiGXT34_20261030.rbf`, `Arcade-KonamiGX_20261028.rbf` | 2026-10-30 | 41 |
+| [ppriest/Arcade-KonamiGX_MiSTer](https://github.com/ppriest/Arcade-KonamiGX_MiSTer) | `Arcade-KonamiGXT1_20261013.rbf`, `Arcade-KonamiGXT34_20261030.rbf`, `Arcade-KonamiGX_20261110.rbf` | 2026-11-10 | 41 |
 | [ppriest/Arcade-KonamiHornet_MiSTer](https://github.com/ppriest/Arcade-KonamiHornet_MiSTer) | `Arcade-KonamiHornet_20261027.rbf` | 2026-10-27 | 6 |
 | [ppriest/Arcade-Lemmings_MiSTer](https://github.com/ppriest/Arcade-Lemmings_MiSTer) | `Arcade-Lemmings_20261108.rbf` | 2026-11-08 | 1 |
 | [ppriest/Arcade-LethalEnforcers_MiSTer](https://github.com/ppriest/Arcade-LethalEnforcers_MiSTer) | `Arcade-LethalEnforcers_20261019.rbf` | 2026-10-19 | 9 |
