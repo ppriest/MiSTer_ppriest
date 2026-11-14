@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-11-14. 636 files from 21 repositories.
+Updated 2026-11-14. 638 files from 21 repositories.
 
 | Repository | Builds | Latest build | MRAs |
 |---|---|---|---|
@@ -32,3 +32,5 @@ Updated 2026-11-14. 636 files from 21 repositories.
 |---|---|
 | [ppriest/MiSTer_ArcadeSoundServer](https://github.com/ppriest/MiSTer_ArcadeSoundServer) | `Scripts/arcade_hybridsoundserver.sh` |
 | [ppriest/MiSTer_ArcadeSoundServer](https://github.com/ppriest/MiSTer_ArcadeSoundServer) | `games/arcsnd/arcsnd` |
+| [ppriest/MiSTer_ArcadeSoundServer](https://github.com/ppriest/MiSTer_ArcadeSoundServer) | `games/arcsnd/arcsnd.ini.example` |
+| [ppriest/MiSTer_ArcadeSoundServer](https://github.com/ppriest/MiSTer_ArcadeSoundServer) | `games/arcsnd/Yamaha XG Sound Set.sf2` |
