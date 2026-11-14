@@ -76,7 +76,9 @@ Repositories without MRAs go to `_Other` unless `categories` says otherwise.
 
 Besides cores, the database installs **arcsnd**, the arcade sound server of
 [`MiSTer_ArcadeSoundServer`](https://github.com/ppriest/MiSTer_ArcadeSoundServer) (`extra_files`): `Scripts/arcade_hybridsoundserver.sh`
-and `games/arcsnd/arcsnd` on the SD card, from that repository's `releases/` folder (listed under "Other files" in `cores.md`).
+`games/arcsnd/arcsnd`, the settings template `games/arcsnd/arcsnd.ini.example` and the SoundFont it names, `games/arcsnd/Yamaha XG Sound Set.sf2`
+(Keyboardmania), on the SD card, from that repository's `releases/` folder (listed under "Other files" in `cores.md`). The start script copies the
+template to `arcsnd.ini` when there is none, so an `arcsnd.ini` you edited is never replaced.
 
 ## Run it locally
 
