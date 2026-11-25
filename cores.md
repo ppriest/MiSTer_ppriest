@@ -1,6 +1,6 @@
 # Cores in this database
 
-Updated 2026-11-22. 649 files from 21 repositories.
+Updated 2026-11-25. 649 files from 21 repositories.
 
 | Repository | Builds | Latest build | MRAs |
 |---|---|---|---|
